@@ -1,0 +1,2501 @@
+Customer ID,Ordered Food,Ordered Time,Delivery Time (mins),Distance (km),Mode of Payment,Delivery Location,Delivery Guy ID,Customer Rating
+CUST0001,"Tea, Smoothie",12:50 PM,86,1.48,Debit Card,Downtown,DEL037,1.2
+CUST0002,"Samosa, Burger, Rice Bowl, Chips",7:33 PM,68,22.3,Cash,Lakeside,DEL064,4
+CUST0003,"Samosa, Juice",3:40 PM,96,24.8,Cash,Sunset Street,DEL049,4.8
+CUST0004,Pasta,7:41 AM,17,7.7,Cash,Tech Valley,DEL017,2
+CUST0005,Tea,2:12 AM,91,5.65,Wallet,Tech Valley,DEL056,2.3
+CUST0006,"Rice Bowl, Chips, Milkshake, Biryani",2:37 PM,21,19.25,Debit Card,Lakeside,DEL027,1.7
+CUST0007,"Coffee, Biryani, Fries",2:43 PM,40,6.7,Credit Card,Uptown,DEL077,3.3
+CUST0008,"Pasta, Rice Bowl, Samosa, Noodles",3:52 AM,87,21.71,UPI,Lakeside,DEL028,1.6
+CUST0009,"Pasta, Coke",1:24 PM,43,3.02,Credit Card,Hillview,DEL037,2.4
+CUST0010,Coke,7:35 PM,91,3.59,Wallet,Old Town,DEL025,3.8
+CUST0011,"Milkshake, Momos",11:18 PM,107,24.49,Credit Card,Lakeside,DEL054,3.2
+CUST0012,"Burger, Noodles, Hotdog, Momos",3:26 AM,84,17.01,Debit Card,Tech Valley,DEL024,2.5
+CUST0013,"Pasta, Burger",12:06 PM,114,21.25,Credit Card,City Center,DEL053,2.7
+CUST0014,"Smoothie, Sandwich",4:13 AM,85,8.45,Cash,Lakeside,DEL019,3.2
+CUST0015,"Momos, Samosa, Milkshake",3:18 PM,58,17.07,Credit Card,Old Town,DEL004,1
+CUST0016,Rice Bowl,1:31 AM,88,15.06,Cash,Downtown,DEL038,1.3
+CUST0017,"Fries, Sandwich",3:36 PM,66,15.28,Cash,Metro Square,DEL034,4.5
+CUST0018,"Milkshake, Noodles, Coffee, Pasta",8:15 AM,104,17.22,UPI,Green Park,DEL031,1.3
+CUST0019,"Tea, Milkshake",7:53 AM,102,14.6,Wallet,Tech Valley,DEL080,3.8
+CUST0020,"Sandwich, Noodles, Milkshake, Wrap",5:48 AM,35,11.01,Wallet,Old Town,DEL058,4.7
+CUST0021,"Burger, Coke, Juice",10:27 AM,27,7.26,Cash,City Center,DEL032,2.1
+CUST0022,"Juice, Milkshake, Pasta",5:13 AM,105,19.33,UPI,Downtown,DEL048,2.5
+CUST0023,"Sandwich, Hotdog, Wrap",11:44 PM,95,6.04,Debit Card,Uptown,DEL075,3.3
+CUST0024,Sandwich,4:42 PM,47,17.46,UPI,Sunset Street,DEL059,4.5
+CUST0025,"Momos, Coffee, Biryani",6:38 PM,90,6.22,Cash,Metro Square,DEL011,4.8
+CUST0026,"Rice Bowl, Burger, Milkshake",9:37 AM,96,15.82,Credit Card,Green Park,DEL002,4
+CUST0027,"Coke, Biryani",6:58 PM,97,18.8,UPI,Riverside,DEL061,1.3
+CUST0028,"Tea, Coffee, Burger",3:39 AM,59,5.86,Debit Card,Metro Square,DEL018,3.7
+CUST0029,Chips,2:51 PM,17,1.97,Debit Card,Downtown,DEL042,2.6
+CUST0030,"Tea, Juice",12:04 AM,50,3.71,UPI,Sunset Street,DEL051,2.9
+CUST0031,"Paneer Tikka, Noodles, Juice",10:52 PM,15,15.35,Debit Card,Lakeside,DEL028,1.2
+CUST0032,"Wrap, Coke",8:10 AM,78,21.31,UPI,Tech Valley,DEL050,1.8
+CUST0033,"Paneer Tikka, Smoothie",1:54 PM,53,1.6,Wallet,Tech Valley,DEL055,4.2
+CUST0034,Burger,9:08 PM,73,18.49,Cash,Uptown,DEL077,2.8
+CUST0035,"Wrap, Rice Bowl",12:13 AM,38,8.86,Credit Card,Old Town,DEL033,2.2
+CUST0036,Sandwich,2:03 PM,37,12.22,Credit Card,Tech Valley,DEL010,2.5
+CUST0037,"Momos, Pizza",4:29 PM,20,23.26,Credit Card,Lakeside,DEL013,4.4
+CUST0038,Fries,5:54 PM,74,8.63,Debit Card,Green Park,DEL072,4
+CUST0039,"Coffee, Biryani, Momos",5:06 AM,116,11.9,Cash,Sunset Street,DEL008,2.1
+CUST0040,"Sandwich, Samosa",2:26 AM,28,0.84,Wallet,City Center,DEL007,1.5
+CUST0041,"Milkshake, Salad",1:53 AM,18,2.5,Wallet,Metro Square,DEL043,2
+CUST0042,"Salad, Juice, Rice Bowl",5:42 AM,36,6.84,UPI,Airport Zone,DEL031,4.7
+CUST0043,"Wrap, Burger, Milkshake, Fries",9:42 PM,43,1.18,Wallet,Metro Square,DEL061,3.3
+CUST0044,"Milkshake, Noodles, Rice Bowl, Chips",12:40 AM,53,15.97,Credit Card,Hillview,DEL046,3.1
+CUST0045,"Rice Bowl, Coke",9:40 PM,77,10.95,UPI,Downtown,DEL078,3.4
+CUST0046,"Coffee, Sandwich",8:06 AM,109,13.93,Cash,Hillview,DEL077,2.5
+CUST0047,Momos,5:51 PM,91,4.78,Wallet,Riverside,DEL006,4.2
+CUST0048,"Biryani, Salad, Noodles, Fries",2:15 AM,24,7.75,Debit Card,Hillview,DEL001,3.1
+CUST0049,"Pizza, Noodles",11:43 AM,60,16.76,Wallet,Sunset Street,DEL033,1.5
+CUST0050,"Salad, Smoothie, Rice Bowl, Coke",10:48 PM,22,24.15,Cash,Hillview,DEL065,1.5
+CUST0051,"Hotdog, Chips",7:36 PM,92,1.74,Debit Card,Uptown,DEL080,3.1
+CUST0052,"Paneer Tikka, Momos",4:38 PM,58,22.31,Debit Card,Airport Zone,DEL049,4.7
+CUST0053,Noodles,4:56 PM,79,14.63,Debit Card,City Center,DEL039,2.2
+CUST0054,"Noodles, Wrap, Coke, Coffee",6:28 PM,65,14.32,Credit Card,Green Park,DEL051,4.5
+CUST0055,"Coffee, Coke",4:57 AM,85,12.76,Wallet,Riverside,DEL048,4.1
+CUST0056,Hotdog,3:05 AM,60,2.2,Cash,Uptown,DEL017,2
+CUST0057,"Sandwich, Salad",2:01 PM,46,2.7,Wallet,Metro Square,DEL072,1.1
+CUST0058,"Coffee, Sandwich",11:53 PM,26,15.22,UPI,Riverside,DEL006,1.4
+CUST0059,"Coke, Samosa",5:32 PM,67,8.85,UPI,Sunset Street,DEL075,3.9
+CUST0060,"Sandwich, Pasta, Momos",8:37 PM,96,22.97,Wallet,Metro Square,DEL023,1.8
+CUST0061,Chips,9:59 AM,99,10.46,Wallet,Lakeside,DEL034,2.5
+CUST0062,"Wrap, Rice Bowl, Juice",9:32 PM,38,4.01,Credit Card,Green Park,DEL022,3
+CUST0063,"Fries, Salad, Coke",12:52 AM,42,18.01,Wallet,Tech Valley,DEL065,3.9
+CUST0064,"Milkshake, Rice Bowl",2:34 AM,69,7.69,Wallet,Uptown,DEL064,1.5
+CUST0065,"Tea, Sandwich, Chips",12:57 PM,100,13.37,Debit Card,Downtown,DEL044,2.6
+CUST0066,"Pasta, Coke, Hotdog",8:19 AM,98,17.6,Credit Card,Downtown,DEL060,2.9
+CUST0067,"Chips, Salad, Paneer Tikka",5:08 PM,64,22.56,Credit Card,Sunset Street,DEL017,3.2
+CUST0068,Smoothie,5:48 AM,19,19.91,Credit Card,Sunset Street,DEL012,4.3
+CUST0069,"Wrap, Rice Bowl, Salad",3:28 AM,56,17.07,Cash,Sunset Street,DEL041,1.7
+CUST0070,"Pizza, Pasta",11:33 AM,32,17.15,UPI,Riverside,DEL068,4.2
+CUST0071,"Coke, Momos, Paneer Tikka",4:47 PM,94,23.68,Credit Card,Metro Square,DEL056,3.8
+CUST0072,"Samosa, Pizza, Pasta, Milkshake",7:36 AM,30,7.75,Wallet,City Center,DEL019,3.2
+CUST0073,"Samosa, Biryani, Fries",2:32 PM,116,0.53,Debit Card,Uptown,DEL034,3.8
+CUST0074,"Hotdog, Pizza, Wrap, Paneer Tikka",11:28 AM,22,7.16,UPI,Sunset Street,DEL015,2.6
+CUST0075,"Paneer Tikka, Biryani",12:34 AM,110,5.84,Debit Card,Green Park,DEL041,1.6
+CUST0076,"Wrap, Coffee",5:03 AM,42,16.71,Cash,Downtown,DEL006,3.7
+CUST0077,Coffee,12:16 AM,33,16.03,Debit Card,Riverside,DEL017,3.1
+CUST0078,"Hotdog, Smoothie",5:02 PM,117,15.04,Credit Card,Tech Valley,DEL064,3.6
+CUST0079,"Fries, Samosa",1:30 PM,20,0.9,UPI,Uptown,DEL036,2.4
+CUST0080,Milkshake,10:30 AM,26,18.36,Cash,Lakeside,DEL047,4.6
+CUST0081,"Pizza, Smoothie",9:05 PM,77,8.43,Debit Card,Metro Square,DEL056,3.3
+CUST0082,Noodles,5:53 AM,56,16.79,Wallet,City Center,DEL037,1.3
+CUST0083,"Chips, Rice Bowl",6:24 AM,34,14.14,Wallet,Downtown,DEL034,2.8
+CUST0084,Smoothie,6:05 PM,103,8.9,Cash,City Center,DEL079,4
+CUST0085,"Chips, Burger, Wrap, Sandwich",9:38 AM,82,3.8,Cash,Airport Zone,DEL034,4.2
+CUST0086,"Pasta, Fries",12:05 PM,30,2.81,Debit Card,Green Park,DEL067,3
+CUST0087,"Samosa, Rice Bowl, Chips",8:42 PM,93,20.87,Credit Card,Lakeside,DEL041,4.6
+CUST0088,Burger,2:59 AM,92,23,Cash,Airport Zone,DEL056,2.1
+CUST0089,"Fries, Momos, Samosa",5:32 AM,92,16.42,UPI,Lakeside,DEL022,2.6
+CUST0090,"Paneer Tikka, Pizza, Hotdog, Coffee",3:43 PM,21,3.03,Credit Card,Lakeside,DEL041,4.6
+CUST0091,"Biryani, Samosa, Pasta",6:17 PM,46,10.35,UPI,Airport Zone,DEL063,4.6
+CUST0092,Salad,5:38 AM,51,18.36,Wallet,Uptown,DEL020,3.7
+CUST0093,"Wrap, Salad, Burger",9:27 PM,26,19.61,Wallet,Lakeside,DEL072,4.4
+CUST0094,Sandwich,5:57 PM,110,3.4,Wallet,Riverside,DEL057,1.4
+CUST0095,Salad,4:09 PM,57,0.5,Cash,Old Town,DEL007,4.5
+CUST0096,"Burger, Noodles, Milkshake",2:46 PM,112,17.95,Wallet,Sunset Street,DEL025,2.3
+CUST0097,"Chips, Pasta",12:37 PM,37,9.24,Debit Card,Riverside,DEL020,1.7
+CUST0098,Pasta,9:59 PM,50,6.73,UPI,Riverside,DEL007,2
+CUST0099,"Smoothie, Samosa, Juice, Coffee",3:42 PM,108,0.82,Wallet,Sunset Street,DEL030,2.7
+CUST0100,"Smoothie, Burger",8:03 PM,56,13.74,Debit Card,Downtown,DEL024,2
+CUST0101,"Hotdog, Burger, Pasta, Rice Bowl",8:02 AM,27,21.35,Debit Card,Riverside,DEL005,2.3
+CUST0102,"Juice, Fries, Tea",6:22 PM,87,23.96,Credit Card,Hillview,DEL061,1.5
+CUST0103,Juice,7:45 AM,108,14.36,Wallet,Airport Zone,DEL034,2.2
+CUST0104,Sandwich,3:16 AM,117,13.1,UPI,City Center,DEL021,3.3
+CUST0105,"Hotdog, Milkshake",2:50 AM,114,2.58,UPI,Hillview,DEL060,2.8
+CUST0106,"Rice Bowl, Hotdog, Milkshake",6:27 PM,80,13.95,UPI,Hillview,DEL056,2.4
+CUST0107,"Coffee, Rice Bowl",3:22 AM,114,9.81,Debit Card,Hillview,DEL015,4
+CUST0108,"Juice, Burger, Coke",1:02 PM,22,15.37,Credit Card,Sunset Street,DEL064,4.6
+CUST0109,"Juice, Coke, Fries, Chips",3:57 PM,91,10.02,Debit Card,Hillview,DEL006,4
+CUST0110,"Wrap, Samosa",5:41 PM,110,6.39,Debit Card,Old Town,DEL057,2.3
+CUST0111,"Samosa, Smoothie, Pizza",7:11 AM,22,2.83,Cash,Lakeside,DEL046,4
+CUST0112,"Fries, Burger, Paneer Tikka, Milkshake",3:18 PM,109,8.22,Credit Card,Downtown,DEL072,1.6
+CUST0113,"Samosa, Fries, Tea",9:57 PM,40,2.87,Cash,Hillview,DEL063,1.5
+CUST0114,"Hotdog, Smoothie",10:35 PM,11,4.83,UPI,Sunset Street,DEL059,2.4
+CUST0115,"Tea, Biryani, Milkshake",5:14 PM,25,24.69,Cash,Tech Valley,DEL064,4.2
+CUST0116,"Milkshake, Rice Bowl, Tea, Samosa",10:46 AM,18,11.38,Wallet,Downtown,DEL015,2
+CUST0117,"Smoothie, Milkshake",12:22 PM,82,13.53,Cash,Sunset Street,DEL019,1.3
+CUST0118,"Salad, Wrap, Biryani, Rice Bowl",3:49 AM,47,21.9,Wallet,Airport Zone,DEL016,1.5
+CUST0119,"Smoothie, Fries",2:37 PM,84,24.89,Cash,Old Town,DEL045,4.4
+CUST0120,"Noodles, Paneer Tikka, Pasta, Fries",9:42 PM,63,14.78,Credit Card,Tech Valley,DEL012,3.5
+CUST0121,"Juice, Chips",8:25 PM,65,20.41,UPI,City Center,DEL027,2
+CUST0122,"Chips, Juice",5:18 AM,95,8.51,Wallet,Riverside,DEL037,3.2
+CUST0123,"Samosa, Burger, Sandwich, Juice",8:02 PM,106,7.99,Debit Card,Green Park,DEL024,3.1
+CUST0124,"Samosa, Coffee, Pizza",7:59 PM,109,10.37,Cash,Uptown,DEL022,3.6
+CUST0125,"Salad, Milkshake",1:44 PM,118,16.98,UPI,Downtown,DEL066,1.9
+CUST0126,"Momos, Pasta",8:18 PM,96,17.21,Wallet,Airport Zone,DEL035,4.5
+CUST0127,Samosa,7:24 PM,54,8.22,UPI,Sunset Street,DEL073,2.2
+CUST0128,Samosa,12:34 PM,118,3.76,Debit Card,Tech Valley,DEL075,3.8
+CUST0129,"Chips, Milkshake, Juice, Sandwich",7:46 AM,43,15.99,UPI,Green Park,DEL028,1.1
+CUST0130,Paneer Tikka,8:59 AM,18,3.64,Credit Card,Uptown,DEL075,2.5
+CUST0131,Biryani,7:27 PM,97,14.67,Credit Card,Lakeside,DEL001,2.4
+CUST0132,"Chips, Samosa",12:17 AM,17,17.49,UPI,Uptown,DEL068,3.2
+CUST0133,"Samosa, Fries, Pasta",2:32 PM,16,17.66,Cash,Sunset Street,DEL074,1.3
+CUST0134,Chips,9:09 AM,45,18.96,Credit Card,Metro Square,DEL024,4.2
+CUST0135,"Samosa, Hotdog, Biryani, Wrap",2:28 AM,27,21.89,Cash,Downtown,DEL054,1.9
+CUST0136,"Biryani, Milkshake, Tea",12:09 AM,12,12.75,UPI,Airport Zone,DEL010,3.7
+CUST0137,"Wrap, Chips, Coffee, Burger",5:21 PM,37,18.39,UPI,Old Town,DEL032,4.2
+CUST0138,"Sandwich, Wrap",3:24 AM,79,15.67,Cash,Green Park,DEL064,3.2
+CUST0139,"Noodles, Hotdog",4:10 AM,117,5.07,Wallet,Uptown,DEL013,4
+CUST0140,Smoothie,11:37 AM,53,1.13,Cash,Sunset Street,DEL043,3.6
+CUST0141,"Pizza, Salad, Coke, Noodles",7:52 AM,30,7.47,Credit Card,Airport Zone,DEL004,2.4
+CUST0142,"Pasta, Milkshake, Hotdog",8:26 PM,37,11.35,Debit Card,Riverside,DEL037,4.2
+CUST0143,"Fries, Noodles, Smoothie",8:34 AM,113,15.62,Debit Card,Metro Square,DEL016,2.2
+CUST0144,"Momos, Smoothie",5:08 PM,63,21.32,UPI,City Center,DEL051,3.3
+CUST0145,Pasta,12:32 AM,63,5.31,Cash,Old Town,DEL048,4
+CUST0146,"Hotdog, Salad, Fries, Pizza",6:50 PM,74,3.58,Credit Card,Lakeside,DEL076,2.5
+CUST0147,"Tea, Smoothie, Rice Bowl, Hotdog",7:17 AM,109,24.11,Credit Card,Green Park,DEL014,2.2
+CUST0148,Juice,5:25 PM,30,3.15,Cash,Uptown,DEL042,2.8
+CUST0149,"Momos, Coke, Burger, Paneer Tikka",5:44 PM,116,12.22,Cash,Hillview,DEL020,4.3
+CUST0150,Juice,4:14 PM,108,14.85,Cash,Green Park,DEL004,4.7
+CUST0151,"Chips, Pasta, Coffee",7:02 PM,22,13.76,Debit Card,Tech Valley,DEL011,3.2
+CUST0152,"Salad, Burger",1:08 PM,66,2.61,Wallet,Riverside,DEL059,3.6
+CUST0153,Momos,8:25 AM,58,1.9,Credit Card,Hillview,DEL062,4.6
+CUST0154,Coffee,3:09 PM,63,3.08,Cash,Downtown,DEL059,1.4
+CUST0155,"Salad, Momos",4:28 PM,19,14.85,Wallet,Lakeside,DEL035,1.9
+CUST0156,Pasta,7:36 PM,62,13.84,UPI,Uptown,DEL077,3.8
+CUST0157,"Fries, Paneer Tikka, Rice Bowl",2:27 AM,53,6.23,UPI,Old Town,DEL001,4.3
+CUST0158,Paneer Tikka,12:39 AM,56,16.13,Credit Card,Green Park,DEL043,4.4
+CUST0159,"Sandwich, Wrap, Tea, Fries",2:05 AM,62,20.59,Credit Card,Old Town,DEL006,2.7
+CUST0160,"Chips, Juice, Coffee",9:04 AM,83,1.52,UPI,Downtown,DEL080,1.4
+CUST0161,"Noodles, Momos, Tea, Smoothie",6:53 AM,55,12.7,Wallet,Green Park,DEL058,2.8
+CUST0162,"Samosa, Burger, Tea",3:37 AM,22,17.39,Cash,Green Park,DEL042,1.9
+CUST0163,"Noodles, Burger, Wrap, Samosa",11:15 PM,46,6.68,Cash,Old Town,DEL073,2.2
+CUST0164,Paneer Tikka,11:42 AM,111,8.04,Wallet,Airport Zone,DEL017,4.1
+CUST0165,"Biryani, Paneer Tikka, Sandwich, Coffee",7:40 PM,33,15.53,Debit Card,Uptown,DEL028,1.3
+CUST0166,"Samosa, Pizza",5:52 AM,11,22.5,Wallet,Airport Zone,DEL007,4.3
+CUST0167,Wrap,6:45 AM,95,20.34,Credit Card,Airport Zone,DEL037,2.7
+CUST0168,Pasta,1:06 PM,90,14.79,Cash,Uptown,DEL042,3.4
+CUST0169,"Wrap, Samosa",7:13 AM,109,18.39,UPI,Green Park,DEL008,1.4
+CUST0170,"Noodles, Wrap",3:46 PM,23,9.44,UPI,Sunset Street,DEL010,2.3
+CUST0171,"Pizza, Samosa, Tea",1:57 PM,19,16.2,Credit Card,Hillview,DEL071,1.4
+CUST0172,"Juice, Rice Bowl, Milkshake",12:21 AM,44,11.92,Wallet,Hillview,DEL078,4.8
+CUST0173,Smoothie,5:15 AM,34,5.15,Debit Card,Airport Zone,DEL049,4.2
+CUST0174,"Momos, Rice Bowl",1:58 AM,12,17.69,Cash,Lakeside,DEL012,2.8
+CUST0175,Samosa,8:20 AM,111,14.13,Wallet,Tech Valley,DEL052,1.9
+CUST0176,"Burger, Chips, Samosa, Coffee",5:32 PM,26,9.29,Wallet,Metro Square,DEL033,4.7
+CUST0177,Biryani,3:25 AM,21,22.83,Debit Card,Green Park,DEL023,2.4
+CUST0178,Pizza,10:49 AM,63,1.01,UPI,Riverside,DEL031,1.6
+CUST0179,"Hotdog, Coffee, Wrap",10:01 PM,33,8.24,Debit Card,Lakeside,DEL052,3.3
+CUST0180,Coke,5:23 AM,38,1.89,Credit Card,Metro Square,DEL012,4.8
+CUST0181,"Juice, Fries, Rice Bowl",8:48 AM,52,19.28,Wallet,Uptown,DEL003,1
+CUST0182,"Pizza, Coke",9:31 AM,34,17.7,Debit Card,Tech Valley,DEL027,2
+CUST0183,"Coke, Pizza, Samosa, Burger",4:16 AM,109,8.62,UPI,Downtown,DEL021,4.8
+CUST0184,"Sandwich, Juice, Coffee, Smoothie",3:39 AM,69,17.05,UPI,Metro Square,DEL050,1.7
+CUST0185,"Rice Bowl, Samosa, Pizza, Juice",3:27 AM,99,10.2,UPI,Sunset Street,DEL052,1.5
+CUST0186,"Juice, Fries, Milkshake",10:41 AM,111,19.03,Credit Card,Sunset Street,DEL037,3.3
+CUST0187,"Coke, Sandwich, Rice Bowl, Pasta",1:55 AM,74,11.63,Cash,Downtown,DEL020,4.4
+CUST0188,Samosa,6:44 AM,93,10.6,Debit Card,Downtown,DEL016,2.9
+CUST0189,Coffee,9:17 AM,37,23.4,Credit Card,Hillview,DEL039,5
+CUST0190,"Hotdog, Paneer Tikka, Smoothie, Fries",12:50 AM,25,6.65,UPI,Downtown,DEL063,3.7
+CUST0191,"Smoothie, Pizza",6:26 PM,56,3.45,UPI,Lakeside,DEL056,1.3
+CUST0192,Juice,12:54 PM,90,14.82,Credit Card,Riverside,DEL040,5
+CUST0193,"Pizza, Salad, Wrap, Burger",2:30 AM,113,24.25,Cash,Downtown,DEL078,2.6
+CUST0194,Hotdog,11:30 PM,101,9.76,Credit Card,Airport Zone,DEL017,2.1
+CUST0195,Smoothie,11:04 PM,67,2.02,UPI,Hillview,DEL046,3.2
+CUST0196,"Momos, Smoothie, Tea, Fries",4:08 PM,85,8.81,UPI,Green Park,DEL013,2.2
+CUST0197,"Tea, Rice Bowl, Biryani",10:16 PM,36,12.9,Debit Card,Hillview,DEL048,1.3
+CUST0198,"Biryani, Burger",7:34 PM,62,4.47,Cash,Uptown,DEL066,1
+CUST0199,"Pizza, Sandwich, Salad",6:48 PM,51,16.62,Cash,Old Town,DEL026,2.8
+CUST0200,"Biryani, Samosa",5:40 PM,68,24.94,Wallet,Hillview,DEL063,4.3
+CUST0201,"Tea, Paneer Tikka",1:34 AM,56,11.57,Wallet,Downtown,DEL058,3.3
+CUST0202,Rice Bowl,5:58 PM,103,9.19,Cash,Riverside,DEL050,5
+CUST0203,"Sandwich, Juice, Milkshake, Biryani",11:00 PM,114,10.32,Cash,Lakeside,DEL061,2.1
+CUST0204,"Sandwich, Momos",12:29 PM,43,3.32,UPI,Airport Zone,DEL035,2.1
+CUST0205,Milkshake,5:09 PM,46,22.14,Credit Card,Old Town,DEL073,1.6
+CUST0206,"Coke, Hotdog, Fries",3:17 AM,15,10.66,Debit Card,City Center,DEL077,1.7
+CUST0207,"Fries, Coke",2:28 AM,16,9.99,Wallet,City Center,DEL055,2.1
+CUST0208,"Fries, Coffee, Pizza, Milkshake",8:26 AM,105,16.66,Debit Card,Uptown,DEL012,4.2
+CUST0209,"Coke, Hotdog",4:54 PM,105,11.33,Cash,Old Town,DEL055,4.6
+CUST0210,Fries,3:50 AM,34,16.38,Debit Card,Downtown,DEL048,4.9
+CUST0211,"Tea, Coffee, Hotdog, Momos",7:53 AM,42,2.01,UPI,Metro Square,DEL079,1.9
+CUST0212,"Milkshake, Biryani, Rice Bowl",10:39 AM,64,20.44,Cash,Riverside,DEL024,4.5
+CUST0213,"Milkshake, Juice",5:58 AM,67,23.54,Debit Card,Lakeside,DEL056,2.3
+CUST0214,"Chips, Salad, Momos, Fries",12:40 PM,16,16.39,Cash,Tech Valley,DEL055,1.5
+CUST0215,"Tea, Wrap",12:16 PM,66,23.89,UPI,Tech Valley,DEL012,4.5
+CUST0216,Samosa,5:27 PM,21,4.21,Wallet,City Center,DEL006,3.5
+CUST0217,"Samosa, Biryani, Tea, Burger",7:42 PM,25,12.2,Debit Card,Airport Zone,DEL066,1.7
+CUST0218,"Coke, Noodles, Chips, Pizza",5:39 PM,89,15.24,Debit Card,Airport Zone,DEL044,2.7
+CUST0219,"Wrap, Pizza",7:44 AM,52,14.75,UPI,Downtown,DEL060,2.1
+CUST0220,Sandwich,6:25 PM,109,10.34,Cash,Riverside,DEL029,3.9
+CUST0221,"Momos, Milkshake",10:39 PM,86,8.78,UPI,Old Town,DEL020,2.8
+CUST0222,"Rice Bowl, Smoothie",5:28 PM,16,3.61,Cash,Green Park,DEL064,5
+CUST0223,"Juice, Momos",9:59 AM,109,10.1,Cash,Old Town,DEL068,1.2
+CUST0224,"Paneer Tikka, Chips",4:24 PM,60,4.49,Wallet,Old Town,DEL068,2.4
+CUST0225,"Juice, Chips, Coffee",6:19 PM,82,18.49,Credit Card,Tech Valley,DEL011,2.9
+CUST0226,"Noodles, Burger, Biryani",10:57 PM,41,5.62,UPI,Metro Square,DEL038,3
+CUST0227,"Milkshake, Wrap, Juice, Paneer Tikka",2:20 AM,84,1.93,Debit Card,Hillview,DEL060,2.3
+CUST0228,"Noodles, Tea, Burger, Hotdog",10:37 AM,17,14.03,Debit Card,Metro Square,DEL056,3.9
+CUST0229,"Milkshake, Juice, Hotdog, Salad",8:20 AM,106,15.08,UPI,Airport Zone,DEL011,4.5
+CUST0230,"Salad, Milkshake",9:03 PM,96,21.86,Cash,Airport Zone,DEL062,4.8
+CUST0231,"Coffee, Milkshake, Wrap, Burger",3:07 AM,98,14.64,Wallet,Downtown,DEL039,4.2
+CUST0232,Burger,7:08 PM,81,8.96,Credit Card,Metro Square,DEL020,4.4
+CUST0233,Wrap,11:38 PM,54,20.17,UPI,Sunset Street,DEL017,3.2
+CUST0234,Rice Bowl,9:11 PM,95,13.74,Debit Card,Old Town,DEL039,4.3
+CUST0235,"Burger, Biryani, Salad, Wrap",1:54 AM,68,2.44,Wallet,Old Town,DEL032,2.2
+CUST0236,"Noodles, Paneer Tikka, Sandwich, Coffee",9:49 PM,13,14.36,Wallet,Downtown,DEL067,2.6
+CUST0237,"Momos, Pasta, Pizza, Salad",3:23 PM,113,22.75,Cash,City Center,DEL055,2.3
+CUST0238,"Burger, Momos, Biryani, Wrap",7:44 AM,76,10.21,Cash,Tech Valley,DEL038,2.9
+CUST0239,"Pizza, Milkshake, Smoothie",12:56 PM,38,7.76,Credit Card,Green Park,DEL073,2.1
+CUST0240,Juice,10:02 PM,114,4.02,Debit Card,City Center,DEL007,4.8
+CUST0241,"Noodles, Coffee",11:07 AM,38,4.21,Debit Card,Lakeside,DEL071,2.3
+CUST0242,"Coke, Coffee, Milkshake",2:30 AM,107,11.1,Wallet,Airport Zone,DEL010,1.4
+CUST0243,"Chips, Milkshake",2:27 AM,107,15.09,Credit Card,Green Park,DEL006,3.1
+CUST0244,Chips,9:46 PM,37,2.48,Cash,Uptown,DEL066,1.2
+CUST0245,Samosa,1:14 AM,86,23.52,Cash,Tech Valley,DEL014,1.4
+CUST0246,"Noodles, Rice Bowl, Tea",7:34 PM,88,19,Cash,Hillview,DEL066,1.9
+CUST0247,"Hotdog, Paneer Tikka, Milkshake",5:51 PM,96,14.87,Debit Card,Airport Zone,DEL055,2.9
+CUST0248,"Salad, Smoothie",12:13 PM,53,20.8,UPI,Tech Valley,DEL053,2.7
+CUST0249,"Rice Bowl, Smoothie",1:20 PM,99,2.46,UPI,Airport Zone,DEL013,4.2
+CUST0250,Paneer Tikka,7:26 AM,13,12.18,Credit Card,Lakeside,DEL060,4
+CUST0251,"Samosa, Smoothie, Hotdog, Rice Bowl",10:41 PM,99,15.94,Wallet,Riverside,DEL073,2.7
+CUST0252,"Noodles, Hotdog, Milkshake",4:06 AM,113,20.8,Cash,Riverside,DEL033,2.3
+CUST0253,"Burger, Samosa",4:37 PM,18,19.7,Cash,Airport Zone,DEL046,2.3
+CUST0254,Wrap,8:20 AM,14,7.29,Debit Card,Riverside,DEL033,4.1
+CUST0255,"Wrap, Coke, Salad, Hotdog",11:38 AM,65,23.55,UPI,Green Park,DEL075,1.2
+CUST0256,"Momos, Fries, Rice Bowl",1:24 AM,105,3.55,Wallet,Airport Zone,DEL011,1.1
+CUST0257,Milkshake,3:00 PM,93,21.94,Debit Card,Tech Valley,DEL065,4.2
+CUST0258,Wrap,1:01 AM,59,24.29,Cash,City Center,DEL003,2.9
+CUST0259,"Chips, Rice Bowl",7:41 PM,84,4.84,UPI,Riverside,DEL015,1.5
+CUST0260,Paneer Tikka,8:36 PM,24,18.19,Cash,Downtown,DEL060,1.9
+CUST0261,"Chips, Samosa, Pizza, Juice",9:51 AM,41,1.49,Debit Card,Riverside,DEL023,4.7
+CUST0262,"Pasta, Wrap",4:19 AM,37,10.43,UPI,Lakeside,DEL024,4.4
+CUST0263,"Momos, Salad, Pasta",4:37 PM,31,13.15,UPI,Sunset Street,DEL051,3.8
+CUST0264,"Coke, Sandwich, Wrap, Fries",8:11 AM,114,14.73,Cash,Hillview,DEL006,2.9
+CUST0265,"Wrap, Chips",1:18 AM,26,23.43,Cash,Hillview,DEL011,3.1
+CUST0266,Burger,12:24 PM,68,16.97,UPI,Downtown,DEL054,4.9
+CUST0267,"Rice Bowl, Burger, Wrap, Samosa",9:55 PM,99,12.29,Wallet,Old Town,DEL039,4.9
+CUST0268,"Coke, Hotdog, Fries",8:50 AM,117,20.34,Debit Card,Old Town,DEL041,1.9
+CUST0269,Biryani,11:55 PM,80,23.79,Wallet,Downtown,DEL076,4.2
+CUST0270,"Momos, Smoothie, Burger",5:39 PM,115,1.04,Cash,Tech Valley,DEL059,1.8
+CUST0271,"Chips, Milkshake, Fries, Biryani",1:27 PM,66,24.57,Wallet,Sunset Street,DEL058,1.9
+CUST0272,Momos,3:26 PM,35,2.61,Debit Card,Downtown,DEL080,3.7
+CUST0273,"Smoothie, Tea, Pizza, Hotdog",1:20 AM,34,20.45,Cash,Old Town,DEL034,2.6
+CUST0274,"Coffee, Chips",1:16 PM,19,7.37,Debit Card,Airport Zone,DEL044,4.7
+CUST0275,"Paneer Tikka, Rice Bowl",5:00 AM,54,3.74,Debit Card,Lakeside,DEL024,1.4
+CUST0276,Burger,9:20 AM,92,11.28,UPI,Old Town,DEL028,3
+CUST0277,"Juice, Biryani, Salad",1:55 PM,20,16.28,UPI,Sunset Street,DEL024,4.7
+CUST0278,Hotdog,11:31 AM,86,9.83,Cash,Downtown,DEL011,4.6
+CUST0279,"Burger, Momos, Chips",2:21 PM,62,1.84,Cash,Lakeside,DEL078,1.6
+CUST0280,Noodles,5:57 PM,81,15.19,Credit Card,City Center,DEL034,2.5
+CUST0281,"Momos, Juice",12:36 AM,113,22.61,Credit Card,Downtown,DEL014,3.5
+CUST0282,Momos,2:50 PM,77,9.89,Credit Card,Metro Square,DEL056,1.6
+CUST0283,Tea,9:49 AM,104,5.8,Debit Card,Airport Zone,DEL069,4.9
+CUST0284,"Pasta, Fries",10:14 AM,37,11.34,Cash,Uptown,DEL003,4.7
+CUST0285,"Coke, Wrap",6:50 AM,84,1.68,Debit Card,Lakeside,DEL001,1.7
+CUST0286,"Momos, Fries, Juice, Salad",4:51 PM,116,20.6,Cash,Airport Zone,DEL051,1.5
+CUST0287,"Pizza, Biryani, Milkshake",7:01 PM,74,20.75,Wallet,Lakeside,DEL015,1.3
+CUST0288,"Momos, Coke, Hotdog, Wrap",1:08 PM,58,14.91,UPI,Uptown,DEL002,4.6
+CUST0289,"Smoothie, Burger, Paneer Tikka",7:54 AM,56,9.15,Wallet,Old Town,DEL022,1.8
+CUST0290,"Hotdog, Momos, Biryani",11:16 AM,61,20.09,Cash,Airport Zone,DEL062,2.7
+CUST0291,"Pizza, Milkshake, Coke, Tea",12:56 PM,111,14.09,Debit Card,Airport Zone,DEL059,2.8
+CUST0292,Rice Bowl,12:50 PM,97,20.74,Cash,Metro Square,DEL052,3.4
+CUST0293,"Milkshake, Momos, Paneer Tikka, Juice",4:54 AM,63,15.97,Debit Card,Hillview,DEL078,1.3
+CUST0294,"Wrap, Fries, Pizza",8:11 PM,69,19.72,Credit Card,Riverside,DEL063,1.9
+CUST0295,"Sandwich, Noodles",1:21 PM,66,15.16,Credit Card,Uptown,DEL039,4.7
+CUST0296,"Paneer Tikka, Milkshake, Coffee",10:18 PM,56,10.65,UPI,Uptown,DEL080,4.6
+CUST0297,"Smoothie, Chips, Burger",1:06 AM,40,23.97,Debit Card,Riverside,DEL079,4.1
+CUST0298,"Tea, Milkshake",12:40 PM,114,13.76,Cash,Metro Square,DEL047,1.1
+CUST0299,"Juice, Pasta",10:38 AM,55,15.32,UPI,City Center,DEL051,2.3
+CUST0300,Momos,7:22 PM,35,5.9,UPI,Tech Valley,DEL039,3.5
+CUST0301,"Juice, Samosa, Tea",7:59 AM,14,15.83,Credit Card,Tech Valley,DEL012,2.1
+CUST0302,Chips,1:00 AM,93,14.5,Credit Card,Uptown,DEL017,4.6
+CUST0303,"Chips, Tea, Momos",10:59 PM,61,5.03,UPI,Uptown,DEL018,3.5
+CUST0304,"Paneer Tikka, Tea, Pasta, Salad",9:27 PM,114,1.96,UPI,Green Park,DEL002,1.3
+CUST0305,Smoothie,5:54 AM,84,15.31,Credit Card,Old Town,DEL025,4.6
+CUST0306,"Rice Bowl, Momos, Noodles",5:07 AM,63,19.21,UPI,Hillview,DEL015,4.8
+CUST0307,"Burger, Salad",5:09 AM,42,13.32,Cash,Old Town,DEL003,1.3
+CUST0308,"Rice Bowl, Fries, Paneer Tikka",9:11 AM,59,6.06,Debit Card,Green Park,DEL025,3.1
+CUST0309,"Milkshake, Tea, Rice Bowl, Momos",2:27 PM,47,16.83,Cash,Old Town,DEL004,2.2
+CUST0310,"Sandwich, Biryani",3:44 PM,36,2.46,UPI,Downtown,DEL027,2.6
+CUST0311,"Sandwich, Coke, Milkshake, Burger",9:30 PM,107,11.32,Credit Card,Green Park,DEL062,1.7
+CUST0312,Pizza,9:25 AM,24,4.5,UPI,City Center,DEL019,3.3
+CUST0313,"Rice Bowl, Tea",4:48 AM,105,5.02,UPI,Tech Valley,DEL031,4.8
+CUST0314,"Pasta, Paneer Tikka, Chips, Coffee",10:39 AM,70,5.46,Wallet,Riverside,DEL056,3
+CUST0315,Wrap,2:24 AM,30,9.97,Credit Card,City Center,DEL069,1.3
+CUST0316,Pizza,12:06 AM,55,1.75,Cash,Metro Square,DEL025,3.5
+CUST0317,"Samosa, Smoothie, Sandwich",2:11 AM,78,10.25,UPI,Uptown,DEL012,2.4
+CUST0318,Tea,8:45 AM,15,13.04,Cash,Uptown,DEL039,4.4
+CUST0319,Fries,3:05 AM,47,12.34,Wallet,Lakeside,DEL060,2.7
+CUST0320,"Burger, Milkshake, Coffee, Coke",11:58 AM,71,9.88,Credit Card,Metro Square,DEL019,1.8
+CUST0321,"Juice, Smoothie, Fries",4:52 PM,95,21.06,Credit Card,Tech Valley,DEL061,1.8
+CUST0322,"Biryani, Rice Bowl, Sandwich",8:34 AM,71,4.06,Debit Card,Downtown,DEL055,4.1
+CUST0323,"Coffee, Pizza, Biryani, Burger",4:40 PM,91,12.89,Debit Card,Hillview,DEL003,2.1
+CUST0324,"Rice Bowl, Burger, Chips",12:03 PM,87,2.02,UPI,Sunset Street,DEL015,4.1
+CUST0325,"Sandwich, Chips",12:48 AM,83,2.24,Debit Card,Metro Square,DEL022,1.8
+CUST0326,"Burger, Tea",5:00 PM,55,14.56,Wallet,Metro Square,DEL020,2.3
+CUST0327,"Pasta, Hotdog, Fries, Momos",3:30 AM,22,14.37,Cash,City Center,DEL057,2.9
+CUST0328,"Salad, Chips, Sandwich",6:33 PM,104,22.01,UPI,City Center,DEL063,4.8
+CUST0329,"Sandwich, Burger, Wrap",12:30 PM,103,14.17,UPI,Downtown,DEL061,4.7
+CUST0330,"Fries, Coke, Tea",10:31 PM,12,24.01,Debit Card,Green Park,DEL003,1.8
+CUST0331,"Coke, Hotdog, Samosa, Pizza",5:08 PM,103,1.69,Credit Card,Riverside,DEL058,2.4
+CUST0332,Samosa,6:55 AM,15,2.9,Credit Card,Lakeside,DEL075,1.6
+CUST0333,"Samosa, Paneer Tikka, Milkshake",2:11 AM,102,1.58,Cash,Sunset Street,DEL032,3
+CUST0334,"Burger, Noodles, Rice Bowl, Pasta",6:38 PM,17,5.04,UPI,Metro Square,DEL026,2.8
+CUST0335,"Biryani, Coke, Tea, Wrap",11:28 AM,53,13.76,UPI,Downtown,DEL038,4.6
+CUST0336,"Fries, Coke",12:59 AM,118,16.32,Debit Card,Sunset Street,DEL073,4.7
+CUST0337,"Fries, Juice, Salad",8:28 AM,116,1.62,Debit Card,Sunset Street,DEL051,2.5
+CUST0338,"Wrap, Momos",4:45 AM,117,23.68,Cash,Hillview,DEL007,3
+CUST0339,Fries,1:50 PM,42,21.13,Debit Card,Green Park,DEL043,4.6
+CUST0340,"Sandwich, Momos, Chips, Rice Bowl",8:54 AM,90,7.77,Wallet,Airport Zone,DEL002,4.2
+CUST0341,"Smoothie, Momos, Biryani, Burger",5:40 AM,84,2.39,Credit Card,Hillview,DEL014,1
+CUST0342,"Momos, Paneer Tikka, Noodles",1:04 PM,86,4.66,Wallet,Hillview,DEL056,2.3
+CUST0343,"Coffee, Pizza, Samosa",4:46 AM,59,3.61,Cash,Sunset Street,DEL054,2.7
+CUST0344,Samosa,3:58 AM,20,3.52,UPI,Airport Zone,DEL064,1.9
+CUST0345,"Juice, Smoothie",5:03 AM,104,13.2,Credit Card,Airport Zone,DEL075,1.8
+CUST0346,"Rice Bowl, Noodles, Momos, Smoothie",6:33 AM,37,6.52,Credit Card,Downtown,DEL077,1.2
+CUST0347,"Fries, Coke",8:14 AM,117,9.27,Credit Card,Old Town,DEL071,3.6
+CUST0348,"Hotdog, Coffee, Paneer Tikka, Burger",11:48 PM,79,24.74,Wallet,Metro Square,DEL038,2.1
+CUST0349,"Pizza, Burger",3:21 PM,50,17.27,Wallet,Metro Square,DEL005,1.2
+CUST0350,Pasta,7:27 AM,25,23.75,Credit Card,City Center,DEL063,1.9
+CUST0351,Pizza,11:44 AM,77,3.99,Cash,Metro Square,DEL052,4.2
+CUST0352,"Coke, Chips",6:46 PM,108,9.86,Debit Card,Riverside,DEL063,4.4
+CUST0353,"Noodles, Pizza, Juice, Coke",12:55 PM,57,14.09,Cash,Uptown,DEL066,2.9
+CUST0354,Salad,5:03 PM,65,2.38,UPI,Sunset Street,DEL076,2.7
+CUST0355,Juice,2:35 PM,73,0.6,Cash,Uptown,DEL079,4.9
+CUST0356,"Momos, Samosa, Smoothie, Noodles",11:52 AM,68,16.93,Cash,Hillview,DEL063,1.8
+CUST0357,"Noodles, Tea, Sandwich, Pizza",8:10 PM,99,16.22,Wallet,Tech Valley,DEL030,1.9
+CUST0358,"Juice, Burger, Sandwich",11:16 AM,71,10.56,Cash,Airport Zone,DEL008,2.2
+CUST0359,"Milkshake, Momos, Coffee, Rice Bowl",4:11 PM,85,12.5,Credit Card,Uptown,DEL068,1.7
+CUST0360,"Hotdog, Rice Bowl, Coke, Noodles",9:08 AM,20,10.68,Wallet,Lakeside,DEL003,2.5
+CUST0361,"Noodles, Milkshake, Burger, Sandwich",3:42 AM,110,1.09,Wallet,Lakeside,DEL055,4.6
+CUST0362,"Burger, Pasta",5:44 PM,98,8.72,Cash,Green Park,DEL074,3.5
+CUST0363,Sandwich,7:32 AM,27,4.84,UPI,Airport Zone,DEL041,2.6
+CUST0364,Paneer Tikka,10:56 AM,28,2.91,Debit Card,Riverside,DEL071,4.7
+CUST0365,"Pasta, Fries, Salad",8:23 AM,96,23.94,Wallet,Lakeside,DEL009,1.2
+CUST0366,Coke,8:03 AM,64,15.18,Debit Card,Hillview,DEL035,1.8
+CUST0367,"Rice Bowl, Smoothie",1:43 AM,111,18.35,Credit Card,Tech Valley,DEL054,3.3
+CUST0368,"Smoothie, Burger, Pasta, Coke",1:16 PM,91,8.23,Wallet,Sunset Street,DEL061,3.5
+CUST0369,"Momos, Hotdog, Wrap, Juice",9:41 AM,35,10.13,Wallet,Tech Valley,DEL015,1.2
+CUST0370,"Rice Bowl, Coffee, Chips",11:18 AM,15,6.3,Debit Card,Tech Valley,DEL064,2.6
+CUST0371,Hotdog,8:29 PM,13,2.88,Credit Card,City Center,DEL080,3.6
+CUST0372,"Coffee, Pasta, Hotdog, Tea",10:47 AM,117,4.89,Debit Card,Tech Valley,DEL045,3.8
+CUST0373,Hotdog,4:55 AM,38,20.04,Wallet,City Center,DEL058,3.6
+CUST0374,"Tea, Pizza",6:54 AM,68,17.1,Debit Card,Riverside,DEL056,2.3
+CUST0375,"Chips, Biryani",2:07 AM,107,13.9,Wallet,Green Park,DEL003,1.4
+CUST0376,"Tea, Chips, Hotdog, Coke",4:12 AM,26,12.14,Debit Card,Airport Zone,DEL021,2.7
+CUST0377,Hotdog,4:59 AM,116,23.1,UPI,Lakeside,DEL037,1.5
+CUST0378,Rice Bowl,10:28 PM,52,2.28,UPI,Tech Valley,DEL025,4.8
+CUST0379,"Biryani, Paneer Tikka, Chips",9:49 AM,89,7.37,Debit Card,Downtown,DEL061,2.9
+CUST0380,"Pasta, Biryani, Burger, Sandwich",5:39 PM,75,9.07,Debit Card,Green Park,DEL045,2.3
+CUST0381,Paneer Tikka,11:46 PM,43,19.67,Cash,Riverside,DEL057,4.1
+CUST0382,"Pasta, Noodles, Rice Bowl",3:43 PM,17,24.82,Cash,Downtown,DEL030,3
+CUST0383,"Samosa, Burger",7:46 PM,22,6.4,Wallet,City Center,DEL065,2.2
+CUST0384,Coffee,2:28 AM,115,21.92,Wallet,Airport Zone,DEL029,4.2
+CUST0385,"Pizza, Biryani, Juice",2:57 PM,17,20.85,Credit Card,Tech Valley,DEL076,4.5
+CUST0386,"Biryani, Coke, Juice",12:48 PM,103,6,Credit Card,Uptown,DEL044,3.7
+CUST0387,"Chips, Juice, Coffee, Tea",6:15 AM,105,10.28,Debit Card,Airport Zone,DEL078,1.2
+CUST0388,"Burger, Coke, Noodles, Chips",9:18 PM,109,10.54,Credit Card,Old Town,DEL060,3.3
+CUST0389,"Milkshake, Pasta",8:41 PM,103,24.47,Cash,Hillview,DEL017,4.1
+CUST0390,"Juice, Biryani",9:47 PM,74,4.93,Wallet,Downtown,DEL038,1.5
+CUST0391,Pasta,5:31 AM,52,20.08,UPI,City Center,DEL050,1.9
+CUST0392,"Juice, Momos, Fries, Rice Bowl",5:01 AM,48,8.69,Debit Card,Green Park,DEL054,4.5
+CUST0393,"Wrap, Burger, Coke, Salad",6:55 AM,90,18.41,Wallet,Sunset Street,DEL047,1.1
+CUST0394,"Noodles, Hotdog, Coke, Juice",5:34 PM,68,10.79,Cash,Old Town,DEL061,4
+CUST0395,"Smoothie, Paneer Tikka, Milkshake",12:43 PM,93,14.67,Wallet,Sunset Street,DEL021,2.9
+CUST0396,"Coffee, Momos, Sandwich",5:52 AM,97,20.9,Cash,Downtown,DEL080,2.8
+CUST0397,"Rice Bowl, Burger, Milkshake",2:57 AM,95,20.2,Wallet,Riverside,DEL027,1
+CUST0398,"Paneer Tikka, Juice, Coffee, Burger",3:22 PM,102,21.73,Cash,Tech Valley,DEL037,4.3
+CUST0399,Biryani,10:00 PM,95,1.96,Debit Card,Old Town,DEL012,2.4
+CUST0400,"Pizza, Samosa",8:34 PM,53,17.46,Credit Card,Tech Valley,DEL062,3.2
+CUST0401,"Rice Bowl, Salad, Hotdog",1:51 AM,18,3.93,Wallet,Downtown,DEL017,3.7
+CUST0402,"Biryani, Coffee, Fries",2:38 AM,46,10.69,Wallet,Green Park,DEL023,3.8
+CUST0403,"Chips, Pizza, Sandwich",12:15 PM,83,13.94,UPI,Downtown,DEL026,4.8
+CUST0404,"Coffee, Paneer Tikka",1:16 AM,45,10.37,Cash,Tech Valley,DEL021,3.1
+CUST0405,Sandwich,10:45 AM,110,13.23,Debit Card,Riverside,DEL078,2.6
+CUST0406,"Coffee, Chips, Milkshake, Juice",8:12 PM,101,24.91,Credit Card,Downtown,DEL063,4.8
+CUST0407,Sandwich,1:24 AM,37,3.81,Cash,Tech Valley,DEL013,3.6
+CUST0408,"Samosa, Juice, Coffee",7:50 PM,51,17.05,Cash,Tech Valley,DEL054,2.2
+CUST0409,"Fries, Coke",7:20 AM,52,10.2,Debit Card,Riverside,DEL064,1.5
+CUST0410,"Momos, Milkshake",11:34 PM,94,3.76,Wallet,Tech Valley,DEL039,4.4
+CUST0411,Coffee,4:53 PM,97,4.39,Wallet,Downtown,DEL031,2.4
+CUST0412,"Sandwich, Biryani",4:17 AM,51,23.76,UPI,Green Park,DEL027,3.6
+CUST0413,"Pasta, Smoothie, Milkshake",7:57 PM,113,22.05,Debit Card,Downtown,DEL072,2.9
+CUST0414,"Burger, Coke, Coffee, Paneer Tikka",7:21 AM,75,22.72,Wallet,City Center,DEL007,1.8
+CUST0415,"Paneer Tikka, Milkshake",7:56 AM,64,24.79,UPI,Airport Zone,DEL003,3.4
+CUST0416,"Paneer Tikka, Samosa, Momos",9:00 AM,81,5.6,UPI,Old Town,DEL046,1.2
+CUST0417,"Samosa, Milkshake, Salad",1:54 AM,57,9.21,Credit Card,Metro Square,DEL034,2.7
+CUST0418,"Coffee, Wrap",10:50 PM,100,16.9,UPI,Uptown,DEL046,3.2
+CUST0419,Coffee,8:47 PM,31,12.35,Credit Card,Metro Square,DEL021,2.7
+CUST0420,"Salad, Hotdog, Smoothie, Milkshake",3:32 AM,110,10.75,Wallet,Metro Square,DEL023,4
+CUST0421,Samosa,2:45 AM,36,9.27,Credit Card,Tech Valley,DEL065,4.3
+CUST0422,"Tea, Noodles, Juice, Pizza",12:28 PM,102,15.05,Wallet,Hillview,DEL005,4.1
+CUST0423,"Milkshake, Pizza, Wrap",3:32 PM,76,14.6,Debit Card,Downtown,DEL009,1.2
+CUST0424,"Pizza, Chips, Salad, Rice Bowl",9:32 AM,117,4.46,Credit Card,Lakeside,DEL044,1.8
+CUST0425,"Fries, Samosa, Coffee, Pasta",2:53 AM,22,12.06,Debit Card,Old Town,DEL056,3.1
+CUST0426,"Samosa, Rice Bowl, Salad",1:22 PM,54,14.06,Cash,Lakeside,DEL015,4.7
+CUST0427,"Sandwich, Smoothie, Samosa",5:17 AM,19,14.47,Wallet,Uptown,DEL080,4.3
+CUST0428,"Chips, Pizza, Noodles, Rice Bowl",8:16 AM,109,5.65,UPI,Downtown,DEL030,4.4
+CUST0429,Fries,9:23 PM,18,18.69,Cash,Riverside,DEL016,2.2
+CUST0430,Coke,8:16 AM,63,1.12,UPI,Lakeside,DEL072,2.7
+CUST0431,Tea,1:03 PM,36,9.19,Wallet,Downtown,DEL029,2.9
+CUST0432,Coffee,5:13 PM,43,19.62,Wallet,Lakeside,DEL063,1.6
+CUST0433,"Tea, Sandwich, Burger, Noodles",5:56 PM,10,14.32,Debit Card,Uptown,DEL034,1.1
+CUST0434,Momos,11:44 AM,41,6.9,Credit Card,City Center,DEL044,4.8
+CUST0435,"Salad, Biryani",2:30 AM,98,17.53,Credit Card,Downtown,DEL046,2
+CUST0436,"Pasta, Samosa",7:39 PM,102,14.4,Debit Card,Airport Zone,DEL006,2
+CUST0437,"Wrap, Coffee, Chips",6:28 AM,80,20.01,UPI,Riverside,DEL072,1.3
+CUST0438,"Rice Bowl, Momos, Burger, Fries",10:50 PM,76,18.51,UPI,Metro Square,DEL035,4.7
+CUST0439,Samosa,5:06 PM,93,15.45,Cash,Downtown,DEL020,3.3
+CUST0440,Noodles,12:41 AM,29,12.46,UPI,City Center,DEL066,3.7
+CUST0441,Pasta,9:41 PM,103,3.76,Cash,Green Park,DEL078,4.6
+CUST0442,"Burger, Biryani",11:42 PM,44,6.9,UPI,City Center,DEL014,2.4
+CUST0443,Noodles,10:15 AM,108,10.77,UPI,Downtown,DEL007,3.5
+CUST0444,"Smoothie, Sandwich, Burger, Coffee",8:38 PM,112,15.18,Debit Card,Lakeside,DEL057,1.2
+CUST0445,"Biryani, Hotdog, Pasta, Salad",3:09 AM,100,13.09,UPI,Hillview,DEL059,1.7
+CUST0446,"Rice Bowl, Pizza, Burger",5:29 PM,99,7.56,Cash,Green Park,DEL015,4.3
+CUST0447,"Samosa, Chips, Hotdog, Wrap",4:32 PM,87,0.66,Credit Card,City Center,DEL014,4.1
+CUST0448,"Hotdog, Noodles",9:16 PM,26,12.66,Credit Card,Airport Zone,DEL079,2.4
+CUST0449,"Biryani, Wrap",5:47 PM,27,7.5,Cash,Riverside,DEL079,2.5
+CUST0450,"Coffee, Burger, Paneer Tikka",12:51 PM,54,18.5,UPI,Sunset Street,DEL014,3.1
+CUST0451,"Juice, Coke, Smoothie, Paneer Tikka",7:36 PM,102,1.09,UPI,Green Park,DEL072,1
+CUST0452,Pizza,6:27 PM,93,14.83,Cash,Lakeside,DEL006,2
+CUST0453,"Milkshake, Samosa, Chips, Coffee",6:33 PM,62,23.57,Cash,Sunset Street,DEL065,1.8
+CUST0454,"Burger, Paneer Tikka, Smoothie, Chips",4:49 PM,100,4.77,Cash,Airport Zone,DEL014,2
+CUST0455,"Sandwich, Rice Bowl, Pizza",4:56 AM,91,12.06,Cash,Lakeside,DEL022,4.2
+CUST0456,Juice,10:38 PM,77,2.74,Wallet,Green Park,DEL016,2.1
+CUST0457,"Pizza, Wrap",1:19 AM,74,15.83,Wallet,Riverside,DEL027,1.8
+CUST0458,"Chips, Hotdog, Juice",10:30 AM,10,13.99,Debit Card,Uptown,DEL047,3
+CUST0459,"Juice, Noodles",6:44 PM,67,10.48,UPI,Lakeside,DEL021,4.5
+CUST0460,"Noodles, Fries, Hotdog, Samosa",4:53 AM,35,13.27,Credit Card,Metro Square,DEL038,2
+CUST0461,"Wrap, Paneer Tikka, Tea",3:06 PM,118,22.47,Debit Card,City Center,DEL057,1.3
+CUST0462,"Samosa, Coke, Coffee, Smoothie",8:53 AM,29,5.31,Debit Card,Tech Valley,DEL065,2.4
+CUST0463,Wrap,2:43 PM,96,1.05,UPI,Downtown,DEL064,4
+CUST0464,"Smoothie, Biryani, Hotdog, Noodles",4:16 AM,19,21.61,Wallet,Downtown,DEL013,3.2
+CUST0465,"Samosa, Tea, Paneer Tikka",12:14 PM,68,14.64,Cash,Lakeside,DEL020,4.3
+CUST0466,"Paneer Tikka, Rice Bowl, Smoothie",1:51 AM,84,22.32,Wallet,Airport Zone,DEL047,4.8
+CUST0467,Sandwich,2:55 AM,50,15.13,Cash,Old Town,DEL043,4.2
+CUST0468,Hotdog,11:38 PM,114,20.35,Cash,Tech Valley,DEL018,3.4
+CUST0469,"Burger, Wrap",5:47 PM,14,11.03,Wallet,Downtown,DEL016,3
+CUST0470,"Biryani, Tea, Pasta, Paneer Tikka",12:45 PM,74,18.87,Wallet,City Center,DEL026,1.2
+CUST0471,Hotdog,8:11 AM,26,22.87,Wallet,Sunset Street,DEL057,4.9
+CUST0472,"Milkshake, Fries, Sandwich, Coke",8:08 AM,31,14.52,Wallet,Green Park,DEL054,2.5
+CUST0473,Sandwich,6:53 AM,107,4.93,Cash,Sunset Street,DEL001,1.6
+CUST0474,Pizza,5:41 PM,118,7.09,Cash,Hillview,DEL032,3.7
+CUST0475,"Rice Bowl, Chips, Hotdog",7:37 AM,50,5.37,Credit Card,Metro Square,DEL061,2.1
+CUST0476,"Burger, Pizza, Smoothie",2:10 PM,102,6.55,Cash,Green Park,DEL044,3.3
+CUST0477,"Wrap, Paneer Tikka",4:15 PM,77,8.01,Debit Card,Hillview,DEL037,3.3
+CUST0478,"Momos, Coke",7:36 AM,78,14.1,Cash,Hillview,DEL065,2.8
+CUST0479,"Pizza, Coffee, Pasta, Momos",3:09 AM,20,14.91,Cash,Metro Square,DEL022,4.3
+CUST0480,"Milkshake, Noodles",3:41 AM,65,10.95,Wallet,Lakeside,DEL011,2.1
+CUST0481,"Fries, Paneer Tikka",9:35 PM,60,15.58,Cash,City Center,DEL035,2.8
+CUST0482,Wrap,3:01 PM,30,2.5,Debit Card,Downtown,DEL048,3.2
+CUST0483,Momos,12:58 PM,108,2.65,Wallet,Green Park,DEL054,3.7
+CUST0484,Samosa,5:56 AM,85,4.71,UPI,Hillview,DEL047,4.1
+CUST0485,Juice,6:13 PM,35,13.19,UPI,Airport Zone,DEL032,2.6
+CUST0486,"Paneer Tikka, Salad, Fries, Tea",5:33 AM,28,5.74,UPI,Old Town,DEL020,3.6
+CUST0487,"Wrap, Noodles",4:59 PM,118,7.44,Debit Card,Lakeside,DEL068,1.6
+CUST0488,"Momos, Wrap, Paneer Tikka, Biryani",1:45 AM,69,10.31,UPI,Hillview,DEL054,4.7
+CUST0489,"Juice, Rice Bowl, Salad",6:35 PM,80,20.39,Debit Card,Airport Zone,DEL030,2.5
+CUST0490,"Fries, Pizza",6:10 AM,56,0.84,Wallet,Hillview,DEL018,3.9
+CUST0491,"Wrap, Smoothie, Fries, Paneer Tikka",4:07 AM,80,16.41,Wallet,Green Park,DEL055,1.1
+CUST0492,"Noodles, Coffee",1:52 AM,35,16.89,Wallet,Riverside,DEL053,1.8
+CUST0493,Burger,3:00 AM,49,20.07,Debit Card,Old Town,DEL053,2.9
+CUST0494,"Pasta, Sandwich, Salad, Tea",5:14 AM,14,23.35,Wallet,Uptown,DEL059,4.5
+CUST0495,Pasta,5:56 AM,30,0.99,Cash,Uptown,DEL067,3.1
+CUST0496,"Coke, Smoothie, Juice",12:01 AM,87,4.27,Debit Card,Old Town,DEL047,4.7
+CUST0497,Hotdog,2:44 AM,13,22.21,Cash,Downtown,DEL004,2.9
+CUST0498,"Fries, Salad, Paneer Tikka",4:24 PM,32,11.73,Wallet,Metro Square,DEL057,3
+CUST0499,"Noodles, Rice Bowl",2:27 PM,115,14.33,Credit Card,Old Town,DEL019,1.5
+CUST0500,"Smoothie, Rice Bowl, Sandwich",12:07 PM,93,16.74,Credit Card,Uptown,DEL002,4.2
+CUST0501,Paneer Tikka,1:58 AM,24,17.14,Wallet,Airport Zone,DEL067,2
+CUST0502,"Coke, Chips, Sandwich, Tea",12:32 AM,118,23.33,Cash,Old Town,DEL009,4.6
+CUST0503,"Coke, Momos, Tea, Sandwich",8:38 PM,102,24.93,Wallet,Lakeside,DEL011,4.6
+CUST0504,"Momos, Salad",9:55 PM,17,18.14,Debit Card,Tech Valley,DEL044,4.8
+CUST0505,"Sandwich, Pasta, Biryani",5:58 PM,50,7.54,Debit Card,Green Park,DEL041,3.1
+CUST0506,Paneer Tikka,9:30 PM,28,22.05,Credit Card,Metro Square,DEL052,3.7
+CUST0507,Juice,10:24 PM,112,1.71,Debit Card,Green Park,DEL022,4.1
+CUST0508,Milkshake,3:00 AM,55,6.16,UPI,Old Town,DEL056,1.5
+CUST0509,Salad,5:05 PM,37,22.49,Cash,Riverside,DEL008,3.4
+CUST0510,"Samosa, Coke, Sandwich, Burger",9:12 AM,119,6.78,Cash,Hillview,DEL051,1.1
+CUST0511,Biryani,11:24 AM,100,5.91,Cash,Hillview,DEL005,3
+CUST0512,"Wrap, Juice",2:18 AM,77,3.88,Wallet,Green Park,DEL020,1.6
+CUST0513,"Biryani, Coffee, Pasta, Chips",1:58 AM,24,21.55,Wallet,Tech Valley,DEL074,1.7
+CUST0514,Chips,11:15 PM,108,12.75,Wallet,Tech Valley,DEL008,2.5
+CUST0515,"Salad, Rice Bowl",5:18 PM,46,17.03,Credit Card,City Center,DEL067,2.7
+CUST0516,"Chips, Salad, Biryani, Sandwich",10:41 AM,10,6.36,UPI,City Center,DEL038,3.5
+CUST0517,"Smoothie, Samosa, Milkshake, Paneer Tikka",7:41 AM,76,19.07,UPI,Lakeside,DEL054,1.3
+CUST0518,"Burger, Pizza",2:37 AM,33,19.12,Debit Card,Metro Square,DEL052,3
+CUST0519,Rice Bowl,4:48 PM,36,8.16,Cash,Green Park,DEL071,1.7
+CUST0520,"Juice, Momos, Tea",1:50 AM,49,10.56,Cash,City Center,DEL039,3.3
+CUST0521,"Sandwich, Pasta, Rice Bowl, Fries",3:17 PM,72,5.64,UPI,Uptown,DEL041,3.5
+CUST0522,Pasta,1:50 PM,70,24.43,Debit Card,Sunset Street,DEL045,3.2
+CUST0523,"Salad, Paneer Tikka, Sandwich, Chips",5:41 PM,45,16.32,Cash,Lakeside,DEL002,4
+CUST0524,"Sandwich, Fries",4:12 AM,107,23.4,Cash,Sunset Street,DEL036,2.3
+CUST0525,Samosa,10:19 AM,102,7.93,Wallet,Downtown,DEL068,4.1
+CUST0526,"Hotdog, Coffee, Sandwich, Tea",1:55 PM,33,19.66,Cash,Green Park,DEL079,2.7
+CUST0527,"Rice Bowl, Pasta, Coffee",6:20 PM,33,19.26,Credit Card,Airport Zone,DEL019,2.9
+CUST0528,"Rice Bowl, Smoothie",9:50 PM,115,17.45,Cash,Tech Valley,DEL052,3.6
+CUST0529,"Burger, Fries, Rice Bowl, Coke",3:02 AM,13,24.16,Wallet,Tech Valley,DEL058,1.1
+CUST0530,"Biryani, Juice",12:12 AM,76,10.14,Wallet,Downtown,DEL027,3.6
+CUST0531,"Pizza, Coffee",11:49 PM,43,3.7,Credit Card,Riverside,DEL070,3.5
+CUST0532,"Salad, Coffee, Pasta",12:29 AM,66,16.96,Credit Card,Tech Valley,DEL080,2.2
+CUST0533,"Tea, Salad, Noodles",12:58 PM,58,18.37,Credit Card,Uptown,DEL080,1.3
+CUST0534,Sandwich,5:00 AM,96,14.59,Wallet,Tech Valley,DEL057,1.4
+CUST0535,"Milkshake, Rice Bowl, Biryani",11:52 AM,62,5.57,UPI,City Center,DEL045,4.7
+CUST0536,"Fries, Momos, Samosa",8:21 AM,32,12.86,Wallet,Hillview,DEL052,3.8
+CUST0537,"Coffee, Salad",11:37 PM,118,8.15,Credit Card,Old Town,DEL026,1.5
+CUST0538,"Burger, Juice",12:28 PM,78,10.97,UPI,Tech Valley,DEL039,2.4
+CUST0539,"Sandwich, Pasta",2:21 AM,104,16.31,Cash,Downtown,DEL011,3.4
+CUST0540,"Wrap, Pizza, Burger, Chips",12:57 AM,62,18.76,UPI,Sunset Street,DEL005,4.3
+CUST0541,"Sandwich, Coke, Rice Bowl, Smoothie",10:02 PM,71,6.19,Credit Card,Downtown,DEL069,1.2
+CUST0542,"Fries, Sandwich, Coke",1:27 PM,50,10.43,Cash,Hillview,DEL043,1.9
+CUST0543,"Biryani, Chips, Smoothie, Paneer Tikka",9:24 PM,66,7.09,Cash,Sunset Street,DEL050,4.6
+CUST0544,"Sandwich, Pasta, Momos, Smoothie",1:17 PM,69,5.37,Credit Card,Metro Square,DEL017,1
+CUST0545,"Milkshake, Salad",2:04 AM,63,19.69,UPI,City Center,DEL067,1.8
+CUST0546,Coffee,12:57 AM,79,22.78,Credit Card,Tech Valley,DEL070,4.8
+CUST0547,Salad,8:25 PM,110,9.57,UPI,Tech Valley,DEL037,3.5
+CUST0548,"Chips, Rice Bowl, Tea",11:19 AM,66,18.91,Credit Card,Downtown,DEL028,2
+CUST0549,"Paneer Tikka, Momos, Chips",2:45 AM,19,22.48,Debit Card,City Center,DEL012,1.3
+CUST0550,"Rice Bowl, Milkshake, Wrap",2:45 AM,49,21.23,Debit Card,Riverside,DEL066,1.1
+CUST0551,Burger,7:18 AM,16,4.98,Cash,Green Park,DEL071,2
+CUST0552,"Coffee, Salad, Pizza, Milkshake",12:51 AM,112,23.93,Debit Card,Uptown,DEL040,4.5
+CUST0553,"Hotdog, Smoothie, Pizza",2:34 PM,47,9.73,Credit Card,Green Park,DEL067,2.7
+CUST0554,"Samosa, Chips",10:06 AM,94,8.81,Debit Card,Old Town,DEL044,3.9
+CUST0555,"Coke, Fries, Pasta",12:39 PM,70,2.03,Wallet,Green Park,DEL021,4.7
+CUST0556,"Tea, Paneer Tikka, Smoothie",6:17 PM,93,12.41,Wallet,Downtown,DEL003,2.6
+CUST0557,Rice Bowl,7:30 PM,12,3.17,Wallet,Uptown,DEL004,1.8
+CUST0558,"Juice, Coke, Rice Bowl",1:33 AM,60,6.59,Credit Card,Green Park,DEL070,3.1
+CUST0559,Burger,7:00 PM,95,8.27,Credit Card,Riverside,DEL076,4.6
+CUST0560,"Paneer Tikka, Tea, Coke",11:49 AM,56,20.32,Wallet,Metro Square,DEL034,4.2
+CUST0561,"Pizza, Wrap",5:48 PM,77,21.95,Credit Card,Downtown,DEL031,1.3
+CUST0562,Pizza,6:27 AM,101,7.91,Debit Card,Uptown,DEL039,3.8
+CUST0563,Pizza,1:35 PM,85,21.54,Debit Card,Sunset Street,DEL055,3.3
+CUST0564,Juice,6:18 AM,47,21.5,Debit Card,Riverside,DEL065,4.6
+CUST0565,"Wrap, Salad, Momos, Milkshake",5:09 PM,45,19.23,UPI,Metro Square,DEL015,1.5
+CUST0566,Paneer Tikka,12:34 PM,50,4.09,Cash,Airport Zone,DEL008,3.1
+CUST0567,Coke,11:36 PM,78,17.41,Cash,Metro Square,DEL048,4.5
+CUST0568,"Fries, Pizza, Hotdog",6:39 PM,22,23.65,Cash,Uptown,DEL034,2.6
+CUST0569,"Coke, Wrap, Biryani",12:10 PM,96,17.22,Wallet,Tech Valley,DEL065,2.9
+CUST0570,"Pasta, Hotdog",12:38 PM,67,8.62,UPI,Sunset Street,DEL046,1.3
+CUST0571,"Rice Bowl, Sandwich",2:50 PM,59,12.76,Credit Card,Uptown,DEL016,2.1
+CUST0572,"Burger, Sandwich",12:33 AM,39,16.32,Cash,Green Park,DEL007,2.3
+CUST0573,"Noodles, Pizza",7:34 AM,71,13.01,UPI,Tech Valley,DEL016,4.8
+CUST0574,"Sandwich, Salad, Pasta",1:35 PM,110,3.44,Wallet,Downtown,DEL058,2.1
+CUST0575,Coke,5:33 PM,34,8.15,Cash,Green Park,DEL039,2.8
+CUST0576,"Chips, Juice, Salad",8:36 PM,36,20.16,Wallet,Old Town,DEL074,3.7
+CUST0577,Rice Bowl,3:30 AM,60,21.6,UPI,Sunset Street,DEL001,1.6
+CUST0578,"Juice, Burger",4:43 PM,87,3.86,UPI,Lakeside,DEL059,2.9
+CUST0579,Noodles,9:41 PM,66,23.83,UPI,Downtown,DEL044,4
+CUST0580,"Burger, Noodles, Fries, Pasta",3:50 PM,56,8.56,Wallet,Green Park,DEL031,4.5
+CUST0581,"Tea, Paneer Tikka",7:04 PM,109,16.73,Debit Card,City Center,DEL075,3.5
+CUST0582,"Milkshake, Fries, Wrap",11:01 AM,48,18.92,Wallet,City Center,DEL073,3.7
+CUST0583,"Samosa, Chips, Tea",11:51 AM,25,20.39,Credit Card,Hillview,DEL069,1.5
+CUST0584,"Tea, Milkshake, Juice",6:27 PM,31,23.67,Cash,Hillview,DEL077,4.8
+CUST0585,"Coffee, Rice Bowl, Chips, Hotdog",5:23 AM,94,8.17,UPI,Uptown,DEL030,1.5
+CUST0586,"Sandwich, Coffee, Samosa",2:54 PM,63,21.53,Debit Card,Riverside,DEL045,4.1
+CUST0587,Burger,2:36 AM,30,3.73,UPI,Riverside,DEL039,2.1
+CUST0588,"Tea, Noodles",2:57 PM,81,17.77,Cash,Lakeside,DEL037,4.7
+CUST0589,"Momos, Smoothie, Paneer Tikka",12:01 PM,25,18.68,Wallet,Green Park,DEL074,3.9
+CUST0590,Samosa,10:38 PM,68,17.1,Credit Card,Hillview,DEL018,4
+CUST0591,"Wrap, Fries, Rice Bowl, Pasta",7:08 AM,40,6.68,Wallet,Sunset Street,DEL049,1.9
+CUST0592,"Salad, Burger, Noodles, Sandwich",12:05 AM,51,21.89,Cash,Lakeside,DEL067,2.8
+CUST0593,"Noodles, Wrap, Pizza, Tea",4:27 AM,83,4.64,Debit Card,Hillview,DEL032,3.5
+CUST0594,"Momos, Paneer Tikka, Coffee",10:48 PM,41,1.81,Credit Card,Downtown,DEL014,4.1
+CUST0595,"Tea, Pasta",11:29 AM,68,18.08,Credit Card,Airport Zone,DEL042,1.4
+CUST0596,"Pasta, Pizza, Tea",8:33 PM,43,12.15,UPI,Tech Valley,DEL067,4.8
+CUST0597,Pasta,6:35 PM,18,21.3,Debit Card,Hillview,DEL075,4.6
+CUST0598,"Milkshake, Juice, Fries, Rice Bowl",5:24 AM,90,9.89,UPI,Airport Zone,DEL025,2.1
+CUST0599,Juice,12:19 AM,20,4.62,Credit Card,Airport Zone,DEL047,4.3
+CUST0600,"Rice Bowl, Pasta, Pizza, Milkshake",2:35 AM,105,20.99,UPI,Green Park,DEL059,3.1
+CUST0601,"Paneer Tikka, Samosa",12:48 AM,19,13.95,Debit Card,Riverside,DEL013,2.8
+CUST0602,"Milkshake, Paneer Tikka",6:23 PM,95,5.14,Credit Card,Uptown,DEL019,2.3
+CUST0603,"Rice Bowl, Coke",4:04 AM,26,18.15,UPI,Metro Square,DEL055,3.3
+CUST0604,"Tea, Wrap, Burger",2:23 PM,77,13.02,UPI,Green Park,DEL053,3.9
+CUST0605,Milkshake,10:32 AM,57,15.31,Credit Card,Airport Zone,DEL011,2.6
+CUST0606,"Noodles, Samosa, Paneer Tikka, Biryani",10:07 AM,61,11.79,Debit Card,Sunset Street,DEL012,3.5
+CUST0607,"Hotdog, Pizza",2:31 PM,34,20.8,Cash,Lakeside,DEL008,3.8
+CUST0608,Hotdog,2:18 PM,30,20.82,Cash,Downtown,DEL055,3.8
+CUST0609,Milkshake,10:05 PM,110,17.88,Credit Card,Green Park,DEL017,1.2
+CUST0610,"Salad, Biryani, Burger",9:47 PM,111,3.08,Cash,Airport Zone,DEL061,4.4
+CUST0611,"Sandwich, Milkshake",4:31 AM,74,21.05,UPI,Sunset Street,DEL028,2.8
+CUST0612,Hotdog,9:24 AM,72,16.94,Wallet,Uptown,DEL058,2
+CUST0613,Samosa,7:11 PM,98,17.58,Cash,Lakeside,DEL010,2
+CUST0614,"Milkshake, Juice, Samosa, Smoothie",2:06 AM,60,9.39,Wallet,Airport Zone,DEL048,2.9
+CUST0615,"Coffee, Burger",5:43 PM,45,22.04,UPI,Uptown,DEL068,4.5
+CUST0616,"Tea, Paneer Tikka, Burger",8:35 PM,90,18.27,Wallet,Metro Square,DEL052,2.5
+CUST0617,Fries,4:17 AM,114,3.26,Credit Card,Old Town,DEL076,4
+CUST0618,"Pizza, Milkshake, Wrap",2:38 AM,97,10.49,Cash,Metro Square,DEL072,1.4
+CUST0619,"Coffee, Biryani, Samosa, Hotdog",10:37 PM,75,22.22,Wallet,Lakeside,DEL067,2.9
+CUST0620,Samosa,12:08 PM,113,1.66,Cash,Old Town,DEL051,5
+CUST0621,Paneer Tikka,1:17 PM,24,24.05,Debit Card,Tech Valley,DEL034,4.1
+CUST0622,"Wrap, Pizza, Smoothie",5:10 AM,105,17.14,Cash,Tech Valley,DEL075,1.8
+CUST0623,"Pizza, Hotdog, Noodles",4:38 AM,48,15.97,UPI,Airport Zone,DEL064,3
+CUST0624,"Burger, Pasta, Coffee",3:21 PM,79,7.13,Credit Card,Hillview,DEL055,1.9
+CUST0625,"Tea, Sandwich, Paneer Tikka, Noodles",4:37 PM,10,6.6,Credit Card,Airport Zone,DEL057,2.6
+CUST0626,"Coffee, Tea, Smoothie, Rice Bowl",2:28 AM,32,23.58,Wallet,Tech Valley,DEL063,4.1
+CUST0627,"Samosa, Sandwich",1:51 AM,48,7.81,Cash,Lakeside,DEL054,4.1
+CUST0628,"Milkshake, Noodles",10:56 PM,66,19.5,Credit Card,Riverside,DEL021,1.9
+CUST0629,"Paneer Tikka, Rice Bowl, Tea",8:46 AM,90,10.13,Debit Card,Tech Valley,DEL019,4.7
+CUST0630,Juice,11:23 PM,43,3.91,Cash,Green Park,DEL065,3.4
+CUST0631,"Hotdog, Burger, Coffee",8:58 AM,50,0.76,Cash,Tech Valley,DEL017,2.5
+CUST0632,"Biryani, Pizza, Pasta",4:06 AM,102,13.83,Cash,Uptown,DEL063,3
+CUST0633,"Coffee, Coke",5:22 PM,82,24.41,Debit Card,Old Town,DEL059,3.4
+CUST0634,Pasta,9:18 PM,22,9.54,Wallet,Riverside,DEL017,3.2
+CUST0635,"Samosa, Burger, Momos",11:31 AM,79,9.25,UPI,Riverside,DEL066,2.9
+CUST0636,"Chips, Rice Bowl",1:20 AM,15,8.93,UPI,Green Park,DEL068,3
+CUST0637,Salad,1:49 PM,93,13.25,Cash,Airport Zone,DEL016,1.7
+CUST0638,"Chips, Biryani",4:08 PM,61,11.3,Credit Card,Lakeside,DEL028,4.3
+CUST0639,Juice,12:54 AM,12,22.06,Debit Card,Sunset Street,DEL059,3.2
+CUST0640,"Coffee, Paneer Tikka",6:09 PM,90,12.89,Debit Card,Hillview,DEL061,1.5
+CUST0641,"Pizza, Noodles, Samosa, Wrap",4:54 AM,72,12.94,Cash,Metro Square,DEL005,4.1
+CUST0642,"Burger, Wrap, Pizza",11:31 AM,58,3.89,Cash,Metro Square,DEL021,4.7
+CUST0643,"Biryani, Coke, Fries, Samosa",12:45 AM,85,24.58,Cash,Old Town,DEL072,4.8
+CUST0644,"Burger, Juice, Fries",6:01 PM,56,6.62,UPI,Sunset Street,DEL048,2.5
+CUST0645,"Fries, Tea",11:03 PM,118,2.3,Wallet,Tech Valley,DEL016,1.5
+CUST0646,"Noodles, Tea",2:40 AM,64,16.75,UPI,Old Town,DEL078,3.1
+CUST0647,"Pizza, Noodles, Fries",12:14 PM,73,15.09,Wallet,Downtown,DEL053,1.5
+CUST0648,"Sandwich, Milkshake, Burger",10:57 PM,74,10.67,UPI,Green Park,DEL015,4.7
+CUST0649,"Momos, Salad, Sandwich",10:26 AM,90,10.84,Debit Card,Metro Square,DEL016,1.7
+CUST0650,Pasta,8:03 AM,76,19.73,Cash,Sunset Street,DEL048,2
+CUST0651,"Paneer Tikka, Smoothie",2:10 PM,99,5.29,Cash,Downtown,DEL074,2.6
+CUST0652,"Momos, Coke",6:52 AM,24,20.6,Cash,City Center,DEL038,2.5
+CUST0653,"Samosa, Biryani, Hotdog, Rice Bowl",4:17 AM,109,16.39,UPI,Riverside,DEL006,4.2
+CUST0654,"Samosa, Momos, Fries",3:11 PM,41,10.76,UPI,Airport Zone,DEL067,2.8
+CUST0655,"Chips, Milkshake",4:10 PM,105,11.72,UPI,Airport Zone,DEL020,1.7
+CUST0656,Biryani,5:39 PM,77,6.79,Wallet,Sunset Street,DEL016,2.1
+CUST0657,"Hotdog, Sandwich",10:56 AM,27,18.93,Debit Card,Sunset Street,DEL048,3
+CUST0658,"Coke, Rice Bowl, Smoothie, Pasta",11:56 PM,92,13.07,Cash,Airport Zone,DEL040,1.6
+CUST0659,"Biryani, Noodles, Hotdog",8:00 AM,52,8.36,Credit Card,Uptown,DEL048,3.4
+CUST0660,"Pasta, Coffee, Biryani",1:05 AM,44,15.1,Cash,Old Town,DEL039,3.3
+CUST0661,"Wrap, Smoothie, Juice, Salad",3:33 PM,113,24.9,UPI,Hillview,DEL038,3.9
+CUST0662,"Coffee, Burger, Pasta, Rice Bowl",8:58 PM,87,11.16,Cash,Riverside,DEL063,4.8
+CUST0663,"Milkshake, Pizza, Tea",4:11 PM,67,23.06,Credit Card,Downtown,DEL004,4.6
+CUST0664,"Milkshake, Burger",5:44 AM,42,8.95,Wallet,Metro Square,DEL019,4.8
+CUST0665,"Pizza, Tea",8:45 AM,23,1.84,Credit Card,Uptown,DEL019,2
+CUST0666,Juice,2:15 PM,43,5.5,Cash,Lakeside,DEL076,1.5
+CUST0667,"Samosa, Biryani, Rice Bowl, Milkshake",2:08 AM,70,10.76,Debit Card,City Center,DEL054,2.2
+CUST0668,"Chips, Coffee",1:04 PM,13,5.88,Debit Card,City Center,DEL007,4.6
+CUST0669,"Noodles, Momos, Milkshake",12:59 PM,97,0.51,Debit Card,Downtown,DEL040,4.9
+CUST0670,Salad,5:59 PM,68,22.92,Credit Card,Lakeside,DEL037,4.4
+CUST0671,"Coke, Tea, Milkshake",11:00 AM,38,21.18,UPI,Green Park,DEL028,1.4
+CUST0672,"Pizza, Milkshake, Smoothie, Coke",3:04 PM,92,18.69,Credit Card,Tech Valley,DEL024,4.8
+CUST0673,Coke,1:50 AM,15,4.61,Credit Card,Sunset Street,DEL063,2.7
+CUST0674,"Pasta, Tea, Sandwich, Coffee",11:35 AM,106,3.45,Debit Card,Riverside,DEL001,1
+CUST0675,"Milkshake, Pasta, Paneer Tikka, Hotdog",8:44 PM,58,2.16,Cash,Riverside,DEL016,2.8
+CUST0676,"Wrap, Burger",1:05 AM,49,18.24,Credit Card,Riverside,DEL071,1.2
+CUST0677,"Samosa, Rice Bowl, Salad",3:36 AM,92,23.26,UPI,City Center,DEL045,3.2
+CUST0678,Chips,11:00 AM,74,11.05,UPI,Airport Zone,DEL009,2.4
+CUST0679,"Fries, Tea, Juice, Salad",7:11 PM,78,3.42,Debit Card,Airport Zone,DEL006,2.9
+CUST0680,Wrap,2:56 PM,36,13.05,Debit Card,Lakeside,DEL054,3.5
+CUST0681,Noodles,3:52 AM,89,9.05,UPI,Airport Zone,DEL062,4.5
+CUST0682,"Juice, Salad",9:05 PM,15,9.68,Credit Card,Sunset Street,DEL074,3.6
+CUST0683,"Hotdog, Salad",10:11 AM,113,15.72,Debit Card,Riverside,DEL040,2.7
+CUST0684,"Pasta, Coffee, Hotdog, Juice",1:05 PM,22,18.11,Cash,Metro Square,DEL073,4.3
+CUST0685,"Milkshake, Momos, Salad",11:56 PM,73,3.21,Cash,City Center,DEL058,4.6
+CUST0686,"Chips, Sandwich",1:47 AM,71,1.37,Wallet,Riverside,DEL044,1.5
+CUST0687,Noodles,11:14 AM,108,24.86,Cash,Lakeside,DEL049,3.1
+CUST0688,Noodles,2:03 PM,28,6.2,Credit Card,Tech Valley,DEL061,2.1
+CUST0689,"Biryani, Sandwich, Hotdog, Coffee",6:08 PM,85,1.82,UPI,Hillview,DEL078,1.2
+CUST0690,"Chips, Pasta, Rice Bowl",6:02 AM,89,5.15,Cash,Hillview,DEL017,3.7
+CUST0691,Coke,1:29 AM,52,1.45,Credit Card,Downtown,DEL018,4.5
+CUST0692,Smoothie,2:51 AM,83,10.1,Debit Card,City Center,DEL065,1.7
+CUST0693,"Samosa, Coke, Fries, Paneer Tikka",1:37 PM,98,20.16,UPI,Old Town,DEL059,4.2
+CUST0694,Noodles,10:43 AM,29,8.86,Credit Card,City Center,DEL058,4.4
+CUST0695,"Chips, Wrap, Salad, Samosa",12:00 AM,104,11.38,Debit Card,Green Park,DEL058,4.7
+CUST0696,Paneer Tikka,3:16 PM,77,17.05,UPI,Riverside,DEL020,2.1
+CUST0697,"Momos, Rice Bowl, Coffee, Tea",10:53 PM,53,12.97,Credit Card,City Center,DEL042,4.6
+CUST0698,"Noodles, Chips, Coffee, Coke",8:05 PM,32,21.61,UPI,Tech Valley,DEL012,2.3
+CUST0699,"Momos, Burger, Coke, Biryani",4:36 PM,11,21.72,Credit Card,Sunset Street,DEL080,3.2
+CUST0700,"Coffee, Milkshake, Fries, Pasta",9:35 AM,31,0.74,Wallet,Tech Valley,DEL080,1.2
+CUST0701,"Salad, Coke, Biryani, Coffee",10:20 PM,66,19.56,Debit Card,Lakeside,DEL053,1.2
+CUST0702,"Smoothie, Chips",10:18 PM,110,11.79,Cash,Lakeside,DEL050,3.9
+CUST0703,"Smoothie, Juice, Salad, Burger",7:51 AM,81,24.73,Debit Card,Metro Square,DEL030,2.8
+CUST0704,"Pasta, Paneer Tikka, Chips, Smoothie",8:09 PM,16,12.34,Debit Card,City Center,DEL051,2
+CUST0705,"Pizza, Juice",6:33 PM,87,24.68,Wallet,Hillview,DEL044,1.8
+CUST0706,"Paneer Tikka, Burger, Coffee, Tea",2:26 PM,65,18.99,UPI,City Center,DEL070,3.7
+CUST0707,"Wrap, Fries",6:35 PM,76,6.59,UPI,Sunset Street,DEL006,1
+CUST0708,Salad,6:13 PM,25,13.69,Credit Card,Sunset Street,DEL057,4.2
+CUST0709,"Momos, Biryani",1:22 PM,92,24.81,Cash,Riverside,DEL036,1.3
+CUST0710,"Fries, Samosa",4:38 AM,60,21.51,UPI,Lakeside,DEL012,1.8
+CUST0711,"Rice Bowl, Biryani, Noodles, Pasta",8:17 AM,91,2.89,Debit Card,Airport Zone,DEL022,2.5
+CUST0712,Biryani,3:49 PM,89,17.81,UPI,City Center,DEL004,2.9
+CUST0713,"Milkshake, Coffee, Tea",3:26 AM,81,8.97,Debit Card,Riverside,DEL074,2.4
+CUST0714,"Sandwich, Tea",11:05 PM,106,0.67,Debit Card,Airport Zone,DEL040,2.3
+CUST0715,"Chips, Coke, Momos, Salad",7:50 PM,21,10.39,Cash,Old Town,DEL072,4.9
+CUST0716,"Salad, Biryani, Tea, Pasta",11:32 PM,62,6.25,Wallet,Green Park,DEL016,3.6
+CUST0717,"Pizza, Biryani, Noodles",4:30 AM,84,20.56,Debit Card,Metro Square,DEL072,1.1
+CUST0718,Burger,6:51 AM,14,8.76,Debit Card,City Center,DEL011,2.7
+CUST0719,"Fries, Smoothie, Samosa, Chips",9:51 AM,36,20.77,Debit Card,Downtown,DEL025,4.5
+CUST0720,"Noodles, Burger",5:05 PM,21,0.51,Credit Card,City Center,DEL080,2.2
+CUST0721,"Momos, Pizza",6:57 AM,26,8.04,Debit Card,Riverside,DEL070,1.4
+CUST0722,Sandwich,11:49 PM,15,6.41,UPI,Metro Square,DEL074,4
+CUST0723,"Biryani, Hotdog, Noodles, Wrap",2:02 AM,106,6.22,UPI,City Center,DEL007,3.4
+CUST0724,"Salad, Milkshake",8:21 AM,14,2.17,Credit Card,Downtown,DEL073,3.3
+CUST0725,"Chips, Coffee, Burger, Milkshake",1:09 AM,66,5.08,Cash,Lakeside,DEL067,1.2
+CUST0726,"Coke, Noodles, Tea",11:49 AM,37,14.11,Wallet,Uptown,DEL025,1.6
+CUST0727,"Paneer Tikka, Hotdog, Samosa",5:42 PM,87,7.64,Debit Card,Hillview,DEL061,3.5
+CUST0728,"Noodles, Momos, Juice",7:25 PM,78,10.73,Debit Card,Airport Zone,DEL065,1.8
+CUST0729,"Biryani, Pizza, Momos",7:43 AM,68,9.73,Wallet,Downtown,DEL003,3
+CUST0730,"Samosa, Hotdog, Noodles",5:04 AM,42,21.96,Debit Card,Uptown,DEL016,3.2
+CUST0731,"Chips, Tea, Milkshake, Hotdog",2:57 PM,71,22.68,Wallet,Tech Valley,DEL069,2.1
+CUST0732,"Biryani, Fries",9:13 AM,59,12.58,Credit Card,Lakeside,DEL024,4.8
+CUST0733,Coffee,11:23 PM,114,8.59,Wallet,Riverside,DEL003,4.4
+CUST0734,"Momos, Burger",2:16 PM,28,3.12,Credit Card,Riverside,DEL036,3.9
+CUST0735,"Tea, Burger, Sandwich, Pizza",4:48 PM,95,23.86,Debit Card,City Center,DEL027,1.3
+CUST0736,"Fries, Juice",7:21 AM,78,1.98,Debit Card,Old Town,DEL032,1.4
+CUST0737,"Juice, Chips",4:26 AM,75,7.79,Cash,Hillview,DEL075,3
+CUST0738,"Coke, Coffee",4:03 PM,103,7.8,UPI,Hillview,DEL057,1.6
+CUST0739,"Paneer Tikka, Coffee, Juice, Smoothie",12:55 PM,56,8.35,Wallet,City Center,DEL011,4.9
+CUST0740,"Salad, Wrap, Momos",8:34 AM,48,4.53,Cash,Riverside,DEL069,1.6
+CUST0741,Paneer Tikka,1:02 PM,77,19.69,UPI,Hillview,DEL078,2.9
+CUST0742,"Burger, Momos",11:27 PM,42,3.5,Credit Card,Sunset Street,DEL042,2.5
+CUST0743,"Hotdog, Coke, Paneer Tikka",2:12 PM,22,16.06,Cash,Metro Square,DEL052,3.6
+CUST0744,Samosa,6:35 PM,93,3.53,Cash,Uptown,DEL076,1.5
+CUST0745,"Tea, Paneer Tikka, Rice Bowl, Coke",7:45 AM,63,2.23,Debit Card,Lakeside,DEL006,2.7
+CUST0746,"Momos, Hotdog, Chips, Pasta",8:57 AM,16,22.78,Cash,Lakeside,DEL063,2.1
+CUST0747,"Fries, Rice Bowl",9:59 AM,88,5.16,Wallet,Old Town,DEL003,4.6
+CUST0748,"Samosa, Hotdog",5:32 PM,96,20.62,Credit Card,City Center,DEL044,1.2
+CUST0749,"Chips, Tea, Fries, Sandwich",6:35 AM,23,13.84,Wallet,Lakeside,DEL056,4.7
+CUST0750,"Noodles, Pizza",9:11 AM,96,2.41,Wallet,Downtown,DEL024,4.3
+CUST0751,"Biryani, Tea, Coffee, Noodles",10:51 AM,28,23.91,Debit Card,Metro Square,DEL054,2.2
+CUST0752,Pasta,7:24 AM,63,6.55,Credit Card,Sunset Street,DEL004,4.2
+CUST0753,"Smoothie, Wrap, Biryani, Juice",8:54 PM,102,21.56,UPI,Green Park,DEL068,1.1
+CUST0754,"Noodles, Tea, Wrap",9:25 AM,29,4.64,UPI,Green Park,DEL041,4.9
+CUST0755,Rice Bowl,4:34 AM,38,21.42,UPI,Uptown,DEL049,3.1
+CUST0756,"Hotdog, Coke",1:21 AM,33,0.82,Credit Card,Green Park,DEL033,2.2
+CUST0757,"Milkshake, Salad",10:03 AM,91,13.04,Credit Card,Hillview,DEL012,2.5
+CUST0758,"Biryani, Coke, Burger, Salad",2:52 PM,72,19.35,UPI,Airport Zone,DEL015,1.3
+CUST0759,"Wrap, Juice, Hotdog, Chips",2:59 PM,83,23.4,Credit Card,Green Park,DEL013,5
+CUST0760,"Pizza, Juice, Milkshake",8:45 AM,114,22.78,Cash,City Center,DEL070,1.2
+CUST0761,"Rice Bowl, Salad",1:25 AM,66,20.58,Credit Card,Tech Valley,DEL022,3.6
+CUST0762,"Smoothie, Juice",11:28 AM,17,22.26,Debit Card,Downtown,DEL037,2.8
+CUST0763,"Chips, Momos",7:21 PM,99,5.38,Debit Card,Sunset Street,DEL019,4.8
+CUST0764,"Juice, Noodles, Momos, Chips",11:05 AM,71,7.46,Wallet,Green Park,DEL024,2
+CUST0765,"Tea, Burger, Juice",11:25 AM,38,7.58,UPI,Tech Valley,DEL033,3.1
+CUST0766,"Noodles, Chips, Coke",5:13 AM,83,9.74,Cash,Lakeside,DEL012,2.9
+CUST0767,Wrap,6:11 PM,26,10.14,UPI,Airport Zone,DEL020,3.8
+CUST0768,"Wrap, Biryani, Smoothie",11:52 PM,75,13.84,Cash,Lakeside,DEL040,1.3
+CUST0769,Coke,12:38 AM,15,4.42,Credit Card,Lakeside,DEL053,1.8
+CUST0770,"Wrap, Sandwich, Paneer Tikka",1:34 AM,67,17.44,Debit Card,Uptown,DEL022,1.9
+CUST0771,Biryani,10:57 AM,78,4.61,Credit Card,Riverside,DEL008,4
+CUST0772,"Biryani, Hotdog, Wrap, Salad",10:06 AM,37,8.1,Wallet,Old Town,DEL079,1.8
+CUST0773,Sandwich,1:31 AM,71,12.83,Credit Card,Riverside,DEL042,3.3
+CUST0774,"Chips, Rice Bowl, Samosa",8:44 PM,50,20.01,UPI,Uptown,DEL024,1.9
+CUST0775,"Samosa, Fries",9:46 AM,78,18.62,Credit Card,Downtown,DEL004,4.4
+CUST0776,"Burger, Sandwich, Pizza, Rice Bowl",12:42 AM,91,16.32,Credit Card,Downtown,DEL008,4.8
+CUST0777,"Burger, Salad, Coke",7:06 PM,99,4.32,Wallet,Airport Zone,DEL039,3.1
+CUST0778,"Wrap, Rice Bowl",7:06 AM,93,13.9,UPI,Tech Valley,DEL050,2.4
+CUST0779,Tea,2:06 AM,50,2.64,Cash,Hillview,DEL013,1.9
+CUST0780,"Hotdog, Paneer Tikka, Juice",2:49 PM,58,9.75,Debit Card,Riverside,DEL041,1.2
+CUST0781,Smoothie,4:24 PM,100,10.63,Credit Card,Riverside,DEL019,2.1
+CUST0782,"Sandwich, Fries, Momos, Noodles",3:38 AM,58,1.48,Credit Card,Metro Square,DEL053,3.6
+CUST0783,"Coke, Fries",9:01 PM,85,7.21,Cash,City Center,DEL042,3.1
+CUST0784,"Pizza, Sandwich",4:21 AM,80,23.91,Cash,City Center,DEL034,4.8
+CUST0785,"Rice Bowl, Momos, Noodles",9:45 AM,12,23.86,Cash,Tech Valley,DEL049,2.6
+CUST0786,"Hotdog, Chips, Coffee, Coke",2:43 PM,19,9.13,Wallet,Metro Square,DEL016,3.8
+CUST0787,"Burger, Tea, Pizza",12:03 PM,107,1.56,Debit Card,Airport Zone,DEL007,3
+CUST0788,Paneer Tikka,9:44 PM,98,4.89,UPI,City Center,DEL026,3.1
+CUST0789,"Fries, Burger, Wrap, Hotdog",5:10 AM,44,10.11,Wallet,City Center,DEL031,2.1
+CUST0790,Hotdog,8:01 PM,89,23.72,Wallet,Sunset Street,DEL077,2.8
+CUST0791,"Paneer Tikka, Chips, Hotdog",12:45 PM,11,3.96,Cash,Sunset Street,DEL076,2.9
+CUST0792,Momos,7:23 PM,33,19.21,Wallet,Sunset Street,DEL031,3.8
+CUST0793,"Pizza, Fries, Pasta",7:20 AM,83,3.16,UPI,Sunset Street,DEL064,4.8
+CUST0794,"Wrap, Momos, Samosa",8:44 AM,47,24.54,Debit Card,Riverside,DEL066,2.3
+CUST0795,"Sandwich, Smoothie, Coffee",2:43 AM,31,9.85,UPI,Riverside,DEL065,1.2
+CUST0796,"Coke, Samosa",5:00 AM,35,19.49,Cash,Uptown,DEL050,3
+CUST0797,"Milkshake, Pasta, Momos",2:42 AM,52,8.89,Debit Card,Tech Valley,DEL015,3.2
+CUST0798,"Momos, Hotdog, Coffee",4:11 AM,64,15.88,UPI,Airport Zone,DEL035,1.7
+CUST0799,"Pizza, Coke, Fries",2:57 PM,48,5.2,Credit Card,Old Town,DEL008,4
+CUST0800,"Juice, Paneer Tikka, Wrap, Rice Bowl",10:50 AM,100,4.08,UPI,Airport Zone,DEL041,4.9
+CUST0801,"Wrap, Hotdog, Sandwich, Smoothie",6:22 PM,38,23.48,Credit Card,Downtown,DEL060,4.8
+CUST0802,"Salad, Paneer Tikka",1:00 AM,111,22.98,Wallet,Tech Valley,DEL071,1.8
+CUST0803,"Milkshake, Juice",5:55 AM,29,22.24,Credit Card,Tech Valley,DEL053,4.5
+CUST0804,"Momos, Tea, Noodles",1:48 PM,100,15.82,Wallet,Hillview,DEL009,3.8
+CUST0805,"Fries, Noodles, Momos",10:58 PM,50,20.3,Wallet,Airport Zone,DEL062,2.8
+CUST0806,"Momos, Pizza, Coke",1:05 AM,63,2.19,UPI,Sunset Street,DEL004,3.2
+CUST0807,Burger,10:07 AM,29,8.7,Cash,Downtown,DEL053,4.4
+CUST0808,"Biryani, Samosa",10:13 AM,117,8.19,Wallet,Sunset Street,DEL030,2.9
+CUST0809,"Paneer Tikka, Tea, Juice, Smoothie",11:59 PM,28,16.07,Wallet,Downtown,DEL003,2.5
+CUST0810,Tea,5:58 AM,93,9.22,Credit Card,Riverside,DEL035,3
+CUST0811,Wrap,11:51 AM,108,4.14,Wallet,Old Town,DEL071,3.3
+CUST0812,"Chips, Hotdog, Milkshake",8:43 PM,75,15.11,Debit Card,Green Park,DEL076,1.8
+CUST0813,"Tea, Wrap, Burger, Hotdog",9:37 PM,39,20.45,Wallet,Downtown,DEL013,4.6
+CUST0814,"Coffee, Hotdog, Pizza",8:28 AM,62,9.86,Cash,Riverside,DEL032,3.7
+CUST0815,"Chips, Pizza",8:56 PM,43,3.74,Debit Card,Tech Valley,DEL072,3.5
+CUST0816,"Paneer Tikka, Wrap, Milkshake, Smoothie",7:21 PM,31,5.32,Debit Card,Downtown,DEL017,1.4
+CUST0817,"Pasta, Coke, Juice, Tea",1:28 AM,76,6.32,Credit Card,Green Park,DEL039,3.4
+CUST0818,"Smoothie, Coffee, Sandwich, Pasta",9:02 AM,15,7.85,Cash,Lakeside,DEL073,1.5
+CUST0819,Milkshake,3:06 PM,88,16.25,Credit Card,Green Park,DEL053,1.3
+CUST0820,"Coke, Paneer Tikka, Smoothie, Chips",2:45 PM,36,15.22,Cash,City Center,DEL058,3.1
+CUST0821,"Noodles, Hotdog",6:54 AM,19,17.55,Cash,Lakeside,DEL011,2.6
+CUST0822,"Rice Bowl, Noodles, Momos",4:29 AM,82,9.38,Cash,Old Town,DEL065,3.4
+CUST0823,"Samosa, Tea",7:35 PM,106,20.69,UPI,Hillview,DEL027,1.4
+CUST0824,Fries,1:59 AM,105,5.5,Cash,City Center,DEL019,2.7
+CUST0825,"Samosa, Juice, Pizza",11:45 AM,57,11.99,UPI,Metro Square,DEL048,1.7
+CUST0826,"Hotdog, Pizza, Chips, Samosa",11:37 PM,79,20.12,Credit Card,Hillview,DEL070,4.9
+CUST0827,"Hotdog, Coffee",9:23 PM,114,4.91,Credit Card,Uptown,DEL022,3.2
+CUST0828,"Fries, Hotdog, Pasta",8:01 PM,68,3.19,UPI,Airport Zone,DEL032,3.7
+CUST0829,"Milkshake, Fries",7:42 AM,109,22.15,Credit Card,Downtown,DEL069,2.3
+CUST0830,"Samosa, Salad",2:03 AM,68,8.9,Cash,Metro Square,DEL055,1.4
+CUST0831,"Chips, Biryani, Hotdog",12:25 AM,11,17.25,UPI,Sunset Street,DEL072,4.9
+CUST0832,"Burger, Biryani, Salad",9:43 AM,38,1.12,UPI,Airport Zone,DEL058,2.1
+CUST0833,"Momos, Biryani, Smoothie, Pizza",7:13 PM,77,17.41,Cash,Hillview,DEL006,2.7
+CUST0834,"Burger, Smoothie",9:49 AM,74,8.24,Cash,Airport Zone,DEL001,3.6
+CUST0835,"Tea, Samosa",11:00 PM,92,1.87,Debit Card,Downtown,DEL060,1.1
+CUST0836,"Tea, Coffee, Milkshake, Smoothie",6:44 AM,35,15.44,Cash,City Center,DEL080,4.2
+CUST0837,Juice,6:07 PM,98,6.4,Credit Card,Sunset Street,DEL038,3.1
+CUST0838,"Paneer Tikka, Chips, Pasta, Hotdog",12:17 AM,19,9.98,Wallet,Hillview,DEL022,2.1
+CUST0839,"Juice, Wrap",11:08 AM,62,2.47,Wallet,Downtown,DEL001,1.2
+CUST0840,"Noodles, Chips, Smoothie",1:56 AM,88,4.11,Debit Card,Metro Square,DEL008,1.6
+CUST0841,Wrap,6:27 AM,68,7.8,Cash,Metro Square,DEL062,4.6
+CUST0842,"Samosa, Biryani",1:32 AM,31,2.7,UPI,Tech Valley,DEL035,3.7
+CUST0843,"Sandwich, Momos",7:44 PM,60,22.82,Debit Card,Sunset Street,DEL077,2
+CUST0844,"Milkshake, Fries, Tea",9:04 AM,57,0.65,UPI,Green Park,DEL033,1.3
+CUST0845,"Wrap, Hotdog, Milkshake, Samosa",2:34 AM,30,12.35,Cash,Old Town,DEL049,3.8
+CUST0846,"Coffee, Smoothie, Biryani",9:40 AM,31,3.52,Wallet,City Center,DEL045,3.3
+CUST0847,Coke,7:58 PM,109,8.04,Debit Card,Tech Valley,DEL028,2.6
+CUST0848,"Hotdog, Wrap, Smoothie, Noodles",3:14 AM,107,23.19,Cash,Sunset Street,DEL075,2.5
+CUST0849,Pizza,8:21 PM,39,4.46,Cash,Tech Valley,DEL066,1.9
+CUST0850,Juice,7:39 PM,34,24.16,UPI,City Center,DEL037,3.7
+CUST0851,Wrap,5:34 AM,118,5.54,UPI,Green Park,DEL006,4.9
+CUST0852,"Chips, Hotdog, Tea, Samosa",11:22 AM,37,18.67,Cash,Lakeside,DEL021,1.7
+CUST0853,"Pizza, Chips, Biryani, Smoothie",7:58 AM,74,13.89,UPI,Downtown,DEL069,3.4
+CUST0854,"Sandwich, Coffee, Milkshake, Coke",11:43 AM,54,22.17,Cash,Tech Valley,DEL073,2.7
+CUST0855,Rice Bowl,6:21 PM,77,14.07,Wallet,City Center,DEL009,2.8
+CUST0856,"Noodles, Juice, Biryani, Tea",4:02 AM,16,13.6,Debit Card,Downtown,DEL039,2
+CUST0857,"Burger, Hotdog, Milkshake",11:24 AM,58,5.29,Wallet,Downtown,DEL012,4.3
+CUST0858,"Fries, Samosa, Chips, Tea",2:02 AM,18,4.57,Wallet,Riverside,DEL051,2.9
+CUST0859,"Momos, Noodles, Pizza",1:26 AM,45,22.95,Wallet,Airport Zone,DEL016,3.2
+CUST0860,"Sandwich, Pizza, Coffee, Wrap",3:36 PM,92,8.53,Wallet,Tech Valley,DEL018,2.2
+CUST0861,Biryani,6:00 PM,10,9.62,Cash,Riverside,DEL072,1.7
+CUST0862,"Juice, Sandwich, Wrap, Coke",8:01 PM,19,19.12,Cash,Old Town,DEL036,1.3
+CUST0863,"Tea, Coffee, Chips, Salad",12:36 PM,45,8.8,Cash,Metro Square,DEL056,3.9
+CUST0864,"Hotdog, Coffee, Juice",1:58 PM,82,23.83,Credit Card,Green Park,DEL027,1.8
+CUST0865,"Chips, Pizza, Tea, Coffee",5:03 PM,118,18.58,Cash,Metro Square,DEL079,3.8
+CUST0866,Rice Bowl,2:34 AM,55,15.14,Cash,Tech Valley,DEL065,2.6
+CUST0867,Juice,12:45 PM,115,22.08,UPI,Hillview,DEL041,2.7
+CUST0868,Salad,2:30 PM,41,1.72,Credit Card,Tech Valley,DEL044,2.9
+CUST0869,"Pasta, Hotdog, Fries, Salad",8:02 AM,41,6.8,Debit Card,Airport Zone,DEL034,2.5
+CUST0870,Samosa,10:57 PM,15,11.89,Cash,Uptown,DEL058,1.4
+CUST0871,"Wrap, Biryani",7:30 AM,57,6.06,UPI,Hillview,DEL035,2.2
+CUST0872,"Coke, Juice, Pizza, Pasta",4:17 PM,47,18.73,Cash,Lakeside,DEL032,3.7
+CUST0873,"Sandwich, Fries, Tea, Juice",10:43 PM,26,23.02,Debit Card,Sunset Street,DEL042,3.7
+CUST0874,Samosa,4:45 AM,83,10.88,Cash,Hillview,DEL044,2.1
+CUST0875,Smoothie,6:42 AM,36,8.88,Wallet,Green Park,DEL027,2.8
+CUST0876,Tea,6:36 AM,63,24.06,Debit Card,Lakeside,DEL059,1.8
+CUST0877,"Milkshake, Smoothie, Chips",9:19 AM,59,11.4,Wallet,Sunset Street,DEL077,1.8
+CUST0878,"Coke, Fries",6:44 PM,44,12.48,Debit Card,Metro Square,DEL043,1.1
+CUST0879,"Burger, Momos, Paneer Tikka, Coke",11:55 AM,94,9.12,Cash,Lakeside,DEL003,4.6
+CUST0880,"Rice Bowl, Noodles, Salad",7:01 AM,34,22.78,Cash,Riverside,DEL018,1.8
+CUST0881,"Sandwich, Juice",12:25 AM,37,14.44,Debit Card,Uptown,DEL001,1.9
+CUST0882,"Momos, Milkshake, Coke, Hotdog",3:29 PM,24,19.17,UPI,Old Town,DEL078,2.1
+CUST0883,"Noodles, Sandwich, Smoothie",12:48 PM,13,20.39,Credit Card,Riverside,DEL061,1.5
+CUST0884,"Coffee, Coke",5:21 AM,102,8.88,Wallet,Lakeside,DEL001,3.6
+CUST0885,Milkshake,10:00 AM,82,11.13,Cash,Airport Zone,DEL002,1.3
+CUST0886,"Chips, Milkshake",6:10 AM,36,21.29,Wallet,Lakeside,DEL023,1.5
+CUST0887,"Coke, Wrap",8:22 PM,35,9.4,Credit Card,Metro Square,DEL053,3.6
+CUST0888,"Rice Bowl, Tea, Burger, Pasta",12:04 AM,28,19.95,Cash,Sunset Street,DEL072,2.4
+CUST0889,"Chips, Tea",3:13 PM,101,23.55,Wallet,Airport Zone,DEL063,3.8
+CUST0890,"Fries, Rice Bowl",12:20 PM,26,15.77,Credit Card,Lakeside,DEL051,3.2
+CUST0891,"Rice Bowl, Pizza, Paneer Tikka",8:08 AM,52,18.67,Debit Card,Old Town,DEL069,2
+CUST0892,"Wrap, Rice Bowl, Tea, Salad",12:11 PM,50,20.22,Wallet,Airport Zone,DEL011,3.6
+CUST0893,"Biryani, Salad, Chips, Tea",9:06 AM,51,21.2,Credit Card,Hillview,DEL010,1.5
+CUST0894,"Tea, Juice, Pizza",2:34 PM,59,10.18,Credit Card,Lakeside,DEL069,3.1
+CUST0895,"Pizza, Biryani",8:11 AM,93,1.76,Cash,Uptown,DEL004,2.7
+CUST0896,"Salad, Hotdog",6:03 PM,118,10.35,Cash,Hillview,DEL057,2.1
+CUST0897,"Coke, Smoothie, Sandwich, Fries",8:11 PM,49,17.01,Cash,Lakeside,DEL016,3.4
+CUST0898,"Salad, Juice, Fries, Momos",9:36 PM,48,11.53,UPI,Airport Zone,DEL046,4.5
+CUST0899,"Coffee, Wrap, Tea",10:49 PM,32,18.85,Debit Card,Old Town,DEL049,5
+CUST0900,"Pizza, Chips, Samosa, Hotdog",4:14 AM,105,9.25,Credit Card,Tech Valley,DEL077,3.4
+CUST0901,"Paneer Tikka, Milkshake, Rice Bowl",7:19 AM,61,16.05,UPI,Downtown,DEL046,2.6
+CUST0902,Coffee,10:54 AM,56,5.07,Credit Card,Lakeside,DEL050,1.9
+CUST0903,"Pasta, Smoothie, Salad, Samosa",3:04 AM,72,18.86,Wallet,Airport Zone,DEL023,2
+CUST0904,"Rice Bowl, Burger, Wrap, Smoothie",12:47 AM,106,13.87,UPI,Lakeside,DEL002,2.9
+CUST0905,"Momos, Burger",1:36 AM,119,5.5,Cash,Green Park,DEL016,2.5
+CUST0906,"Hotdog, Wrap, Smoothie",1:41 AM,78,7.65,Cash,Green Park,DEL060,4.7
+CUST0907,"Juice, Momos, Milkshake, Coke",1:53 PM,52,18.84,Debit Card,Downtown,DEL048,2.5
+CUST0908,"Juice, Burger, Tea",9:02 PM,57,12.32,UPI,Hillview,DEL025,2.5
+CUST0909,"Pasta, Smoothie, Biryani, Pizza",11:15 AM,43,5.79,Wallet,Lakeside,DEL057,2.5
+CUST0910,"Pizza, Hotdog, Rice Bowl",12:40 AM,49,24.2,Wallet,Airport Zone,DEL002,4.3
+CUST0911,"Coffee, Chips, Salad, Tea",5:35 PM,84,18.02,Debit Card,Metro Square,DEL029,3.6
+CUST0912,"Wrap, Hotdog, Burger, Smoothie",1:32 PM,70,23.95,Wallet,Riverside,DEL003,3.5
+CUST0913,"Milkshake, Wrap, Momos, Chips",8:15 AM,59,10.96,Cash,City Center,DEL036,2.3
+CUST0914,"Samosa, Rice Bowl",12:09 AM,76,12.14,Debit Card,Tech Valley,DEL046,4.3
+CUST0915,Rice Bowl,3:05 AM,71,22.5,UPI,Tech Valley,DEL025,1.2
+CUST0916,"Chips, Tea, Pasta, Hotdog",12:25 PM,67,13.36,Debit Card,Hillview,DEL012,4.5
+CUST0917,"Fries, Juice, Chips, Smoothie",2:14 PM,42,17.83,Wallet,Riverside,DEL079,3.1
+CUST0918,"Hotdog, Pizza",4:39 AM,84,6.68,Cash,City Center,DEL039,2.6
+CUST0919,"Pasta, Hotdog, Biryani",12:18 AM,25,11.44,UPI,City Center,DEL029,3
+CUST0920,"Tea, Samosa",9:21 PM,91,3.52,Debit Card,Airport Zone,DEL030,3.7
+CUST0921,"Fries, Chips, Momos",2:21 PM,103,5.55,Cash,Riverside,DEL064,1.1
+CUST0922,"Pizza, Pasta, Wrap, Rice Bowl",6:35 PM,57,0.52,Debit Card,Lakeside,DEL047,4.5
+CUST0923,"Pizza, Noodles",5:28 PM,19,1.46,Cash,Hillview,DEL005,2.8
+CUST0924,Rice Bowl,10:54 AM,91,24.44,Debit Card,Tech Valley,DEL036,2.4
+CUST0925,"Hotdog, Pasta, Pizza",6:55 PM,47,6.44,Cash,Uptown,DEL064,1.6
+CUST0926,Chips,5:05 AM,28,16.75,Wallet,City Center,DEL078,2.8
+CUST0927,Milkshake,5:37 AM,45,21.06,Wallet,Uptown,DEL027,3
+CUST0928,"Smoothie, Fries, Milkshake, Coke",11:37 PM,68,13.99,Cash,City Center,DEL001,2.6
+CUST0929,Rice Bowl,1:19 PM,72,4.25,Wallet,Airport Zone,DEL026,3.7
+CUST0930,Pizza,5:25 AM,86,18.34,Debit Card,Old Town,DEL051,2.7
+CUST0931,"Sandwich, Coffee, Smoothie, Wrap",1:14 AM,55,15.21,UPI,Lakeside,DEL015,4.8
+CUST0932,"Smoothie, Noodles, Pizza",7:26 AM,12,18.42,UPI,Airport Zone,DEL036,3.4
+CUST0933,"Burger, Wrap, Samosa, Coke",9:51 PM,83,19.36,UPI,Old Town,DEL073,4.2
+CUST0934,Hotdog,5:51 AM,111,24.4,Wallet,Metro Square,DEL065,1.4
+CUST0935,"Milkshake, Tea, Samosa",12:56 AM,74,14.55,Wallet,Uptown,DEL064,2.6
+CUST0936,"Biryani, Momos",10:09 PM,100,8.87,Debit Card,Metro Square,DEL022,2.3
+CUST0937,"Burger, Tea, Fries",2:23 PM,119,16.39,Credit Card,Uptown,DEL071,3.3
+CUST0938,"Biryani, Pasta, Coke, Tea",11:33 AM,17,2.18,Debit Card,Green Park,DEL025,4.4
+CUST0939,"Pizza, Tea, Wrap",5:04 AM,60,22.49,Debit Card,Lakeside,DEL073,1.3
+CUST0940,"Paneer Tikka, Coke, Sandwich",8:29 AM,119,3.42,Cash,Hillview,DEL078,1.3
+CUST0941,"Samosa, Noodles",2:56 PM,115,8.53,Wallet,Old Town,DEL073,4.4
+CUST0942,"Chips, Pasta, Juice",12:44 AM,90,20.49,UPI,Green Park,DEL023,1.9
+CUST0943,"Coffee, Wrap, Hotdog",7:08 PM,82,15.13,Debit Card,Riverside,DEL009,3.7
+CUST0944,"Biryani, Pizza, Coffee",12:58 AM,15,10.14,Credit Card,Hillview,DEL076,3.2
+CUST0945,"Samosa, Wrap",2:07 PM,116,12.1,UPI,Downtown,DEL017,4.3
+CUST0946,"Smoothie, Coke, Pasta",2:51 AM,98,21.44,Cash,Downtown,DEL009,1.5
+CUST0947,Momos,11:53 AM,48,8.83,Debit Card,Airport Zone,DEL017,1.5
+CUST0948,"Samosa, Paneer Tikka, Chips",5:14 AM,69,21.81,Debit Card,Uptown,DEL034,3.2
+CUST0949,"Juice, Noodles, Rice Bowl",10:48 PM,37,2.66,Wallet,City Center,DEL073,4.8
+CUST0950,"Biryani, Rice Bowl, Hotdog, Juice",5:00 PM,106,19.53,Cash,Metro Square,DEL030,2.7
+CUST0951,"Paneer Tikka, Noodles",5:12 AM,63,21.26,Cash,Sunset Street,DEL067,2.3
+CUST0952,"Noodles, Juice, Smoothie",1:44 PM,46,4.95,UPI,Tech Valley,DEL036,3.4
+CUST0953,"Wrap, Hotdog, Noodles, Biryani",5:06 AM,18,11.04,Credit Card,Airport Zone,DEL025,4.7
+CUST0954,"Biryani, Smoothie",8:50 PM,91,4.55,Wallet,Airport Zone,DEL003,4.3
+CUST0955,Fries,7:46 PM,65,17.81,Cash,City Center,DEL069,5
+CUST0956,"Pasta, Coffee, Momos",9:10 PM,68,13.62,Wallet,City Center,DEL079,1.1
+CUST0957,"Samosa, Coke",2:22 AM,94,16.07,Credit Card,Riverside,DEL033,1.5
+CUST0958,Wrap,4:50 PM,11,5.31,Credit Card,Lakeside,DEL072,3.4
+CUST0959,"Juice, Biryani",3:33 AM,70,5.69,Debit Card,Old Town,DEL059,4.3
+CUST0960,"Paneer Tikka, Chips, Noodles, Pasta",6:58 PM,67,1.52,Wallet,Airport Zone,DEL001,2.1
+CUST0961,"Juice, Sandwich",3:46 PM,116,8.39,Cash,Hillview,DEL055,2
+CUST0962,"Wrap, Burger, Tea, Noodles",12:43 AM,69,14.21,Cash,Sunset Street,DEL007,4.1
+CUST0963,Coke,11:36 AM,111,21.52,UPI,Hillview,DEL042,1.2
+CUST0964,Sandwich,3:27 AM,49,16.84,Credit Card,City Center,DEL056,2.5
+CUST0965,"Paneer Tikka, Noodles, Pasta, Wrap",3:49 AM,45,11.17,Credit Card,Metro Square,DEL053,3
+CUST0966,"Hotdog, Pasta, Rice Bowl",3:32 AM,116,23.85,UPI,City Center,DEL036,3.2
+CUST0967,"Hotdog, Sandwich, Coke, Salad",1:13 PM,46,18.12,UPI,Green Park,DEL016,3.9
+CUST0968,"Fries, Momos, Wrap",5:23 PM,88,23.29,UPI,Tech Valley,DEL067,2.4
+CUST0969,"Noodles, Coffee",10:35 AM,101,13.43,Debit Card,Airport Zone,DEL060,3.5
+CUST0970,Momos,5:05 PM,27,6.84,UPI,Sunset Street,DEL064,3.3
+CUST0971,"Pasta, Paneer Tikka",11:37 PM,107,1.79,UPI,Airport Zone,DEL047,3.2
+CUST0972,"Pizza, Burger, Salad, Sandwich",10:36 AM,72,18.29,Cash,Old Town,DEL067,3.6
+CUST0973,"Wrap, Fries, Momos",11:29 PM,31,3.47,Debit Card,Airport Zone,DEL006,2
+CUST0974,"Burger, Pizza, Fries, Biryani",10:30 PM,20,7.92,Wallet,Sunset Street,DEL029,1.3
+CUST0975,"Burger, Salad",5:45 AM,67,13.55,Cash,Uptown,DEL007,1.5
+CUST0976,"Rice Bowl, Biryani",10:06 PM,66,14.33,Debit Card,Old Town,DEL036,1.9
+CUST0977,"Paneer Tikka, Chips, Wrap",12:35 PM,86,15.21,Wallet,Old Town,DEL054,3
+CUST0978,"Burger, Pizza, Momos, Rice Bowl",4:02 PM,13,4.57,Debit Card,Old Town,DEL069,4.4
+CUST0979,Coke,10:03 PM,95,9.8,Wallet,City Center,DEL058,3.8
+CUST0980,"Rice Bowl, Coke, Biryani, Hotdog",10:58 AM,16,15.62,Credit Card,City Center,DEL041,4.2
+CUST0981,"Noodles, Biryani, Wrap",7:30 AM,70,24.26,Debit Card,Riverside,DEL001,2.4
+CUST0982,"Wrap, Coffee, Coke",5:48 PM,116,18.33,Credit Card,Sunset Street,DEL051,2.6
+CUST0983,"Tea, Coke",10:38 PM,63,23.1,Debit Card,Old Town,DEL025,2.6
+CUST0984,"Wrap, Pizza, Burger",6:04 AM,97,19.17,Debit Card,Metro Square,DEL043,1.8
+CUST0985,"Biryani, Chips",5:24 PM,77,15,Cash,Old Town,DEL011,1.2
+CUST0986,"Noodles, Biryani, Rice Bowl",7:09 PM,101,5.2,Debit Card,Metro Square,DEL074,3.4
+CUST0987,"Hotdog, Fries",4:58 PM,88,16.83,Debit Card,Sunset Street,DEL004,5
+CUST0988,"Coffee, Burger, Pizza, Tea",6:30 PM,10,15.77,Credit Card,Downtown,DEL029,1.7
+CUST0989,"Momos, Burger",5:51 AM,64,15.26,Cash,Green Park,DEL055,1.2
+CUST0990,"Momos, Coffee",4:17 PM,12,12.5,Debit Card,Metro Square,DEL010,4.1
+CUST0991,"Tea, Noodles, Biryani",10:56 AM,87,13.45,Wallet,Old Town,DEL032,2
+CUST0992,Coffee,9:55 AM,47,8.69,Cash,Hillview,DEL026,4.3
+CUST0993,"Paneer Tikka, Samosa",1:42 AM,10,13.22,UPI,Uptown,DEL022,3.8
+CUST0994,"Hotdog, Momos, Smoothie",3:32 AM,111,5.34,Wallet,Tech Valley,DEL043,4.8
+CUST0995,"Hotdog, Rice Bowl",4:10 AM,47,20.23,Credit Card,Old Town,DEL040,2.6
+CUST0996,"Tea, Noodles",11:48 PM,94,5.05,UPI,Downtown,DEL009,3.6
+CUST0997,"Wrap, Rice Bowl, Milkshake, Coke",3:10 PM,38,2.58,Cash,Tech Valley,DEL013,2.9
+CUST0998,"Coke, Biryani",12:03 AM,14,11.19,Credit Card,Airport Zone,DEL004,3.5
+CUST0999,"Juice, Samosa, Coffee",5:35 AM,83,16.63,Cash,Uptown,DEL062,2.8
+CUST1000,"Juice, Tea, Pizza",6:39 AM,101,11.22,Cash,Airport Zone,DEL056,1.8
+CUST1001,"Milkshake, Paneer Tikka, Smoothie",9:34 AM,30,7.28,Debit Card,Riverside,DEL004,3
+CUST1002,"Chips, Smoothie, Sandwich, Milkshake",4:40 AM,80,14.18,Credit Card,Airport Zone,DEL076,3.1
+CUST1003,"Wrap, Samosa, Pizza",7:08 AM,76,9,UPI,Airport Zone,DEL043,4.2
+CUST1004,"Chips, Momos, Rice Bowl",9:09 PM,118,23.36,Debit Card,Hillview,DEL033,3.9
+CUST1005,"Coffee, Juice, Chips",1:16 AM,56,23.1,Cash,Lakeside,DEL032,3.7
+CUST1006,"Milkshake, Smoothie, Tea",2:17 AM,93,12.81,Cash,Metro Square,DEL014,1.5
+CUST1007,"Momos, Rice Bowl",8:31 AM,92,8.53,Debit Card,Green Park,DEL061,3.9
+CUST1008,"Coke, Burger, Fries, Pasta",8:41 AM,44,18.56,Cash,Tech Valley,DEL031,3
+CUST1009,"Tea, Biryani",6:46 AM,77,1.4,UPI,Hillview,DEL044,4.6
+CUST1010,"Sandwich, Smoothie, Biryani, Pasta",4:59 AM,78,12.13,UPI,Sunset Street,DEL007,4.7
+CUST1011,"Rice Bowl, Paneer Tikka, Smoothie",11:55 PM,10,8.74,Credit Card,Airport Zone,DEL043,1.2
+CUST1012,Burger,4:47 PM,77,23.05,Cash,Lakeside,DEL067,4.3
+CUST1013,Wrap,3:04 AM,21,0.79,Wallet,Lakeside,DEL031,1.2
+CUST1014,"Coke, Salad, Juice",1:23 PM,69,14.04,Credit Card,Old Town,DEL010,2.5
+CUST1015,"Coffee, Burger, Biryani, Samosa",6:38 PM,36,18.65,UPI,Hillview,DEL077,3.2
+CUST1016,Tea,10:12 PM,65,12.38,Credit Card,Tech Valley,DEL080,1.6
+CUST1017,"Samosa, Wrap, Paneer Tikka, Coffee",10:00 PM,115,2.59,UPI,Downtown,DEL057,4
+CUST1018,"Salad, Fries",9:08 PM,32,24.33,Cash,Metro Square,DEL013,1
+CUST1019,"Pasta, Tea, Paneer Tikka, Salad",11:40 PM,34,13.19,Wallet,Green Park,DEL058,1.7
+CUST1020,"Salad, Noodles, Coffee",11:00 PM,30,15.55,Wallet,Old Town,DEL075,3.3
+CUST1021,Samosa,4:02 AM,70,6.3,UPI,Tech Valley,DEL016,3.9
+CUST1022,Tea,8:13 PM,72,12.35,Wallet,Metro Square,DEL011,4.7
+CUST1023,"Pizza, Momos, Hotdog",1:17 AM,61,11.01,UPI,Sunset Street,DEL008,3.8
+CUST1024,"Pizza, Pasta, Wrap",10:44 PM,97,2.33,Credit Card,Lakeside,DEL005,3.7
+CUST1025,"Tea, Momos, Coke",4:14 AM,34,3.1,Wallet,Hillview,DEL049,2.6
+CUST1026,"Rice Bowl, Chips, Samosa",4:08 AM,118,21.02,Credit Card,Lakeside,DEL041,1
+CUST1027,Wrap,10:28 PM,64,6.38,Wallet,Tech Valley,DEL009,1.5
+CUST1028,"Milkshake, Smoothie, Biryani, Sandwich",3:22 PM,55,5.28,Cash,Riverside,DEL017,3.1
+CUST1029,Noodles,4:44 AM,41,12.87,UPI,Metro Square,DEL008,3.7
+CUST1030,"Chips, Paneer Tikka, Milkshake",3:15 AM,64,19.33,Cash,Old Town,DEL057,2.7
+CUST1031,Noodles,11:45 AM,105,2.02,Cash,Riverside,DEL008,3.9
+CUST1032,"Salad, Biryani, Coffee",6:02 AM,14,14.63,Credit Card,Downtown,DEL039,3.1
+CUST1033,"Wrap, Fries, Rice Bowl",4:32 AM,45,3.42,Cash,Lakeside,DEL079,1.3
+CUST1034,Salad,2:26 AM,119,1.39,Debit Card,Sunset Street,DEL056,1.8
+CUST1035,Salad,10:56 AM,115,1.79,Wallet,City Center,DEL009,4.4
+CUST1036,"Noodles, Fries",1:26 AM,58,20.94,Cash,Riverside,DEL014,3.9
+CUST1037,"Rice Bowl, Momos, Fries, Milkshake",8:25 AM,115,3.39,Cash,Tech Valley,DEL008,4.6
+CUST1038,"Pizza, Wrap, Samosa",6:00 AM,67,1.61,Credit Card,Uptown,DEL072,1.5
+CUST1039,"Fries, Hotdog, Paneer Tikka",9:52 PM,48,11.23,UPI,Downtown,DEL007,5
+CUST1040,"Pizza, Noodles, Milkshake",1:22 AM,89,21.18,Cash,Old Town,DEL038,1.8
+CUST1041,Smoothie,10:50 PM,106,6.93,UPI,Downtown,DEL049,1
+CUST1042,"Chips, Rice Bowl, Smoothie",7:14 PM,94,10.83,Cash,Lakeside,DEL052,5
+CUST1043,Chips,2:29 PM,70,1.48,Credit Card,City Center,DEL013,2.1
+CUST1044,"Tea, Milkshake",2:22 PM,18,11.5,Cash,Tech Valley,DEL080,3.7
+CUST1045,"Coke, Pasta",12:57 PM,15,14.65,Debit Card,Uptown,DEL053,1.7
+CUST1046,"Salad, Pizza, Momos",6:06 PM,118,14.49,Debit Card,Tech Valley,DEL030,3.3
+CUST1047,"Paneer Tikka, Samosa, Momos",7:34 PM,44,8.64,Credit Card,Tech Valley,DEL077,4.6
+CUST1048,"Momos, Coffee",7:08 AM,48,8.23,Wallet,City Center,DEL080,2.3
+CUST1049,"Burger, Chips",2:43 AM,31,3.11,Debit Card,Downtown,DEL002,3.7
+CUST1050,Samosa,12:41 AM,50,9.49,Credit Card,Uptown,DEL059,1.8
+CUST1051,"Fries, Tea, Rice Bowl",5:38 AM,14,2.94,Debit Card,Tech Valley,DEL050,3.5
+CUST1052,"Momos, Wrap",2:26 AM,51,19.28,UPI,Green Park,DEL060,2.3
+CUST1053,"Hotdog, Milkshake, Coke",9:56 PM,96,24.17,UPI,Green Park,DEL055,1.8
+CUST1054,"Momos, Juice",9:47 PM,90,24.27,Wallet,Green Park,DEL080,2.3
+CUST1055,Samosa,2:30 AM,85,21.69,Credit Card,Airport Zone,DEL080,1.7
+CUST1056,"Burger, Smoothie, Chips, Pizza",9:24 AM,96,15.22,UPI,Sunset Street,DEL013,4.6
+CUST1057,"Smoothie, Sandwich",7:02 PM,89,17.67,Credit Card,Metro Square,DEL044,2.6
+CUST1058,"Pizza, Smoothie, Momos, Paneer Tikka",5:37 AM,76,7.49,Wallet,Old Town,DEL004,2
+CUST1059,"Paneer Tikka, Burger, Fries, Hotdog",11:33 PM,39,15.95,Cash,Tech Valley,DEL059,2.8
+CUST1060,Hotdog,6:07 AM,66,11.66,Cash,Hillview,DEL067,2.3
+CUST1061,"Burger, Biryani",12:16 AM,95,12.31,Cash,Green Park,DEL043,4
+CUST1062,"Tea, Milkshake, Momos",7:53 AM,82,19.07,Credit Card,Sunset Street,DEL076,4.9
+CUST1063,"Fries, Noodles",11:34 PM,38,7.41,Cash,Metro Square,DEL025,2.8
+CUST1064,"Biryani, Coke, Noodles",8:04 AM,46,8.29,Cash,Old Town,DEL014,4.4
+CUST1065,Pizza,7:24 PM,96,23.15,Credit Card,Tech Valley,DEL014,3.3
+CUST1066,Chips,12:10 PM,22,1.88,Debit Card,Green Park,DEL002,1.6
+CUST1067,"Milkshake, Smoothie, Burger, Juice",4:36 AM,41,12.4,Debit Card,Green Park,DEL077,3.8
+CUST1068,"Coffee, Fries, Milkshake",2:51 AM,55,22.86,Credit Card,Green Park,DEL009,3.1
+CUST1069,"Pasta, Fries, Smoothie",6:07 AM,32,15.45,UPI,Sunset Street,DEL076,3.6
+CUST1070,"Chips, Coke, Tea, Sandwich",1:31 PM,54,13.89,Debit Card,Green Park,DEL025,4.6
+CUST1071,"Pasta, Hotdog",12:32 AM,26,6.62,Wallet,Uptown,DEL074,2.8
+CUST1072,Samosa,1:23 AM,113,8.91,Wallet,City Center,DEL017,4.6
+CUST1073,"Samosa, Biryani",12:35 PM,94,21.38,Debit Card,Hillview,DEL066,4
+CUST1074,Sandwich,11:53 AM,75,14.2,Cash,Sunset Street,DEL033,3
+CUST1075,"Coffee, Juice",1:53 PM,110,13.11,Credit Card,Tech Valley,DEL046,3.4
+CUST1076,"Hotdog, Milkshake, Wrap, Paneer Tikka",12:29 PM,15,2.94,Debit Card,Hillview,DEL054,2.3
+CUST1077,"Hotdog, Juice",1:24 AM,117,0.89,UPI,Downtown,DEL062,4.9
+CUST1078,Hotdog,7:44 AM,27,24.11,Wallet,Downtown,DEL080,3.7
+CUST1079,Biryani,12:59 PM,103,9.74,Credit Card,Downtown,DEL057,1.2
+CUST1080,"Coffee, Smoothie",4:05 AM,31,15.28,Credit Card,Tech Valley,DEL024,2.3
+CUST1081,"Coke, Rice Bowl, Tea",6:32 PM,42,2.45,Cash,Old Town,DEL032,3.5
+CUST1082,Chips,12:23 PM,39,17.24,UPI,Sunset Street,DEL018,1.2
+CUST1083,"Chips, Biryani, Sandwich",11:03 AM,90,23.35,Wallet,Green Park,DEL006,1.1
+CUST1084,"Milkshake, Sandwich",9:37 AM,116,14.6,Cash,Old Town,DEL008,2.8
+CUST1085,"Rice Bowl, Noodles, Hotdog, Paneer Tikka",9:49 AM,41,3.59,Debit Card,Tech Valley,DEL017,2.3
+CUST1086,Chips,8:19 AM,51,14.75,Debit Card,Old Town,DEL040,2.8
+CUST1087,"Pasta, Fries, Milkshake",8:02 PM,87,19.28,Credit Card,City Center,DEL075,2.1
+CUST1088,Burger,2:27 PM,19,10.46,Cash,Hillview,DEL056,1.7
+CUST1089,"Pizza, Milkshake, Salad, Wrap",12:12 PM,45,22.06,UPI,Metro Square,DEL066,3.8
+CUST1090,"Rice Bowl, Chips",9:19 PM,43,16.39,UPI,Downtown,DEL046,3.1
+CUST1091,"Biryani, Wrap, Coke",7:49 PM,82,22.53,Wallet,Green Park,DEL040,1.8
+CUST1092,"Tea, Salad",6:45 AM,115,15.78,Credit Card,Uptown,DEL075,2.3
+CUST1093,"Rice Bowl, Burger, Biryani",7:36 AM,37,3.72,Wallet,Tech Valley,DEL070,3.4
+CUST1094,"Paneer Tikka, Momos, Samosa, Pasta",1:22 PM,20,8.09,Debit Card,Tech Valley,DEL019,1.3
+CUST1095,"Samosa, Pasta",12:19 AM,87,5.44,Wallet,Green Park,DEL019,1.6
+CUST1096,Burger,8:38 PM,48,22.77,Cash,Hillview,DEL061,1.3
+CUST1097,"Coffee, Rice Bowl, Burger, Pasta",12:10 PM,56,19.13,Credit Card,Green Park,DEL040,4.2
+CUST1098,"Coke, Hotdog",2:12 PM,28,17.07,Credit Card,Uptown,DEL078,4
+CUST1099,"Tea, Pizza, Paneer Tikka",4:54 AM,24,7.87,Credit Card,City Center,DEL044,4
+CUST1100,"Samosa, Tea, Milkshake",5:24 AM,37,5.01,UPI,City Center,DEL038,3.9
+CUST1101,"Samosa, Paneer Tikka, Sandwich",4:27 AM,33,19.03,Debit Card,Hillview,DEL048,3.7
+CUST1102,"Wrap, Sandwich, Momos, Hotdog",3:05 AM,81,12.12,Cash,Hillview,DEL002,2.9
+CUST1103,Samosa,9:09 AM,116,6.03,Wallet,Hillview,DEL067,3.6
+CUST1104,Pasta,8:13 AM,18,15.61,Debit Card,Uptown,DEL076,1.2
+CUST1105,"Smoothie, Tea",1:42 PM,56,1.49,UPI,Old Town,DEL019,3.5
+CUST1106,Paneer Tikka,4:58 AM,42,8.49,UPI,Lakeside,DEL008,4.1
+CUST1107,"Biryani, Juice, Momos, Smoothie",11:21 PM,71,11.98,Debit Card,Lakeside,DEL031,3
+CUST1108,"Momos, Pizza, Coke, Salad",8:35 PM,106,4.12,Cash,Sunset Street,DEL065,2.4
+CUST1109,"Burger, Coke, Noodles, Tea",10:20 PM,28,24.62,UPI,Hillview,DEL072,2.1
+CUST1110,"Hotdog, Coke, Tea",8:43 AM,76,5.62,Credit Card,Downtown,DEL007,3.6
+CUST1111,"Salad, Pizza, Burger, Tea",4:06 AM,83,3.69,Credit Card,City Center,DEL055,3.8
+CUST1112,"Fries, Juice, Milkshake",9:32 PM,49,5.49,Debit Card,Riverside,DEL045,4.5
+CUST1113,Salad,4:40 PM,56,19.34,Credit Card,Riverside,DEL026,2.4
+CUST1114,"Burger, Pasta",1:34 AM,115,10.92,Credit Card,Old Town,DEL026,4.1
+CUST1115,"Burger, Wrap, Salad, Coffee",11:31 PM,74,14.35,Debit Card,Tech Valley,DEL026,3.2
+CUST1116,"Juice, Coffee",7:43 PM,38,1.01,Debit Card,Old Town,DEL009,4.5
+CUST1117,"Milkshake, Salad, Fries, Noodles",7:06 PM,59,1.34,Debit Card,Tech Valley,DEL044,3.1
+CUST1118,"Smoothie, Noodles",11:39 PM,107,11.42,UPI,Downtown,DEL025,3.1
+CUST1119,"Samosa, Pasta",1:09 PM,22,20.51,Cash,Old Town,DEL061,3.3
+CUST1120,Momos,8:15 PM,10,22.19,Credit Card,Riverside,DEL060,4
+CUST1121,"Noodles, Rice Bowl, Samosa",11:19 PM,43,2.62,Cash,Green Park,DEL077,4.9
+CUST1122,Salad,10:05 PM,102,13.69,Debit Card,Sunset Street,DEL043,1.3
+CUST1123,"Salad, Pasta, Noodles",9:38 PM,57,22.87,Cash,Downtown,DEL075,1.2
+CUST1124,"Juice, Hotdog",6:43 PM,86,10.01,Cash,Airport Zone,DEL073,4.8
+CUST1125,Hotdog,12:16 PM,57,20.82,Debit Card,Uptown,DEL043,3.1
+CUST1126,"Samosa, Salad",7:12 AM,58,3.78,UPI,Sunset Street,DEL079,3.5
+CUST1127,"Momos, Coke, Sandwich, Smoothie",5:21 PM,73,23.42,Cash,Downtown,DEL039,2.9
+CUST1128,"Smoothie, Noodles, Milkshake",7:56 AM,70,18.91,Wallet,Riverside,DEL054,1.4
+CUST1129,"Pizza, Tea, Samosa, Coffee",4:46 AM,38,23.56,Debit Card,Tech Valley,DEL043,4.1
+CUST1130,Fries,9:29 AM,48,17.08,Cash,Riverside,DEL021,4
+CUST1131,"Salad, Coffee, Momos",5:56 AM,97,9.4,Credit Card,Downtown,DEL014,2.2
+CUST1132,Sandwich,11:42 AM,35,23.49,Debit Card,Lakeside,DEL059,2.2
+CUST1133,"Samosa, Wrap, Biryani, Hotdog",1:23 AM,26,7.25,Credit Card,Hillview,DEL006,4.4
+CUST1134,"Smoothie, Hotdog",5:15 PM,80,8.64,Debit Card,Hillview,DEL064,1.3
+CUST1135,"Smoothie, Paneer Tikka, Momos, Pasta",7:15 AM,22,17.67,Wallet,City Center,DEL029,4.5
+CUST1136,"Fries, Pasta, Coke",8:12 AM,78,19.25,UPI,Riverside,DEL001,2
+CUST1137,"Smoothie, Burger",1:51 AM,35,23.27,Debit Card,Old Town,DEL029,3.4
+CUST1138,"Momos, Pizza",10:15 PM,58,5.52,Cash,Metro Square,DEL030,4.7
+CUST1139,"Coke, Tea",2:05 AM,76,20.05,UPI,Tech Valley,DEL060,3.7
+CUST1140,Wrap,10:53 PM,16,18.59,Cash,Downtown,DEL080,2.7
+CUST1141,Noodles,11:54 AM,67,2.06,Debit Card,City Center,DEL028,3.8
+CUST1142,"Noodles, Burger, Biryani",9:33 PM,58,9.99,Credit Card,Downtown,DEL031,2.4
+CUST1143,"Pizza, Coffee",3:25 PM,112,7.43,Credit Card,Airport Zone,DEL062,2.1
+CUST1144,Salad,12:23 AM,62,7.96,UPI,Green Park,DEL043,5
+CUST1145,"Samosa, Fries, Tea, Coke",11:17 PM,74,24.58,Wallet,Airport Zone,DEL049,4
+CUST1146,Smoothie,11:55 AM,71,16.25,Cash,Downtown,DEL027,3.6
+CUST1147,"Burger, Pizza, Milkshake",2:49 PM,26,18.08,UPI,Old Town,DEL052,2.4
+CUST1148,"Biryani, Coffee",11:24 PM,52,24.43,Debit Card,Lakeside,DEL024,1.2
+CUST1149,"Noodles, Burger",10:36 PM,34,9.74,Credit Card,Airport Zone,DEL001,1.1
+CUST1150,Rice Bowl,9:17 PM,12,20.15,Cash,Old Town,DEL047,3.2
+CUST1151,"Pasta, Biryani, Milkshake",3:21 PM,88,11.15,Credit Card,Riverside,DEL002,4
+CUST1152,"Sandwich, Burger, Coke, Paneer Tikka",2:25 PM,38,21.8,Wallet,Downtown,DEL010,3.1
+CUST1153,"Wrap, Noodles, Tea",6:45 PM,116,4.93,Credit Card,Lakeside,DEL046,4.4
+CUST1154,"Coke, Juice, Fries, Chips",11:51 PM,41,23.72,Debit Card,Hillview,DEL004,1.1
+CUST1155,Biryani,8:46 AM,35,5.86,UPI,Airport Zone,DEL072,2.5
+CUST1156,"Paneer Tikka, Biryani",8:21 PM,25,8.49,Debit Card,Uptown,DEL015,1.9
+CUST1157,"Paneer Tikka, Milkshake",6:23 AM,34,19.03,Cash,Riverside,DEL019,2.8
+CUST1158,"Burger, Biryani, Salad",7:27 AM,63,10.15,UPI,Hillview,DEL038,1.3
+CUST1159,"Rice Bowl, Noodles, Smoothie, Sandwich",11:36 AM,37,15.4,Wallet,Metro Square,DEL057,4.8
+CUST1160,Paneer Tikka,3:54 PM,82,11.39,UPI,Lakeside,DEL025,1.9
+CUST1161,Paneer Tikka,8:25 AM,65,18.69,Credit Card,Downtown,DEL075,4.7
+CUST1162,Burger,12:59 PM,74,6.09,Credit Card,Lakeside,DEL047,2.7
+CUST1163,"Juice, Paneer Tikka",11:38 PM,102,1.93,Debit Card,Tech Valley,DEL006,4.9
+CUST1164,"Smoothie, Sandwich, Juice, Pizza",4:24 PM,95,7.85,Wallet,Metro Square,DEL004,3.2
+CUST1165,"Paneer Tikka, Noodles, Sandwich, Smoothie",2:27 AM,89,12.12,Debit Card,Uptown,DEL026,4.7
+CUST1166,"Chips, Momos, Paneer Tikka, Hotdog",6:57 AM,50,4.62,UPI,Lakeside,DEL026,1
+CUST1167,Wrap,8:08 AM,117,9.19,Debit Card,Sunset Street,DEL037,4
+CUST1168,"Burger, Coffee, Milkshake",2:11 AM,60,10.3,UPI,Lakeside,DEL023,4.6
+CUST1169,Pizza,10:18 AM,114,1.91,Wallet,Sunset Street,DEL029,1.6
+CUST1170,"Juice, Wrap, Rice Bowl",11:01 AM,80,14.79,Wallet,Lakeside,DEL034,1.4
+CUST1171,"Coke, Pizza",5:44 PM,87,22.17,Credit Card,Sunset Street,DEL023,2.7
+CUST1172,Tea,12:36 AM,38,4.22,Cash,City Center,DEL044,4.7
+CUST1173,"Wrap, Coke, Hotdog, Momos",10:59 AM,92,15.15,Debit Card,Hillview,DEL071,3.2
+CUST1174,"Smoothie, Juice, Hotdog",7:58 PM,28,16.79,Debit Card,Green Park,DEL032,3.1
+CUST1175,"Fries, Tea, Juice, Salad",9:32 AM,75,10.77,Debit Card,City Center,DEL023,1.6
+CUST1176,"Tea, Coffee",2:52 AM,50,17.68,Credit Card,Old Town,DEL026,1
+CUST1177,Fries,10:11 AM,54,10.56,UPI,Hillview,DEL003,4.2
+CUST1178,"Tea, Rice Bowl, Biryani, Hotdog",12:38 PM,24,12.86,Cash,Uptown,DEL023,1.4
+CUST1179,"Momos, Coke, Biryani, Juice",4:20 AM,12,0.68,Debit Card,Riverside,DEL034,3.5
+CUST1180,"Pizza, Juice, Hotdog",11:36 AM,20,17.45,Debit Card,Green Park,DEL013,4.7
+CUST1181,"Tea, Chips",12:25 PM,62,16.7,UPI,Tech Valley,DEL003,1.8
+CUST1182,Momos,9:54 AM,55,1.44,UPI,Lakeside,DEL018,3.7
+CUST1183,"Noodles, Salad, Coffee",2:11 PM,39,9.52,Debit Card,Hillview,DEL049,1.3
+CUST1184,"Smoothie, Rice Bowl",3:54 AM,66,24.49,Cash,Old Town,DEL015,3.4
+CUST1185,Momos,7:00 AM,113,10.81,UPI,Downtown,DEL044,1.7
+CUST1186,Fries,2:55 PM,27,12.8,Credit Card,Hillview,DEL027,3.9
+CUST1187,"Coke, Samosa, Tea, Salad",8:08 AM,60,22.79,UPI,Green Park,DEL040,2.2
+CUST1188,"Smoothie, Samosa, Wrap",7:23 AM,57,18.07,Wallet,Downtown,DEL059,2.9
+CUST1189,Coffee,10:37 PM,75,14.76,Debit Card,Sunset Street,DEL031,3.4
+CUST1190,Tea,3:17 AM,105,20.05,Debit Card,Riverside,DEL048,1.7
+CUST1191,"Pizza, Sandwich",5:24 AM,17,21.68,Debit Card,Green Park,DEL048,4
+CUST1192,"Salad, Samosa",3:59 AM,31,11.69,UPI,Tech Valley,DEL022,2.2
+CUST1193,"Chips, Biryani, Pasta",9:03 AM,15,12.14,Credit Card,Airport Zone,DEL068,3.6
+CUST1194,"Pasta, Wrap",9:16 PM,85,9.96,Wallet,Sunset Street,DEL080,1.6
+CUST1195,"Wrap, Momos, Samosa, Chips",8:34 PM,66,24.18,UPI,Hillview,DEL056,3.8
+CUST1196,"Pasta, Chips, Biryani",6:12 PM,113,17.58,UPI,Old Town,DEL009,1.5
+CUST1197,"Milkshake, Salad, Rice Bowl, Momos",7:50 AM,45,2.54,Wallet,Downtown,DEL016,2.7
+CUST1198,"Hotdog, Noodles, Paneer Tikka, Smoothie",5:26 AM,88,21.64,Debit Card,Lakeside,DEL019,2
+CUST1199,"Coke, Juice, Wrap, Milkshake",3:19 AM,101,12.27,Wallet,Green Park,DEL017,4
+CUST1200,"Juice, Pasta, Tea",10:56 AM,66,2.18,Debit Card,Sunset Street,DEL025,2
+CUST1201,"Fries, Samosa, Tea",9:13 AM,58,13.97,Wallet,Metro Square,DEL025,4.5
+CUST1202,"Salad, Paneer Tikka",10:51 PM,54,10.72,Cash,Metro Square,DEL069,4.6
+CUST1203,"Burger, Noodles",1:28 AM,91,22,Debit Card,Riverside,DEL049,1.8
+CUST1204,"Salad, Tea, Burger, Pasta",6:26 PM,75,5.5,Cash,Lakeside,DEL048,3.5
+CUST1205,"Wrap, Salad, Pasta",7:42 AM,86,20.75,Credit Card,Hillview,DEL041,1.4
+CUST1206,"Coke, Paneer Tikka, Sandwich, Pizza",2:14 PM,54,14.16,Wallet,Metro Square,DEL077,2.6
+CUST1207,"Biryani, Paneer Tikka, Milkshake, Fries",3:58 AM,88,1.84,Wallet,Downtown,DEL055,3.9
+CUST1208,"Chips, Salad",9:57 PM,29,24.31,Debit Card,Green Park,DEL032,3.6
+CUST1209,"Salad, Sandwich, Juice, Biryani",12:01 AM,73,13.06,Wallet,Lakeside,DEL006,3.5
+CUST1210,"Fries, Juice",5:41 PM,102,7.63,UPI,Metro Square,DEL079,2.1
+CUST1211,Coke,9:46 PM,115,12,UPI,Old Town,DEL076,2.5
+CUST1212,"Chips, Rice Bowl, Biryani",3:31 AM,102,21.52,Cash,Downtown,DEL025,1.4
+CUST1213,"Samosa, Smoothie, Momos, Pizza",4:52 PM,76,7.97,Credit Card,City Center,DEL069,3.9
+CUST1214,"Salad, Coffee, Tea",11:58 AM,92,5.22,Credit Card,Metro Square,DEL038,3
+CUST1215,"Paneer Tikka, Noodles",5:09 AM,12,3.66,UPI,Tech Valley,DEL020,3.8
+CUST1216,"Samosa, Salad, Paneer Tikka, Tea",3:05 AM,63,7.8,Credit Card,Downtown,DEL042,2
+CUST1217,Rice Bowl,11:46 AM,87,19.61,Cash,City Center,DEL032,2.3
+CUST1218,Juice,5:28 PM,73,12.05,Credit Card,Airport Zone,DEL007,2.3
+CUST1219,Fries,2:58 AM,49,6.07,Cash,Lakeside,DEL036,1.1
+CUST1220,Noodles,5:17 PM,68,4.57,Wallet,Hillview,DEL017,2.4
+CUST1221,"Hotdog, Momos, Pasta, Wrap",10:10 AM,64,8.65,Wallet,Hillview,DEL066,4.2
+CUST1222,"Chips, Biryani",6:23 AM,71,23.53,UPI,City Center,DEL075,4.6
+CUST1223,Tea,9:17 PM,13,8.9,Debit Card,Metro Square,DEL063,3.1
+CUST1224,Burger,11:57 PM,69,24.71,UPI,Downtown,DEL027,2.8
+CUST1225,"Paneer Tikka, Smoothie, Milkshake, Rice Bowl",5:27 AM,84,12.39,Wallet,Riverside,DEL011,1.1
+CUST1226,"Samosa, Tea, Hotdog, Burger",4:51 PM,104,4.89,Debit Card,Uptown,DEL061,4.5
+CUST1227,"Juice, Hotdog, Milkshake",2:16 PM,116,22.33,Cash,Green Park,DEL079,1.1
+CUST1228,"Biryani, Fries, Hotdog",8:54 AM,105,11.78,Credit Card,Old Town,DEL009,4.8
+CUST1229,"Smoothie, Momos, Pasta",9:41 PM,100,17.89,Wallet,Lakeside,DEL022,3
+CUST1230,"Wrap, Fries, Tea",9:31 PM,39,24.6,Debit Card,City Center,DEL066,2.4
+CUST1231,"Burger, Noodles, Coke, Chips",1:07 AM,116,1.73,Debit Card,Green Park,DEL050,4.7
+CUST1232,Salad,3:12 PM,11,2.87,Credit Card,Old Town,DEL066,1.1
+CUST1233,Juice,8:10 PM,71,18.15,Cash,Hillview,DEL048,3.3
+CUST1234,Hotdog,8:59 PM,58,7.4,Credit Card,Lakeside,DEL064,3.2
+CUST1235,Noodles,9:01 PM,18,5.02,UPI,Downtown,DEL067,1.9
+CUST1236,Chips,10:33 PM,101,1.46,Credit Card,Sunset Street,DEL060,2.7
+CUST1237,"Smoothie, Coffee, Chips",1:50 PM,40,1.04,Debit Card,Riverside,DEL023,3.6
+CUST1238,"Fries, Hotdog, Momos",10:56 AM,107,19.47,Debit Card,Hillview,DEL042,3.9
+CUST1239,"Hotdog, Salad, Momos, Juice",11:52 PM,70,3.79,Cash,City Center,DEL048,1
+CUST1240,Samosa,4:14 AM,88,11.96,Debit Card,Downtown,DEL068,4.7
+CUST1241,"Paneer Tikka, Hotdog, Pizza",2:29 PM,57,15.34,Wallet,Riverside,DEL062,1.7
+CUST1242,"Noodles, Samosa",2:08 PM,34,10.99,Wallet,Uptown,DEL064,1.9
+CUST1243,"Chips, Rice Bowl, Sandwich, Salad",6:27 PM,45,1.16,Debit Card,Lakeside,DEL061,2.1
+CUST1244,Coffee,12:43 PM,17,19.7,Debit Card,Airport Zone,DEL035,1.2
+CUST1245,"Burger, Juice, Hotdog",10:26 AM,82,0.76,Credit Card,Sunset Street,DEL075,1.5
+CUST1246,"Burger, Biryani",6:12 AM,67,19.17,Credit Card,Metro Square,DEL052,4.9
+CUST1247,"Rice Bowl, Samosa",2:00 PM,110,22.39,Credit Card,Sunset Street,DEL075,2.3
+CUST1248,"Pizza, Salad, Smoothie",3:17 AM,54,11.1,UPI,Sunset Street,DEL005,1.5
+CUST1249,"Burger, Salad, Fries, Tea",1:41 AM,71,13.62,Debit Card,Hillview,DEL027,1.4
+CUST1250,"Juice, Samosa",1:59 AM,48,12.19,Cash,Old Town,DEL029,3.9
+CUST1251,"Biryani, Momos",8:44 PM,105,10.04,Wallet,Tech Valley,DEL026,4.4
+CUST1252,"Sandwich, Juice, Wrap, Biryani",11:52 AM,67,22.24,Cash,Sunset Street,DEL058,2
+CUST1253,Noodles,4:52 AM,90,22.4,UPI,Green Park,DEL031,1.1
+CUST1254,Wrap,2:59 PM,108,8.73,Wallet,Lakeside,DEL051,1.9
+CUST1255,"Noodles, Paneer Tikka, Rice Bowl",5:04 PM,110,15.57,Credit Card,Green Park,DEL028,1.2
+CUST1256,"Salad, Momos, Coffee, Tea",12:59 AM,92,23.21,UPI,Uptown,DEL040,1.4
+CUST1257,"Pizza, Momos",11:20 AM,73,24.07,UPI,Metro Square,DEL055,2.7
+CUST1258,"Wrap, Milkshake, Smoothie",8:33 PM,53,12.97,Debit Card,Hillview,DEL049,1.9
+CUST1259,"Smoothie, Fries, Biryani, Chips",9:02 PM,38,11.59,UPI,Uptown,DEL074,3.1
+CUST1260,"Burger, Tea, Salad, Biryani",1:01 AM,68,7.33,Debit Card,Old Town,DEL021,2
+CUST1261,"Coffee, Biryani, Wrap, Sandwich",4:30 AM,80,23.99,UPI,Tech Valley,DEL048,4.8
+CUST1262,Momos,9:11 PM,101,4,Debit Card,Airport Zone,DEL033,4.6
+CUST1263,Coffee,11:08 PM,18,14.71,UPI,Hillview,DEL071,3.3
+CUST1264,"Wrap, Tea",2:19 AM,101,7.42,UPI,Metro Square,DEL011,2.4
+CUST1265,Salad,5:20 AM,15,7.34,Cash,Old Town,DEL018,2.5
+CUST1266,Sandwich,2:42 PM,38,10.42,UPI,Airport Zone,DEL011,2.6
+CUST1267,"Smoothie, Momos, Juice",6:07 AM,67,24.97,UPI,City Center,DEL038,3.9
+CUST1268,Milkshake,1:01 PM,26,1.85,UPI,Riverside,DEL057,2.8
+CUST1269,"Noodles, Juice",7:19 PM,25,14.67,Debit Card,Downtown,DEL067,4.4
+CUST1270,Momos,7:36 AM,96,2.52,Cash,Old Town,DEL046,4.8
+CUST1271,Pizza,10:50 PM,104,4.29,Cash,Old Town,DEL030,2.3
+CUST1272,"Pasta, Tea",3:49 AM,12,11.27,Cash,Airport Zone,DEL075,3.2
+CUST1273,Momos,6:48 AM,30,13.01,Debit Card,City Center,DEL006,1.4
+CUST1274,"Momos, Paneer Tikka, Chips, Sandwich",12:33 PM,73,6.84,Credit Card,Lakeside,DEL060,1.8
+CUST1275,"Momos, Burger, Coffee, Chips",8:44 PM,99,8.25,Debit Card,Green Park,DEL066,2.7
+CUST1276,"Tea, Hotdog",2:31 AM,45,2.63,Debit Card,Metro Square,DEL080,1.8
+CUST1277,"Pasta, Juice, Smoothie, Sandwich",5:58 AM,115,7.93,Wallet,Old Town,DEL044,4.5
+CUST1278,"Samosa, Rice Bowl",1:12 AM,110,24.18,Cash,Tech Valley,DEL055,1.6
+CUST1279,"Rice Bowl, Coke",3:12 AM,95,23.65,Debit Card,Airport Zone,DEL058,2.8
+CUST1280,"Paneer Tikka, Coffee, Momos, Coke",12:39 PM,71,8.7,Cash,Old Town,DEL060,3.4
+CUST1281,"Chips, Milkshake, Rice Bowl, Smoothie",11:22 AM,51,14.49,Debit Card,Hillview,DEL056,3.8
+CUST1282,"Momos, Biryani, Coke",10:09 PM,85,22.79,UPI,Uptown,DEL053,2.5
+CUST1283,Wrap,4:49 PM,51,0.65,Cash,Lakeside,DEL048,4.5
+CUST1284,"Sandwich, Pizza, Samosa, Pasta",12:11 PM,70,20.36,Credit Card,Tech Valley,DEL064,3.3
+CUST1285,Wrap,11:01 PM,22,23.74,UPI,City Center,DEL041,2.8
+CUST1286,Burger,7:41 PM,20,2.74,Wallet,Riverside,DEL035,1.3
+CUST1287,"Biryani, Fries",5:36 AM,63,4.46,Wallet,Metro Square,DEL049,2.9
+CUST1288,"Salad, Tea",11:40 PM,25,24.04,Credit Card,Riverside,DEL004,4.3
+CUST1289,"Coke, Smoothie",3:50 PM,17,13.67,Cash,City Center,DEL023,3.5
+CUST1290,"Salad, Coffee, Rice Bowl",7:22 AM,113,0.85,Credit Card,Tech Valley,DEL057,4.3
+CUST1291,"Burger, Wrap, Smoothie",4:46 AM,68,6.81,Credit Card,Downtown,DEL030,3
+CUST1292,"Fries, Salad",11:39 AM,66,11.52,Wallet,Airport Zone,DEL034,1.5
+CUST1293,"Momos, Samosa, Noodles, Sandwich",11:52 AM,49,17.48,Debit Card,Metro Square,DEL010,1.1
+CUST1294,"Biryani, Burger, Rice Bowl, Pasta",9:43 PM,118,18.46,Wallet,Green Park,DEL046,2.2
+CUST1295,Smoothie,6:58 AM,68,24.89,Wallet,Airport Zone,DEL011,3.8
+CUST1296,"Fries, Wrap",7:09 AM,11,7.54,UPI,Old Town,DEL038,4.2
+CUST1297,"Milkshake, Rice Bowl",5:09 AM,103,13.69,Cash,Tech Valley,DEL065,2.2
+CUST1298,"Pizza, Samosa, Wrap",8:44 PM,103,13.57,Credit Card,Airport Zone,DEL066,3
+CUST1299,Noodles,2:14 PM,85,10.44,UPI,Lakeside,DEL070,2.7
+CUST1300,"Momos, Tea",10:39 PM,19,4.64,Cash,Hillview,DEL011,2.6
+CUST1301,Paneer Tikka,6:57 AM,53,24.45,Debit Card,City Center,DEL036,1.9
+CUST1302,Samosa,4:38 PM,20,21.41,Wallet,Sunset Street,DEL030,1.5
+CUST1303,"Coke, Hotdog, Juice",7:11 PM,88,12.71,Cash,Tech Valley,DEL013,1.8
+CUST1304,"Momos, Sandwich, Smoothie, Paneer Tikka",12:18 AM,89,15.28,UPI,Sunset Street,DEL016,1.2
+CUST1305,"Coffee, Noodles",11:54 AM,90,6.07,Wallet,Hillview,DEL010,1.8
+CUST1306,Pasta,3:44 PM,99,13.82,UPI,Old Town,DEL047,1
+CUST1307,"Wrap, Momos",10:53 PM,11,17.53,UPI,Riverside,DEL005,3.5
+CUST1308,"Pizza, Chips, Wrap",7:50 AM,59,13.12,Cash,Uptown,DEL070,2.3
+CUST1309,Pasta,11:14 AM,21,24.76,UPI,Sunset Street,DEL026,4.9
+CUST1310,"Salad, Hotdog, Samosa",4:14 AM,99,15.48,Debit Card,Riverside,DEL043,1.8
+CUST1311,"Sandwich, Burger, Fries",1:27 PM,32,9.59,Wallet,Airport Zone,DEL026,2.4
+CUST1312,"Noodles, Salad, Chips, Hotdog",2:32 AM,27,19.42,Wallet,Downtown,DEL043,2.4
+CUST1313,"Juice, Sandwich, Samosa",11:02 AM,71,4.68,Cash,Tech Valley,DEL033,1
+CUST1314,Pasta,3:25 PM,105,9.92,Cash,Tech Valley,DEL039,4.4
+CUST1315,Smoothie,2:58 AM,71,9,Credit Card,City Center,DEL036,1.1
+CUST1316,Paneer Tikka,1:35 AM,47,11.08,UPI,Lakeside,DEL025,4.8
+CUST1317,Smoothie,2:02 PM,76,19.65,Debit Card,Riverside,DEL078,4.6
+CUST1318,Pasta,4:11 PM,47,12.36,Credit Card,Metro Square,DEL018,3.1
+CUST1319,Paneer Tikka,12:38 PM,76,19.95,Debit Card,Metro Square,DEL070,3.2
+CUST1320,Chips,3:50 PM,103,14.62,Cash,Metro Square,DEL034,3.6
+CUST1321,"Paneer Tikka, Smoothie, Coffee, Rice Bowl",3:48 AM,70,8.88,Cash,Uptown,DEL002,2.5
+CUST1322,"Pasta, Biryani, Coke, Juice",4:51 PM,10,20.34,Debit Card,Green Park,DEL039,3.6
+CUST1323,"Biryani, Samosa, Pizza, Salad",5:53 AM,103,6.34,Wallet,Uptown,DEL037,1.2
+CUST1324,"Pasta, Samosa, Coffee",6:24 AM,54,6,Cash,Old Town,DEL045,1.2
+CUST1325,"Smoothie, Coke",1:06 AM,105,12.86,Cash,Uptown,DEL052,2.8
+CUST1326,"Juice, Chips",12:31 AM,37,6.89,Debit Card,Sunset Street,DEL052,3.2
+CUST1327,"Coffee, Samosa, Sandwich, Pizza",3:09 AM,30,0.72,Debit Card,Old Town,DEL075,4.6
+CUST1328,"Salad, Pasta, Smoothie, Samosa",12:06 PM,119,16.38,Cash,Old Town,DEL002,1.4
+CUST1329,"Momos, Smoothie, Milkshake",11:41 AM,22,13.02,UPI,City Center,DEL061,4.3
+CUST1330,"Pizza, Wrap, Rice Bowl, Smoothie",5:14 PM,36,11.42,Cash,Hillview,DEL066,1.8
+CUST1331,"Juice, Tea, Rice Bowl, Smoothie",5:43 PM,109,24.19,Debit Card,City Center,DEL020,2.6
+CUST1332,"Noodles, Momos",5:40 PM,16,14.49,UPI,Tech Valley,DEL051,2.3
+CUST1333,"Momos, Wrap",5:45 AM,31,21.65,Debit Card,Green Park,DEL030,2.6
+CUST1334,"Rice Bowl, Juice",2:54 AM,83,3.92,Cash,Green Park,DEL030,1.6
+CUST1335,"Salad, Milkshake, Juice, Coffee",3:42 PM,112,14.45,Credit Card,Lakeside,DEL027,3
+CUST1336,"Smoothie, Samosa",8:27 PM,62,21.77,Cash,Hillview,DEL061,4.2
+CUST1337,"Burger, Salad, Pizza, Coffee",10:48 PM,88,14.79,Cash,Tech Valley,DEL030,2.8
+CUST1338,"Sandwich, Momos, Rice Bowl, Tea",8:34 AM,88,18.09,Credit Card,Lakeside,DEL067,3
+CUST1339,"Smoothie, Noodles",8:49 AM,13,9.62,Wallet,Old Town,DEL076,4.4
+CUST1340,"Hotdog, Pizza, Chips, Momos",12:30 PM,105,2.77,UPI,Lakeside,DEL071,3.8
+CUST1341,"Paneer Tikka, Hotdog, Coke, Samosa",6:20 AM,32,11.72,UPI,Downtown,DEL060,3
+CUST1342,"Paneer Tikka, Momos, Samosa, Milkshake",2:48 PM,79,10.16,UPI,Tech Valley,DEL060,2
+CUST1343,"Pizza, Pasta, Samosa",8:08 AM,97,21.74,Debit Card,City Center,DEL044,4.5
+CUST1344,"Tea, Rice Bowl, Noodles, Sandwich",4:13 AM,93,6.48,Debit Card,Riverside,DEL011,3.3
+CUST1345,Fries,6:44 AM,110,24.18,UPI,City Center,DEL041,1.9
+CUST1346,Chips,4:09 AM,93,23.97,Credit Card,Sunset Street,DEL025,2.1
+CUST1347,Sandwich,5:58 AM,85,6.57,Credit Card,Airport Zone,DEL055,4.2
+CUST1348,"Fries, Tea, Juice",10:32 PM,42,9.03,Debit Card,City Center,DEL054,1.2
+CUST1349,"Samosa, Momos",12:40 AM,37,22.44,Wallet,Riverside,DEL027,5
+CUST1350,"Fries, Juice, Tea",3:48 AM,17,24.18,UPI,Metro Square,DEL057,1.5
+CUST1351,"Biryani, Tea, Hotdog, Coffee",7:18 PM,10,11.36,Cash,Sunset Street,DEL058,4.2
+CUST1352,"Burger, Salad, Hotdog",8:09 AM,46,8.36,Debit Card,Uptown,DEL072,2.6
+CUST1353,"Hotdog, Milkshake",11:35 AM,72,13.39,UPI,Sunset Street,DEL004,3
+CUST1354,Salad,9:54 PM,31,17.35,Wallet,Lakeside,DEL048,4.5
+CUST1355,"Hotdog, Salad, Rice Bowl, Biryani",11:36 PM,79,7.2,Credit Card,Old Town,DEL018,2.7
+CUST1356,"Pasta, Burger, Samosa",4:45 AM,30,18.54,Debit Card,Lakeside,DEL074,3.1
+CUST1357,"Burger, Sandwich, Samosa, Smoothie",9:43 PM,105,1.77,Debit Card,Downtown,DEL017,1.2
+CUST1358,"Smoothie, Biryani, Hotdog, Chips",8:55 PM,44,1.71,UPI,City Center,DEL040,1
+CUST1359,"Pizza, Paneer Tikka, Rice Bowl",5:11 AM,88,9.96,Wallet,City Center,DEL002,2
+CUST1360,"Pizza, Chips",11:22 PM,14,9.16,Cash,Riverside,DEL064,3.7
+CUST1361,"Paneer Tikka, Juice, Tea, Fries",12:03 PM,69,8.23,Wallet,Sunset Street,DEL046,1.5
+CUST1362,"Fries, Hotdog, Samosa",12:11 PM,55,12.53,UPI,Metro Square,DEL044,1.5
+CUST1363,"Smoothie, Samosa, Burger",7:21 PM,59,8.36,Wallet,Lakeside,DEL029,2.6
+CUST1364,"Wrap, Tea",6:23 AM,57,5.21,Cash,Downtown,DEL054,3.6
+CUST1365,"Fries, Juice, Biryani",8:03 PM,15,8.08,Debit Card,Downtown,DEL055,3.8
+CUST1366,Rice Bowl,12:15 PM,98,24.39,Credit Card,Airport Zone,DEL052,1.7
+CUST1367,"Hotdog, Juice, Coke, Momos",8:50 PM,65,10.57,Credit Card,Tech Valley,DEL069,1.3
+CUST1368,"Noodles, Chips, Biryani",11:30 PM,119,11.4,Cash,Green Park,DEL039,4.8
+CUST1369,"Hotdog, Sandwich, Pasta",7:04 AM,68,14.63,UPI,Hillview,DEL042,2
+CUST1370,"Coke, Pizza, Milkshake",8:07 PM,113,24.59,Credit Card,Airport Zone,DEL076,4.4
+CUST1371,"Sandwich, Coke, Pizza",5:03 PM,38,6.42,Wallet,Old Town,DEL003,4.5
+CUST1372,Tea,8:25 AM,80,17.19,Wallet,Metro Square,DEL073,4.1
+CUST1373,Samosa,9:50 PM,113,18.04,Wallet,Metro Square,DEL005,1.7
+CUST1374,Paneer Tikka,3:17 PM,86,15.38,Credit Card,Sunset Street,DEL018,4.3
+CUST1375,Coffee,3:52 AM,111,2.67,Cash,Downtown,DEL020,4.1
+CUST1376,"Momos, Biryani, Smoothie, Paneer Tikka",7:00 AM,27,17.08,Wallet,Metro Square,DEL043,3.4
+CUST1377,Coke,3:42 PM,11,2.07,UPI,Old Town,DEL073,2.3
+CUST1378,"Tea, Juice, Noodles, Milkshake",10:14 AM,17,15.11,Wallet,Hillview,DEL078,2.1
+CUST1379,"Tea, Samosa, Juice, Coke",5:19 PM,84,18.62,UPI,Sunset Street,DEL078,1.5
+CUST1380,"Biryani, Coffee",3:41 AM,106,5.67,UPI,Sunset Street,DEL074,3
+CUST1381,"Fries, Pizza, Wrap",5:20 PM,63,21.12,Debit Card,Lakeside,DEL051,3.3
+CUST1382,"Noodles, Burger, Chips",4:00 AM,47,1.24,UPI,Green Park,DEL049,2.4
+CUST1383,"Burger, Pasta",9:04 PM,57,21.17,Debit Card,Airport Zone,DEL027,2.9
+CUST1384,Hotdog,7:49 AM,36,11.78,UPI,Hillview,DEL051,2.5
+CUST1385,"Fries, Samosa, Paneer Tikka",12:11 PM,29,5.83,Wallet,Uptown,DEL009,3.6
+CUST1386,"Fries, Wrap",12:42 PM,21,3.78,Cash,Metro Square,DEL069,4.6
+CUST1387,Chips,1:32 AM,52,23.86,UPI,Sunset Street,DEL050,1.7
+CUST1388,"Rice Bowl, Fries, Samosa",9:42 AM,70,2.28,Wallet,Tech Valley,DEL025,2.5
+CUST1389,"Wrap, Tea, Burger, Paneer Tikka",12:14 PM,40,5.38,Cash,Sunset Street,DEL061,1.6
+CUST1390,Samosa,6:53 PM,100,9.02,Debit Card,Green Park,DEL014,3.5
+CUST1391,"Fries, Hotdog",11:30 PM,105,15.7,UPI,Green Park,DEL043,3.9
+CUST1392,Fries,9:23 PM,70,13.85,Credit Card,Riverside,DEL073,4.7
+CUST1393,Milkshake,12:04 PM,83,3.58,Cash,Lakeside,DEL058,2.1
+CUST1394,"Momos, Sandwich",10:46 AM,76,7.6,Credit Card,Old Town,DEL039,4.8
+CUST1395,Smoothie,8:50 AM,118,6.35,Wallet,Uptown,DEL012,1.3
+CUST1396,"Wrap, Noodles, Momos",3:02 PM,100,5.73,Debit Card,Old Town,DEL022,3.4
+CUST1397,"Momos, Biryani, Hotdog, Rice Bowl",11:20 AM,44,10.57,Cash,Old Town,DEL014,1.2
+CUST1398,"Paneer Tikka, Sandwich, Pizza",8:36 AM,104,17.75,UPI,Lakeside,DEL071,4.6
+CUST1399,"Noodles, Chips",2:51 AM,24,5.83,Debit Card,Metro Square,DEL023,3.1
+CUST1400,Hotdog,5:59 AM,25,9.48,Debit Card,Downtown,DEL005,3.7
+CUST1401,"Coke, Samosa",8:42 PM,22,10.08,Debit Card,Sunset Street,DEL078,4.3
+CUST1402,"Burger, Fries",2:23 AM,44,24.42,Debit Card,Airport Zone,DEL063,1.6
+CUST1403,"Hotdog, Tea",2:27 AM,84,23.89,Credit Card,Riverside,DEL004,1.2
+CUST1404,"Hotdog, Smoothie",11:17 PM,68,20.1,UPI,Sunset Street,DEL024,4.5
+CUST1405,"Rice Bowl, Milkshake, Noodles",2:04 AM,30,6.42,Debit Card,Old Town,DEL026,2.3
+CUST1406,"Momos, Milkshake, Coke",6:49 PM,63,2.17,UPI,Uptown,DEL009,1.5
+CUST1407,"Pasta, Noodles, Chips",9:21 PM,84,8.26,Wallet,Green Park,DEL050,2.9
+CUST1408,"Coffee, Hotdog, Fries",10:27 AM,39,7.04,Credit Card,Lakeside,DEL037,3.4
+CUST1409,Fries,8:01 AM,57,12.9,Credit Card,Uptown,DEL027,1.1
+CUST1410,"Juice, Sandwich, Milkshake, Fries",6:59 PM,44,19.55,UPI,Green Park,DEL030,2.1
+CUST1411,"Chips, Fries, Tea, Juice",9:05 PM,95,21.53,Wallet,Sunset Street,DEL038,1.1
+CUST1412,Paneer Tikka,6:46 PM,47,21.2,Debit Card,Lakeside,DEL068,2.7
+CUST1413,"Tea, Pizza, Juice",12:37 PM,40,9.31,Credit Card,Downtown,DEL009,4.6
+CUST1414,"Juice, Biryani, Coffee, Rice Bowl",6:37 AM,87,17.34,Wallet,Old Town,DEL059,4.9
+CUST1415,"Salad, Momos, Pasta",10:28 AM,33,8.16,Wallet,Lakeside,DEL008,3.5
+CUST1416,"Sandwich, Juice",5:31 PM,58,1.99,Credit Card,Hillview,DEL048,1.6
+CUST1417,"Pizza, Wrap, Tea, Smoothie",11:51 AM,105,17.69,Cash,Green Park,DEL067,4.6
+CUST1418,"Pizza, Wrap, Samosa, Paneer Tikka",5:03 AM,109,0.74,Debit Card,Old Town,DEL002,3.1
+CUST1419,"Milkshake, Chips, Samosa, Tea",3:51 PM,41,10.52,Cash,Lakeside,DEL022,1.6
+CUST1420,"Wrap, Samosa, Smoothie, Juice",12:51 AM,64,8.57,Wallet,Airport Zone,DEL042,4.7
+CUST1421,Milkshake,4:01 AM,88,17.49,Wallet,Metro Square,DEL053,4
+CUST1422,"Samosa, Paneer Tikka",8:10 AM,116,19.27,Debit Card,Tech Valley,DEL051,3.9
+CUST1423,"Momos, Burger",1:10 PM,67,7.95,Credit Card,City Center,DEL021,3.8
+CUST1424,Smoothie,9:00 PM,108,20.38,Cash,Tech Valley,DEL015,1.8
+CUST1425,"Samosa, Coke, Tea, Momos",2:39 AM,12,7.7,Debit Card,Old Town,DEL017,1.8
+CUST1426,Biryani,8:31 PM,89,11.43,Debit Card,Riverside,DEL069,3.8
+CUST1427,"Hotdog, Coffee, Salad, Coke",3:08 AM,78,18.31,Credit Card,Old Town,DEL054,1.9
+CUST1428,"Momos, Biryani",11:42 PM,94,17.48,Debit Card,Hillview,DEL062,2.8
+CUST1429,"Milkshake, Wrap, Hotdog, Biryani",2:09 AM,19,24.69,Cash,Old Town,DEL009,4.1
+CUST1430,Juice,9:04 AM,92,6.02,UPI,Old Town,DEL050,4.1
+CUST1431,Fries,6:36 AM,34,16.73,Cash,Sunset Street,DEL027,2.8
+CUST1432,"Biryani, Rice Bowl, Coffee",7:48 AM,77,15.44,Wallet,Tech Valley,DEL017,4.2
+CUST1433,"Pasta, Noodles",10:27 PM,70,22.92,Cash,Riverside,DEL027,4.4
+CUST1434,"Momos, Milkshake, Biryani, Chips",7:25 PM,38,4.33,Cash,Old Town,DEL040,3.6
+CUST1435,"Wrap, Hotdog, Tea",2:34 PM,28,18.92,Wallet,Downtown,DEL056,1.9
+CUST1436,"Rice Bowl, Milkshake, Burger",6:41 PM,52,14.42,UPI,City Center,DEL061,2.1
+CUST1437,"Noodles, Coffee",2:25 PM,75,7.23,Wallet,Downtown,DEL021,2.3
+CUST1438,"Juice, Samosa, Wrap",1:36 AM,83,12.12,Cash,Metro Square,DEL078,1.5
+CUST1439,"Fries, Chips, Pizza, Juice",4:30 PM,70,8.68,UPI,Sunset Street,DEL074,2.1
+CUST1440,"Pasta, Momos, Tea, Wrap",6:04 AM,52,14.69,UPI,Tech Valley,DEL040,1.8
+CUST1441,"Wrap, Biryani, Coke",5:27 AM,34,22.28,Cash,Uptown,DEL076,2.8
+CUST1442,"Paneer Tikka, Tea, Momos",3:57 PM,29,14.45,Credit Card,City Center,DEL026,4.6
+CUST1443,"Tea, Paneer Tikka",3:14 PM,57,15.98,Credit Card,Riverside,DEL065,1.4
+CUST1444,"Paneer Tikka, Rice Bowl",2:51 AM,92,13.21,UPI,Lakeside,DEL059,3.9
+CUST1445,"Pasta, Biryani",7:49 PM,96,1.75,Wallet,Tech Valley,DEL036,3.7
+CUST1446,"Chips, Tea, Noodles, Burger",5:08 AM,33,6.21,Cash,Metro Square,DEL026,1.4
+CUST1447,"Samosa, Rice Bowl, Tea, Fries",2:41 PM,20,12.55,Credit Card,Uptown,DEL001,4.7
+CUST1448,"Pizza, Rice Bowl, Coke, Fries",12:43 PM,119,8.1,Credit Card,City Center,DEL019,3.3
+CUST1449,"Smoothie, Momos, Coke, Samosa",12:29 AM,107,4.95,Wallet,Uptown,DEL058,2.5
+CUST1450,"Sandwich, Biryani, Pasta",10:44 AM,64,12.85,Wallet,Metro Square,DEL009,4
+CUST1451,"Wrap, Chips",6:33 PM,37,8.41,Cash,Metro Square,DEL052,2
+CUST1452,"Juice, Rice Bowl, Biryani",5:39 PM,78,6.82,Wallet,Lakeside,DEL078,3.8
+CUST1453,"Coke, Tea",3:41 PM,72,11.87,UPI,Downtown,DEL032,1.2
+CUST1454,"Tea, Rice Bowl, Salad, Momos",5:26 PM,68,3.77,UPI,Metro Square,DEL068,4.4
+CUST1455,"Rice Bowl, Wrap",11:15 AM,14,23.23,UPI,Green Park,DEL043,2.8
+CUST1456,Coffee,8:59 PM,60,21.76,Credit Card,Airport Zone,DEL073,3.5
+CUST1457,Momos,6:40 AM,30,17.84,UPI,Uptown,DEL063,1.9
+CUST1458,"Pasta, Smoothie, Milkshake",9:36 PM,21,3.1,UPI,Old Town,DEL059,3.7
+CUST1459,Coffee,10:44 PM,59,19.51,UPI,Old Town,DEL060,4.1
+CUST1460,"Momos, Samosa, Coffee",9:12 AM,13,20.29,UPI,Uptown,DEL074,2.9
+CUST1461,Chips,3:38 AM,51,19.31,Cash,City Center,DEL006,3.5
+CUST1462,"Fries, Juice, Pizza, Samosa",2:40 AM,93,3.29,UPI,Lakeside,DEL012,2.8
+CUST1463,"Wrap, Smoothie, Salad, Hotdog",12:21 PM,47,16.28,UPI,Metro Square,DEL037,4.6
+CUST1464,"Tea, Burger, Coke, Pizza",9:12 AM,34,20.94,Credit Card,Old Town,DEL059,3
+CUST1465,"Momos, Rice Bowl, Pizza",12:32 AM,23,14.65,Cash,Old Town,DEL045,4.4
+CUST1466,"Hotdog, Paneer Tikka, Samosa",9:46 PM,84,16.34,Cash,Metro Square,DEL039,4.2
+CUST1467,"Chips, Burger, Sandwich",6:40 PM,41,11.73,UPI,Tech Valley,DEL051,2.6
+CUST1468,"Salad, Biryani, Juice",10:11 AM,20,13.45,Credit Card,Metro Square,DEL079,1.9
+CUST1469,"Tea, Smoothie",7:07 AM,70,1.34,Credit Card,Uptown,DEL023,2.6
+CUST1470,Wrap,4:02 AM,27,16.15,Credit Card,Old Town,DEL054,4.3
+CUST1471,"Wrap, Tea, Smoothie, Hotdog",5:07 AM,36,2.5,Cash,City Center,DEL032,1.9
+CUST1472,"Rice Bowl, Sandwich, Coffee",6:04 PM,64,11.16,Cash,Downtown,DEL023,3.1
+CUST1473,"Paneer Tikka, Wrap, Sandwich",11:53 AM,63,7.67,Wallet,Metro Square,DEL080,4.2
+CUST1474,Samosa,12:49 AM,91,13.86,UPI,Sunset Street,DEL056,2.4
+CUST1475,"Fries, Wrap, Samosa, Paneer Tikka",11:31 AM,96,3.77,Credit Card,Downtown,DEL059,3.6
+CUST1476,Noodles,12:17 PM,84,17.45,Credit Card,Tech Valley,DEL050,2
+CUST1477,"Pasta, Fries",9:36 AM,30,19.98,Credit Card,Tech Valley,DEL024,1.4
+CUST1478,"Juice, Tea, Fries",8:29 PM,53,4.5,Cash,Airport Zone,DEL073,4.2
+CUST1479,"Tea, Fries, Biryani, Smoothie",9:30 AM,14,3.06,UPI,Lakeside,DEL013,1.4
+CUST1480,Noodles,12:45 AM,96,4.07,Debit Card,Downtown,DEL051,2.1
+CUST1481,"Wrap, Smoothie, Samosa, Salad",1:00 AM,50,21.99,Wallet,Uptown,DEL006,4.4
+CUST1482,Momos,4:26 AM,68,13.44,Wallet,Downtown,DEL031,2.4
+CUST1483,"Hotdog, Burger, Coke, Pasta",5:29 PM,98,11.95,Wallet,Sunset Street,DEL021,4.9
+CUST1484,"Sandwich, Salad",12:19 PM,114,3.11,Wallet,Lakeside,DEL036,4.9
+CUST1485,Sandwich,9:34 AM,63,16.41,Credit Card,City Center,DEL069,2.1
+CUST1486,"Biryani, Sandwich",9:48 PM,83,21.77,UPI,Riverside,DEL038,1.2
+CUST1487,Pasta,1:31 PM,31,20.79,Wallet,Sunset Street,DEL009,3.8
+CUST1488,"Samosa, Wrap",12:19 PM,92,15.84,UPI,City Center,DEL028,2.8
+CUST1489,"Tea, Smoothie, Rice Bowl",6:28 PM,74,2.34,UPI,Lakeside,DEL064,1.4
+CUST1490,Noodles,6:28 PM,73,3.25,UPI,Old Town,DEL053,3.8
+CUST1491,"Biryani, Chips, Milkshake",9:56 AM,80,1.71,UPI,City Center,DEL071,1.1
+CUST1492,Sandwich,2:26 AM,13,6.81,Credit Card,Tech Valley,DEL016,4.5
+CUST1493,"Paneer Tikka, Sandwich",6:24 AM,74,3.82,UPI,Old Town,DEL048,1.6
+CUST1494,"Pasta, Paneer Tikka",11:27 AM,24,6.87,Debit Card,Lakeside,DEL010,1.5
+CUST1495,"Chips, Juice, Fries, Rice Bowl",10:02 PM,113,9.93,UPI,Riverside,DEL014,1.7
+CUST1496,"Smoothie, Momos",8:54 AM,85,23.6,Wallet,Riverside,DEL065,4.8
+CUST1497,"Salad, Chips",10:02 AM,31,15.45,Debit Card,Hillview,DEL042,3.8
+CUST1498,"Coke, Salad, Juice",12:26 AM,95,20.96,UPI,Airport Zone,DEL053,4.2
+CUST1499,"Hotdog, Momos, Coke, Tea",7:22 AM,56,17.9,Cash,Old Town,DEL058,2.6
+CUST1500,"Tea, Coke",10:44 AM,90,3.26,Wallet,Metro Square,DEL022,2.3
+CUST1501,"Burger, Coffee, Pizza, Chips",7:30 AM,102,18.53,Cash,Tech Valley,DEL033,1.9
+CUST1502,"Rice Bowl, Noodles, Smoothie, Momos",6:02 AM,55,7.24,Credit Card,Metro Square,DEL027,2.9
+CUST1503,"Burger, Sandwich",6:47 PM,23,16.16,Wallet,Hillview,DEL065,3.2
+CUST1504,"Burger, Momos, Rice Bowl, Coffee",12:17 PM,59,8.85,Wallet,Lakeside,DEL006,3.5
+CUST1505,"Paneer Tikka, Coffee",6:27 PM,29,24.94,UPI,Sunset Street,DEL060,2
+CUST1506,"Pizza, Sandwich, Pasta",7:11 PM,59,6.96,Cash,Downtown,DEL004,4.8
+CUST1507,"Momos, Noodles, Chips",2:28 PM,42,7.34,UPI,Riverside,DEL010,1.7
+CUST1508,"Chips, Momos, Hotdog",2:07 AM,68,23.3,Credit Card,Airport Zone,DEL060,4.9
+CUST1509,"Momos, Biryani, Smoothie",8:36 PM,52,1.1,Credit Card,Green Park,DEL049,1.1
+CUST1510,"Pizza, Smoothie, Hotdog",8:22 PM,88,17.57,Cash,Downtown,DEL044,2.9
+CUST1511,"Biryani, Salad, Coffee, Pasta",4:36 AM,21,18.27,UPI,Tech Valley,DEL052,2.3
+CUST1512,Rice Bowl,10:24 PM,49,20.99,Wallet,Sunset Street,DEL025,2.8
+CUST1513,Chips,7:20 AM,29,24.37,Cash,Green Park,DEL051,3.3
+CUST1514,Rice Bowl,6:03 AM,103,24.4,Debit Card,Sunset Street,DEL005,2.7
+CUST1515,Chips,10:23 PM,47,2.1,Credit Card,Old Town,DEL002,2.7
+CUST1516,"Chips, Coffee, Pizza",6:29 PM,12,20.64,Wallet,Lakeside,DEL033,3.9
+CUST1517,"Paneer Tikka, Hotdog, Burger, Sandwich",11:00 PM,37,16.33,Debit Card,Tech Valley,DEL015,3.7
+CUST1518,"Momos, Wrap, Milkshake",5:23 AM,65,16.36,Credit Card,Old Town,DEL018,4.3
+CUST1519,"Fries, Coke, Milkshake",11:07 AM,99,3.64,Wallet,Airport Zone,DEL042,2
+CUST1520,Coffee,5:33 AM,103,16.43,Wallet,Riverside,DEL060,3.4
+CUST1521,Burger,5:29 AM,22,24.57,Wallet,Riverside,DEL063,3.3
+CUST1522,"Samosa, Coke, Pizza",1:43 PM,86,22.84,UPI,Green Park,DEL060,2.5
+CUST1523,"Burger, Chips",6:27 AM,75,11.26,Cash,Green Park,DEL009,2.9
+CUST1524,"Hotdog, Chips, Burger, Fries",9:15 AM,46,1.48,Cash,Airport Zone,DEL011,2.3
+CUST1525,"Pizza, Paneer Tikka",2:54 AM,58,9.38,UPI,Sunset Street,DEL071,1.6
+CUST1526,"Coke, Chips, Paneer Tikka",10:39 AM,111,20.75,UPI,Downtown,DEL032,1.9
+CUST1527,"Fries, Samosa, Momos, Wrap",9:58 AM,75,17.69,Debit Card,Sunset Street,DEL057,1.4
+CUST1528,"Smoothie, Chips, Sandwich, Biryani",4:39 PM,45,11.75,Debit Card,Sunset Street,DEL018,3.7
+CUST1529,"Pizza, Milkshake, Hotdog, Chips",5:53 PM,63,1.85,UPI,Riverside,DEL061,3.6
+CUST1530,Fries,6:48 PM,35,10.96,Cash,Airport Zone,DEL036,4.8
+CUST1531,"Coffee, Biryani, Momos",10:39 AM,84,11.99,Debit Card,Uptown,DEL021,3.9
+CUST1532,"Chips, Coke, Momos",12:22 PM,81,23.25,Debit Card,City Center,DEL022,1.2
+CUST1533,"Pizza, Chips",9:26 AM,117,16.21,Credit Card,Metro Square,DEL003,4.5
+CUST1534,Paneer Tikka,9:27 PM,49,8.14,Wallet,Riverside,DEL078,4.5
+CUST1535,"Salad, Biryani, Pasta, Sandwich",7:19 AM,52,13.37,Credit Card,Uptown,DEL013,2.8
+CUST1536,"Juice, Fries, Wrap",10:48 AM,31,2.12,Credit Card,Green Park,DEL023,3.3
+CUST1537,"Biryani, Salad, Hotdog, Juice",8:55 AM,29,24.33,UPI,Green Park,DEL038,4.9
+CUST1538,"Salad, Wrap, Samosa",9:47 AM,17,9.32,Cash,Green Park,DEL016,3.1
+CUST1539,"Wrap, Juice, Milkshake",7:19 AM,38,12.21,Cash,Metro Square,DEL069,4.6
+CUST1540,"Paneer Tikka, Smoothie",10:16 PM,49,9.2,Debit Card,Downtown,DEL051,1.3
+CUST1541,"Pizza, Juice, Coffee",2:50 AM,99,17.22,UPI,Metro Square,DEL022,1.8
+CUST1542,"Biryani, Salad",9:39 AM,39,16.72,Wallet,Green Park,DEL010,2.8
+CUST1543,"Juice, Milkshake, Fries, Coke",3:25 AM,90,18.03,Credit Card,Sunset Street,DEL002,3.3
+CUST1544,"Tea, Juice",6:59 PM,93,7.07,Cash,Metro Square,DEL035,4.3
+CUST1545,"Pizza, Salad, Hotdog, Sandwich",7:37 PM,64,8.23,Wallet,Downtown,DEL020,5
+CUST1546,"Noodles, Samosa, Tea",7:48 AM,25,3.57,UPI,Green Park,DEL057,2.6
+CUST1547,"Paneer Tikka, Samosa",7:15 PM,55,16.56,Debit Card,City Center,DEL046,1.2
+CUST1548,"Smoothie, Fries",10:54 PM,71,1.48,Credit Card,Metro Square,DEL023,4.2
+CUST1549,"Burger, Noodles, Salad, Sandwich",8:17 AM,116,15.14,Wallet,Uptown,DEL028,3.4
+CUST1550,Paneer Tikka,6:28 PM,16,21.81,Cash,Old Town,DEL005,1.8
+CUST1551,Coke,9:14 AM,89,22.33,Wallet,Sunset Street,DEL069,3
+CUST1552,"Pasta, Tea",6:56 PM,54,11.5,UPI,Lakeside,DEL028,4
+CUST1553,"Burger, Tea, Juice, Salad",8:56 AM,68,11.75,UPI,Lakeside,DEL057,4.1
+CUST1554,"Noodles, Smoothie, Pasta, Juice",1:16 PM,65,2.39,Debit Card,Metro Square,DEL007,3
+CUST1555,"Burger, Pasta, Pizza, Samosa",12:33 AM,57,16.93,Debit Card,Airport Zone,DEL067,2.2
+CUST1556,"Chips, Noodles",9:53 PM,36,20.62,Cash,Riverside,DEL014,4.9
+CUST1557,Biryani,9:44 PM,62,6.49,UPI,Old Town,DEL050,3.7
+CUST1558,"Fries, Coffee",5:10 PM,96,10.82,Cash,Hillview,DEL040,2.6
+CUST1559,"Smoothie, Coffee",4:14 AM,97,21.05,Debit Card,Airport Zone,DEL057,2.1
+CUST1560,"Salad, Burger",1:37 AM,82,21.99,Credit Card,Hillview,DEL007,3.9
+CUST1561,"Chips, Wrap",10:32 AM,44,6.46,UPI,Hillview,DEL077,2
+CUST1562,Coffee,1:08 PM,60,13.99,Debit Card,Downtown,DEL001,1.7
+CUST1563,Momos,7:46 PM,93,5.22,UPI,Hillview,DEL007,3.1
+CUST1564,"Fries, Wrap",3:46 PM,46,3,Debit Card,Green Park,DEL049,2.2
+CUST1565,"Pizza, Burger, Milkshake",6:36 AM,115,22.82,Credit Card,Old Town,DEL026,3.5
+CUST1566,"Smoothie, Chips, Coffee",9:52 PM,90,20.6,Debit Card,Old Town,DEL032,1.5
+CUST1567,"Smoothie, Juice, Momos",5:41 PM,104,19.12,Credit Card,Riverside,DEL048,3.6
+CUST1568,"Milkshake, Rice Bowl, Paneer Tikka",4:37 PM,66,1.69,UPI,Uptown,DEL031,2.1
+CUST1569,"Wrap, Rice Bowl, Paneer Tikka, Sandwich",8:06 AM,17,21.17,Wallet,Uptown,DEL026,1
+CUST1570,"Sandwich, Biryani, Tea, Juice",7:10 AM,88,11.23,Debit Card,Hillview,DEL012,1.5
+CUST1571,Coke,3:00 AM,104,8.89,Credit Card,Uptown,DEL003,4.7
+CUST1572,"Smoothie, Salad, Burger, Milkshake",6:28 PM,103,13.89,Debit Card,Hillview,DEL054,4.5
+CUST1573,"Biryani, Chips, Smoothie",4:03 AM,119,2.74,Cash,Sunset Street,DEL004,1.9
+CUST1574,Biryani,10:11 PM,29,19.04,UPI,Downtown,DEL002,4.1
+CUST1575,Biryani,3:55 AM,112,14.77,Cash,Metro Square,DEL044,3.4
+CUST1576,"Salad, Fries, Rice Bowl",3:48 PM,62,5.07,Wallet,Airport Zone,DEL025,4.9
+CUST1577,"Wrap, Burger",1:30 AM,21,5.11,Debit Card,Uptown,DEL009,2.5
+CUST1578,"Smoothie, Tea, Pasta, Biryani",10:19 AM,58,5.01,Cash,City Center,DEL029,3.7
+CUST1579,Tea,4:22 PM,26,1.9,Debit Card,Riverside,DEL013,1.3
+CUST1580,"Salad, Pizza, Momos",6:18 AM,73,14.9,UPI,Metro Square,DEL022,2.6
+CUST1581,"Burger, Chips, Samosa, Rice Bowl",8:45 PM,51,21.09,Cash,Green Park,DEL022,4.9
+CUST1582,"Fries, Noodles, Hotdog, Pizza",1:23 PM,103,0.93,Cash,Downtown,DEL006,3.2
+CUST1583,"Paneer Tikka, Smoothie, Salad",10:30 AM,38,1.7,Wallet,Riverside,DEL054,2.2
+CUST1584,Coke,6:08 PM,28,14.53,Wallet,Tech Valley,DEL066,1.5
+CUST1585,Noodles,4:02 AM,119,20.58,UPI,Old Town,DEL014,3.8
+CUST1586,"Hotdog, Pizza, Coffee, Wrap",7:00 AM,20,8.51,Wallet,Sunset Street,DEL042,3.6
+CUST1587,Coffee,1:19 AM,107,9.07,Credit Card,Uptown,DEL042,2.5
+CUST1588,"Milkshake, Burger, Samosa",8:36 AM,59,15.11,Credit Card,Green Park,DEL072,4.8
+CUST1589,Momos,1:54 PM,80,7.22,UPI,Metro Square,DEL025,1.1
+CUST1590,"Biryani, Pasta, Chips, Smoothie",9:24 AM,117,1.15,Credit Card,Tech Valley,DEL080,2.2
+CUST1591,"Smoothie, Sandwich",2:09 AM,67,18.51,Cash,Old Town,DEL027,4.7
+CUST1592,"Hotdog, Pasta, Tea",11:39 PM,43,15.83,UPI,Lakeside,DEL070,2.3
+CUST1593,"Pasta, Pizza, Burger, Paneer Tikka",7:36 AM,29,14.73,UPI,Uptown,DEL051,2
+CUST1594,"Samosa, Wrap",1:52 AM,59,18.67,Cash,Airport Zone,DEL055,3.1
+CUST1595,Pizza,12:09 AM,111,17.04,Cash,Downtown,DEL016,4.3
+CUST1596,"Juice, Milkshake, Chips, Noodles",11:55 PM,97,5.54,Credit Card,Lakeside,DEL030,1.4
+CUST1597,"Wrap, Salad, Burger",11:06 AM,19,9.14,UPI,Metro Square,DEL028,4.8
+CUST1598,"Biryani, Sandwich, Coke, Milkshake",4:49 AM,41,3.59,Credit Card,Sunset Street,DEL014,4.2
+CUST1599,"Fries, Wrap, Rice Bowl, Coke",3:13 AM,61,3.68,Credit Card,Sunset Street,DEL046,1.7
+CUST1600,"Biryani, Smoothie, Noodles",11:55 PM,24,17.07,Cash,Lakeside,DEL042,3.8
+CUST1601,"Samosa, Burger",2:21 PM,110,21.54,Credit Card,Sunset Street,DEL023,2.5
+CUST1602,Hotdog,12:55 PM,93,24.09,Cash,Old Town,DEL002,2.6
+CUST1603,Paneer Tikka,11:33 AM,12,15.89,Credit Card,Downtown,DEL052,4.1
+CUST1604,"Momos, Pizza",10:38 PM,46,5.01,UPI,City Center,DEL041,4.9
+CUST1605,"Salad, Coke, Biryani",12:12 PM,49,3.09,UPI,Riverside,DEL002,1.5
+CUST1606,Hotdog,10:37 AM,81,20.41,Cash,Metro Square,DEL050,2.7
+CUST1607,"Burger, Salad, Sandwich, Pasta",10:40 AM,49,14.68,Wallet,Hillview,DEL028,2.9
+CUST1608,"Samosa, Coffee",9:53 PM,117,15.65,Cash,Metro Square,DEL059,2.5
+CUST1609,"Smoothie, Chips",3:00 PM,65,19.65,Credit Card,Hillview,DEL029,2.5
+CUST1610,"Sandwich, Noodles, Chips",5:27 PM,32,17.73,UPI,Green Park,DEL009,1.2
+CUST1611,Noodles,2:59 AM,113,20.94,Cash,Tech Valley,DEL036,3.7
+CUST1612,"Paneer Tikka, Noodles, Chips",6:39 PM,20,1.88,Wallet,Old Town,DEL080,2.7
+CUST1613,"Samosa, Tea, Pasta",6:04 AM,119,18.81,Debit Card,Hillview,DEL048,1.8
+CUST1614,"Momos, Wrap, Biryani, Paneer Tikka",8:45 AM,73,21.35,Debit Card,Hillview,DEL006,4.3
+CUST1615,"Momos, Burger, Hotdog, Smoothie",11:35 AM,17,7.51,Wallet,Tech Valley,DEL009,4.2
+CUST1616,Samosa,9:12 AM,102,16.19,Debit Card,Sunset Street,DEL028,2.9
+CUST1617,"Noodles, Samosa",8:44 AM,103,8.2,UPI,Lakeside,DEL053,2.2
+CUST1618,Biryani,10:25 AM,65,23.97,Credit Card,Hillview,DEL039,3.6
+CUST1619,Paneer Tikka,12:14 PM,69,1.32,Debit Card,Downtown,DEL077,2.2
+CUST1620,"Pasta, Milkshake",2:04 AM,19,14.7,Wallet,Riverside,DEL064,1.9
+CUST1621,"Pasta, Coke, Milkshake",7:59 AM,48,4.58,UPI,Tech Valley,DEL014,3.9
+CUST1622,Milkshake,5:35 PM,37,17.95,Credit Card,Airport Zone,DEL069,1.2
+CUST1623,Tea,11:03 AM,58,4.81,Credit Card,Tech Valley,DEL073,1.4
+CUST1624,"Chips, Momos, Juice, Smoothie",6:18 AM,45,6.27,UPI,Hillview,DEL022,1
+CUST1625,"Rice Bowl, Pasta, Samosa, Biryani",5:12 AM,22,12.61,UPI,Downtown,DEL033,1.6
+CUST1626,"Wrap, Hotdog, Pasta, Noodles",1:10 PM,105,22.91,Cash,Uptown,DEL013,1.3
+CUST1627,"Biryani, Fries, Milkshake",9:47 PM,45,5.69,Wallet,Tech Valley,DEL077,5
+CUST1628,Milkshake,4:02 AM,110,4.03,Wallet,Riverside,DEL042,2.2
+CUST1629,Salad,7:12 AM,35,19.09,UPI,City Center,DEL050,1.6
+CUST1630,Samosa,9:29 AM,95,12.77,Credit Card,Lakeside,DEL018,2
+CUST1631,Juice,9:11 AM,13,22.84,Credit Card,Green Park,DEL043,4.7
+CUST1632,"Smoothie, Coke, Pizza",8:26 AM,104,4.09,Wallet,Sunset Street,DEL023,3.1
+CUST1633,"Coffee, Salad, Tea",6:41 AM,91,16.33,Cash,Riverside,DEL041,2.5
+CUST1634,"Biryani, Noodles, Wrap",3:01 AM,73,6.21,Wallet,Sunset Street,DEL062,4.5
+CUST1635,"Paneer Tikka, Salad, Wrap, Samosa",9:14 AM,47,4.34,UPI,Old Town,DEL009,2.6
+CUST1636,"Tea, Fries, Biryani, Wrap",9:28 PM,97,17.24,Cash,Metro Square,DEL043,2.3
+CUST1637,Coke,10:37 PM,96,15.05,Credit Card,Riverside,DEL003,1.8
+CUST1638,"Coke, Coffee, Noodles",1:32 PM,31,18.99,Wallet,Uptown,DEL078,2.5
+CUST1639,"Tea, Wrap",11:44 PM,11,8.08,Debit Card,Green Park,DEL075,2.3
+CUST1640,"Paneer Tikka, Momos",9:51 PM,40,11.48,Debit Card,Lakeside,DEL058,3.7
+CUST1641,"Coffee, Momos, Tea",9:25 PM,20,10.43,Cash,Sunset Street,DEL049,2.2
+CUST1642,"Coke, Wrap, Milkshake, Momos",5:53 PM,101,24.61,Debit Card,Green Park,DEL066,3.3
+CUST1643,"Coffee, Momos",12:02 AM,55,7.66,Debit Card,Sunset Street,DEL030,1.3
+CUST1644,"Salad, Wrap, Tea",5:50 PM,105,7.72,Debit Card,Airport Zone,DEL065,1.8
+CUST1645,"Pizza, Paneer Tikka",8:20 PM,71,9.19,Wallet,City Center,DEL076,2.6
+CUST1646,"Burger, Coffee",10:45 PM,78,14.33,UPI,Lakeside,DEL002,4.7
+CUST1647,"Momos, Rice Bowl",4:36 AM,73,6.68,UPI,Airport Zone,DEL030,2.5
+CUST1648,"Hotdog, Biryani, Juice",8:24 AM,111,22.92,UPI,Metro Square,DEL003,3.7
+CUST1649,"Smoothie, Biryani",6:03 PM,19,7.01,UPI,City Center,DEL079,2
+CUST1650,"Paneer Tikka, Pizza, Salad",4:56 AM,49,22.45,Wallet,Metro Square,DEL016,1.5
+CUST1651,"Samosa, Coke, Fries",8:05 PM,119,3.04,Wallet,Sunset Street,DEL040,1.2
+CUST1652,"Burger, Smoothie, Salad",8:42 PM,33,16.59,Wallet,Riverside,DEL031,2.2
+CUST1653,"Chips, Fries, Momos, Coke",3:28 PM,108,22.72,Debit Card,Uptown,DEL055,1.6
+CUST1654,"Pizza, Salad, Paneer Tikka, Coke",9:04 AM,53,4.63,Credit Card,Old Town,DEL032,1.7
+CUST1655,"Momos, Coke, Sandwich, Milkshake",2:16 PM,69,24.22,Cash,Tech Valley,DEL080,4
+CUST1656,"Rice Bowl, Burger, Biryani, Milkshake",6:02 AM,71,11.6,Credit Card,Old Town,DEL011,1.1
+CUST1657,"Tea, Burger, Samosa, Hotdog",9:13 AM,96,23.67,Wallet,Airport Zone,DEL008,3.2
+CUST1658,Juice,10:03 AM,26,17.08,Cash,Riverside,DEL018,2.5
+CUST1659,Sandwich,4:14 AM,74,7.89,UPI,Airport Zone,DEL048,3
+CUST1660,Coke,5:50 PM,104,5.11,Credit Card,Downtown,DEL064,3.3
+CUST1661,Salad,11:03 AM,104,7.94,Debit Card,City Center,DEL038,2.3
+CUST1662,"Samosa, Burger, Milkshake",5:10 AM,115,2.78,Wallet,Lakeside,DEL026,2.2
+CUST1663,"Sandwich, Paneer Tikka",5:39 PM,66,4.02,Credit Card,Uptown,DEL020,3.9
+CUST1664,Chips,8:27 AM,64,3.06,Debit Card,Green Park,DEL049,4.5
+CUST1665,Tea,12:21 PM,115,10.86,Credit Card,Old Town,DEL027,1.8
+CUST1666,"Coffee, Milkshake, Pasta",5:28 AM,62,19.99,Cash,Green Park,DEL005,1.4
+CUST1667,"Pasta, Rice Bowl",10:46 AM,65,3.96,Wallet,Airport Zone,DEL031,4.6
+CUST1668,"Salad, Juice, Pasta",5:12 AM,107,3.69,Credit Card,Metro Square,DEL077,2.4
+CUST1669,"Chips, Salad",6:08 AM,18,16.26,Wallet,Hillview,DEL057,3.2
+CUST1670,"Pasta, Hotdog, Smoothie",4:09 PM,31,5.33,Credit Card,Metro Square,DEL043,2.4
+CUST1671,"Salad, Rice Bowl",7:50 PM,22,2.89,Wallet,City Center,DEL018,1.5
+CUST1672,Hotdog,7:00 AM,98,4.59,Wallet,Riverside,DEL036,3.4
+CUST1673,Paneer Tikka,4:01 AM,57,23.13,UPI,Riverside,DEL041,3.1
+CUST1674,"Biryani, Burger, Rice Bowl",4:21 AM,27,20.63,Wallet,City Center,DEL006,1.8
+CUST1675,"Milkshake, Pasta",12:36 PM,85,9.17,UPI,Hillview,DEL067,2.8
+CUST1676,"Pizza, Rice Bowl",3:13 AM,49,16.57,Credit Card,Uptown,DEL054,4.2
+CUST1677,"Hotdog, Pasta",6:56 AM,26,13.66,Debit Card,Tech Valley,DEL037,3.4
+CUST1678,"Burger, Chips, Pasta",12:14 AM,24,17.09,Debit Card,Airport Zone,DEL004,1.4
+CUST1679,"Milkshake, Paneer Tikka, Smoothie",12:14 AM,115,17.23,UPI,Green Park,DEL030,3.2
+CUST1680,"Momos, Pasta, Burger, Fries",6:16 AM,24,15.9,Debit Card,Uptown,DEL043,3.8
+CUST1681,"Pizza, Wrap, Samosa, Smoothie",1:29 PM,88,7.02,UPI,Old Town,DEL044,4.2
+CUST1682,"Chips, Salad, Coke, Momos",2:04 PM,72,1.46,Cash,Green Park,DEL032,3.5
+CUST1683,"Milkshake, Noodles, Tea, Paneer Tikka",11:44 PM,48,11.66,Wallet,Metro Square,DEL027,1.6
+CUST1684,Biryani,3:42 AM,22,22.33,Credit Card,Airport Zone,DEL070,3.8
+CUST1685,"Pizza, Rice Bowl, Momos, Juice",1:50 PM,90,14.45,Debit Card,Hillview,DEL007,3.7
+CUST1686,"Fries, Rice Bowl",2:23 PM,41,20.89,Debit Card,Old Town,DEL032,1.1
+CUST1687,"Hotdog, Smoothie, Momos, Paneer Tikka",12:28 AM,18,24.79,UPI,Riverside,DEL029,2.6
+CUST1688,"Juice, Smoothie, Coke",1:09 PM,49,4.51,Wallet,Lakeside,DEL078,2.3
+CUST1689,"Coffee, Pasta",3:39 PM,29,17.45,UPI,Tech Valley,DEL049,3.7
+CUST1690,"Rice Bowl, Biryani, Chips, Pasta",7:22 PM,99,17.02,Credit Card,Tech Valley,DEL067,1.9
+CUST1691,Pizza,10:15 AM,100,24.51,Credit Card,Downtown,DEL042,3.4
+CUST1692,Smoothie,11:03 PM,94,24.65,UPI,Sunset Street,DEL024,4.7
+CUST1693,"Juice, Smoothie, Chips",5:17 AM,91,17.32,Credit Card,Riverside,DEL057,4.2
+CUST1694,"Milkshake, Pizza, Wrap, Fries",8:23 PM,86,6.47,Credit Card,Hillview,DEL001,4.7
+CUST1695,"Coke, Juice, Pasta, Wrap",6:03 AM,89,20.06,Cash,Hillview,DEL009,4.9
+CUST1696,"Coke, Biryani, Hotdog",2:57 AM,82,3.12,Wallet,Tech Valley,DEL063,1
+CUST1697,"Pasta, Paneer Tikka",5:58 AM,72,19.63,Debit Card,Sunset Street,DEL009,3.5
+CUST1698,"Sandwich, Smoothie",7:47 AM,85,22.8,UPI,Airport Zone,DEL025,2.7
+CUST1699,"Sandwich, Pasta, Fries",6:35 PM,53,9.88,Wallet,Hillview,DEL007,4.4
+CUST1700,"Fries, Rice Bowl",8:52 AM,47,15.95,UPI,Tech Valley,DEL019,2
+CUST1701,Coke,3:10 PM,92,11.04,UPI,City Center,DEL027,4.9
+CUST1702,Noodles,7:01 AM,69,11.23,UPI,Airport Zone,DEL017,3.5
+CUST1703,"Pizza, Samosa, Coffee",6:17 AM,80,8.1,Credit Card,Uptown,DEL012,4.2
+CUST1704,"Milkshake, Coke",10:58 PM,108,19.17,Cash,Green Park,DEL023,1.3
+CUST1705,"Pasta, Milkshake",4:02 AM,57,23.44,Cash,Airport Zone,DEL076,1.7
+CUST1706,"Hotdog, Noodles, Fries",4:34 AM,27,23.55,Wallet,Metro Square,DEL071,4
+CUST1707,"Fries, Rice Bowl",9:29 AM,25,4.78,UPI,Lakeside,DEL027,1.1
+CUST1708,Paneer Tikka,2:51 AM,64,21.93,Credit Card,Green Park,DEL031,4.3
+CUST1709,"Coffee, Salad",6:51 PM,48,18.57,Debit Card,Old Town,DEL065,1.1
+CUST1710,"Milkshake, Hotdog, Pasta, Chips",11:51 PM,77,6.69,UPI,Hillview,DEL011,3.6
+CUST1711,"Rice Bowl, Fries",12:05 AM,68,2.15,Credit Card,Metro Square,DEL055,2.5
+CUST1712,Burger,2:45 PM,98,7.07,Debit Card,Uptown,DEL060,3.4
+CUST1713,"Hotdog, Salad, Burger",5:10 AM,105,22.85,UPI,Metro Square,DEL040,3.8
+CUST1714,"Salad, Juice, Hotdog, Samosa",9:51 PM,71,16.01,Wallet,Sunset Street,DEL022,2.4
+CUST1715,"Pasta, Chips",4:18 AM,113,18.17,Debit Card,Hillview,DEL026,1.4
+CUST1716,"Hotdog, Coke, Noodles",1:56 AM,22,6.8,UPI,Airport Zone,DEL032,1.3
+CUST1717,Noodles,11:03 AM,118,18.13,Wallet,Lakeside,DEL055,3.4
+CUST1718,Smoothie,2:52 PM,90,1.19,Credit Card,Uptown,DEL023,3.1
+CUST1719,"Hotdog, Sandwich",11:26 PM,110,9.7,UPI,Tech Valley,DEL078,4
+CUST1720,"Samosa, Wrap, Pasta, Juice",8:42 AM,15,15.86,Cash,Uptown,DEL032,3
+CUST1721,"Pizza, Pasta, Wrap",5:29 PM,92,4.08,Cash,Sunset Street,DEL039,2.7
+CUST1722,"Burger, Pasta",11:49 PM,86,20.66,UPI,Downtown,DEL037,2.6
+CUST1723,"Wrap, Rice Bowl",3:53 AM,69,6.26,UPI,Green Park,DEL074,1.1
+CUST1724,Fries,3:41 PM,99,16.48,UPI,Downtown,DEL058,2.3
+CUST1725,"Samosa, Chips, Coffee, Pizza",8:44 PM,23,10.43,Credit Card,City Center,DEL026,4.9
+CUST1726,"Smoothie, Salad, Rice Bowl, Wrap",3:20 PM,104,15.1,Cash,City Center,DEL035,4.5
+CUST1727,"Wrap, Noodles, Juice, Smoothie",8:26 AM,63,3.13,Credit Card,Uptown,DEL062,2.3
+CUST1728,"Noodles, Milkshake, Hotdog",3:39 AM,13,0.91,Wallet,Old Town,DEL011,3.4
+CUST1729,"Samosa, Sandwich, Momos, Fries",7:59 PM,48,22.78,Wallet,Metro Square,DEL047,4.4
+CUST1730,"Coffee, Burger, Milkshake",5:59 AM,81,7.11,UPI,Uptown,DEL051,2.8
+CUST1731,"Smoothie, Coffee, Juice, Chips",8:03 AM,34,20.58,Wallet,Tech Valley,DEL049,1.1
+CUST1732,"Biryani, Momos, Chips",12:23 PM,86,24.98,Cash,Lakeside,DEL022,1.3
+CUST1733,"Milkshake, Samosa",8:34 PM,41,5.68,Cash,Old Town,DEL061,3
+CUST1734,"Paneer Tikka, Samosa, Coffee, Smoothie",7:34 AM,68,7,Wallet,Uptown,DEL057,4.9
+CUST1735,"Samosa, Chips",2:09 PM,111,16.74,Debit Card,Metro Square,DEL055,3.8
+CUST1736,"Pizza, Coke",9:30 PM,72,24.15,Debit Card,Hillview,DEL065,1.3
+CUST1737,"Smoothie, Pizza, Rice Bowl, Juice",8:09 PM,47,22.94,UPI,Uptown,DEL079,1.8
+CUST1738,"Pizza, Samosa",10:32 AM,101,12.82,Debit Card,Riverside,DEL056,4.1
+CUST1739,"Sandwich, Pasta, Samosa, Burger",2:11 AM,62,19.98,Cash,Hillview,DEL020,4.4
+CUST1740,"Juice, Sandwich, Wrap",4:20 AM,103,3.83,UPI,Hillview,DEL062,3.5
+CUST1741,"Smoothie, Milkshake, Fries, Coffee",7:02 PM,76,24.45,Debit Card,Metro Square,DEL003,3.6
+CUST1742,"Noodles, Salad, Biryani",6:50 PM,37,24.13,Debit Card,Sunset Street,DEL049,1.1
+CUST1743,Biryani,10:21 PM,12,4.51,Cash,Tech Valley,DEL055,4.3
+CUST1744,Juice,12:25 PM,118,7.84,Credit Card,Airport Zone,DEL011,4.2
+CUST1745,"Momos, Coffee, Noodles",5:18 PM,107,2.95,Credit Card,Downtown,DEL039,2
+CUST1746,"Chips, Burger",10:16 PM,89,7.16,Cash,Airport Zone,DEL077,3.8
+CUST1747,"Salad, Coke",4:46 PM,31,20.49,Wallet,Lakeside,DEL069,1.9
+CUST1748,Chips,11:09 PM,105,9.77,Credit Card,Hillview,DEL020,1.2
+CUST1749,"Wrap, Noodles",7:31 AM,47,2.67,Debit Card,Old Town,DEL071,1.8
+CUST1750,"Chips, Pizza, Smoothie",7:40 AM,81,8.88,UPI,Riverside,DEL023,1.7
+CUST1751,"Rice Bowl, Pizza, Juice",6:28 AM,81,24.54,UPI,Airport Zone,DEL033,2.4
+CUST1752,"Coffee, Juice, Sandwich",6:49 PM,71,15.93,Cash,Sunset Street,DEL049,2.7
+CUST1753,Pizza,2:50 AM,66,10.7,Debit Card,Sunset Street,DEL060,3
+CUST1754,"Milkshake, Noodles, Sandwich, Salad",5:06 AM,15,4.58,Credit Card,Hillview,DEL040,2.9
+CUST1755,Samosa,4:05 AM,87,24.66,Cash,Downtown,DEL059,2.1
+CUST1756,"Tea, Pizza, Coke, Samosa",2:03 AM,41,20.61,Cash,Airport Zone,DEL037,1.1
+CUST1757,"Momos, Fries",3:33 AM,108,7.4,UPI,City Center,DEL049,3.4
+CUST1758,"Coke, Smoothie, Pasta, Sandwich",2:32 PM,19,2.22,Wallet,Lakeside,DEL072,2.6
+CUST1759,Coffee,1:15 AM,12,1.89,Cash,Airport Zone,DEL078,2.2
+CUST1760,Samosa,10:22 PM,68,3.45,Cash,City Center,DEL062,4.5
+CUST1761,"Milkshake, Paneer Tikka",10:35 PM,85,14.73,Cash,Old Town,DEL010,4
+CUST1762,"Milkshake, Samosa",1:51 PM,58,23.25,Wallet,Tech Valley,DEL043,4.4
+CUST1763,"Salad, Paneer Tikka, Coke, Momos",11:39 PM,68,12.67,UPI,Hillview,DEL018,3
+CUST1764,Fries,1:42 AM,40,21.15,UPI,Metro Square,DEL061,1.5
+CUST1765,"Sandwich, Coke",2:29 AM,102,11.42,Credit Card,Metro Square,DEL026,3.8
+CUST1766,"Fries, Pasta, Pizza, Hotdog",1:55 AM,78,17.86,UPI,Riverside,DEL020,1.8
+CUST1767,"Burger, Fries, Pizza, Tea",3:18 PM,71,18.43,Wallet,Riverside,DEL025,2.8
+CUST1768,"Biryani, Coke, Paneer Tikka",10:02 PM,61,4.76,Wallet,Downtown,DEL001,1.3
+CUST1769,"Wrap, Tea, Noodles",8:59 PM,98,9.35,UPI,City Center,DEL002,4.3
+CUST1770,"Paneer Tikka, Noodles",7:38 AM,50,16.11,UPI,Tech Valley,DEL065,1.5
+CUST1771,"Rice Bowl, Pasta, Wrap",4:22 AM,40,2.23,UPI,Metro Square,DEL048,4.6
+CUST1772,Milkshake,3:37 AM,94,9.36,Credit Card,Green Park,DEL063,4.5
+CUST1773,"Coke, Tea, Noodles, Coffee",7:39 PM,93,13.6,Debit Card,Airport Zone,DEL052,2.9
+CUST1774,"Smoothie, Sandwich, Paneer Tikka, Coffee",8:44 AM,112,24.91,Cash,Downtown,DEL054,4
+CUST1775,"Burger, Samosa, Salad",11:11 AM,31,12.13,Cash,Lakeside,DEL051,3.5
+CUST1776,"Pasta, Wrap",7:20 PM,13,20.49,Wallet,Airport Zone,DEL048,4.2
+CUST1777,"Samosa, Burger, Salad, Noodles",11:56 PM,22,11.09,UPI,Metro Square,DEL050,2.7
+CUST1778,"Milkshake, Smoothie, Wrap",3:31 AM,54,20.01,Debit Card,Lakeside,DEL063,4.1
+CUST1779,"Coffee, Fries, Pasta",3:11 AM,51,15.09,Cash,Tech Valley,DEL040,2.8
+CUST1780,"Rice Bowl, Biryani",5:09 AM,58,22.22,Cash,Airport Zone,DEL076,4.8
+CUST1781,Tea,3:24 PM,29,10.57,Debit Card,City Center,DEL010,2.9
+CUST1782,Milkshake,11:16 PM,86,15.31,Cash,Uptown,DEL053,2.9
+CUST1783,"Milkshake, Samosa, Wrap, Biryani",7:14 AM,90,15.94,Wallet,Old Town,DEL005,4.1
+CUST1784,Tea,5:29 PM,63,10.73,UPI,Riverside,DEL016,4.3
+CUST1785,"Burger, Coffee, Pasta",5:10 AM,45,4.04,Debit Card,Tech Valley,DEL050,3.2
+CUST1786,"Biryani, Smoothie, Paneer Tikka, Momos",12:23 AM,106,2.79,Debit Card,Tech Valley,DEL073,1.7
+CUST1787,"Milkshake, Pasta, Coffee, Rice Bowl",9:09 AM,10,0.91,Cash,Sunset Street,DEL021,2.9
+CUST1788,"Tea, Hotdog",4:07 AM,24,21.9,Credit Card,Sunset Street,DEL025,4.9
+CUST1789,"Paneer Tikka, Smoothie, Fries",12:11 PM,86,6.29,Debit Card,Uptown,DEL056,4
+CUST1790,Fries,12:43 PM,26,5.68,Credit Card,Lakeside,DEL033,4.2
+CUST1791,Chips,10:43 AM,33,18.53,Debit Card,Airport Zone,DEL045,1.1
+CUST1792,"Salad, Milkshake",8:37 AM,67,8.34,Cash,Tech Valley,DEL066,2.9
+CUST1793,"Fries, Samosa, Sandwich, Chips",8:24 PM,81,12.9,Debit Card,Tech Valley,DEL063,3.6
+CUST1794,"Hotdog, Sandwich, Samosa, Coffee",6:58 AM,100,4.48,Cash,Tech Valley,DEL048,4.3
+CUST1795,"Juice, Paneer Tikka, Fries",6:47 AM,118,24.01,Debit Card,Tech Valley,DEL008,1.2
+CUST1796,Hotdog,11:00 PM,32,21.36,Debit Card,Uptown,DEL050,4.4
+CUST1797,"Tea, Burger, Sandwich",10:34 PM,55,21.66,UPI,Downtown,DEL055,3.2
+CUST1798,Sandwich,6:12 AM,81,10.47,Debit Card,City Center,DEL032,1.8
+CUST1799,Momos,9:18 AM,17,19.18,Credit Card,Green Park,DEL032,2.3
+CUST1800,"Smoothie, Biryani",9:28 AM,68,4.02,UPI,Airport Zone,DEL062,2.1
+CUST1801,Coke,12:19 AM,99,0.71,Wallet,Tech Valley,DEL005,3.1
+CUST1802,"Rice Bowl, Noodles, Fries",4:53 PM,68,0.99,Credit Card,Riverside,DEL047,1.2
+CUST1803,"Samosa, Fries, Pizza",4:31 PM,22,14.87,Cash,Hillview,DEL004,1.6
+CUST1804,"Hotdog, Noodles, Burger",4:38 PM,48,11.66,Cash,City Center,DEL019,4.3
+CUST1805,"Rice Bowl, Pasta, Coffee, Sandwich",6:59 PM,110,13.19,Wallet,Downtown,DEL034,1.5
+CUST1806,"Tea, Hotdog, Biryani, Pizza",10:00 AM,37,0.68,Credit Card,City Center,DEL078,1.9
+CUST1807,"Noodles, Coffee, Rice Bowl",8:29 AM,98,10.86,UPI,City Center,DEL059,2.8
+CUST1808,"Milkshake, Pasta, Coffee, Tea",12:51 AM,70,18.09,Debit Card,City Center,DEL019,3.1
+CUST1809,"Pasta, Pizza",5:00 AM,25,11.35,UPI,Metro Square,DEL033,4.1
+CUST1810,"Samosa, Sandwich",11:39 AM,11,18.44,UPI,Airport Zone,DEL032,2.8
+CUST1811,Sandwich,9:24 PM,91,6.21,Credit Card,Riverside,DEL078,4.2
+CUST1812,Samosa,4:43 PM,26,20.42,Debit Card,Hillview,DEL075,3.5
+CUST1813,Pizza,11:04 AM,39,14.92,Cash,Lakeside,DEL021,1.5
+CUST1814,"Samosa, Fries",7:49 PM,112,5.66,Debit Card,Lakeside,DEL002,1.6
+CUST1815,"Tea, Wrap, Paneer Tikka",10:12 AM,22,6.3,Debit Card,Old Town,DEL015,2.7
+CUST1816,"Biryani, Milkshake",9:28 PM,105,15.89,UPI,Downtown,DEL012,2.6
+CUST1817,"Burger, Salad, Paneer Tikka, Coffee",3:16 PM,102,20.83,UPI,Uptown,DEL050,4
+CUST1818,"Biryani, Sandwich",7:44 PM,119,10.68,Cash,Riverside,DEL051,3.3
+CUST1819,"Hotdog, Smoothie, Momos",5:25 AM,103,6.83,UPI,Airport Zone,DEL076,2.6
+CUST1820,"Fries, Sandwich, Rice Bowl",1:40 PM,91,21.74,UPI,Sunset Street,DEL011,1.7
+CUST1821,"Smoothie, Hotdog, Biryani",9:13 PM,22,16.9,Debit Card,Tech Valley,DEL067,1.9
+CUST1822,"Smoothie, Tea, Pizza, Samosa",5:56 AM,52,11.48,Cash,Old Town,DEL025,3.3
+CUST1823,"Milkshake, Tea, Paneer Tikka",7:47 PM,94,12.45,Cash,Riverside,DEL055,2.7
+CUST1824,"Chips, Hotdog",10:26 AM,103,5.5,Wallet,Tech Valley,DEL022,3.1
+CUST1825,"Milkshake, Fries, Biryani",7:17 AM,30,15.86,Credit Card,Sunset Street,DEL055,1.7
+CUST1826,"Samosa, Sandwich, Wrap",5:28 AM,64,9.29,Credit Card,Green Park,DEL033,3.7
+CUST1827,"Noodles, Rice Bowl",3:30 PM,90,24.89,Cash,Lakeside,DEL039,4.4
+CUST1828,"Coke, Momos, Hotdog, Milkshake",10:50 AM,49,12.26,Debit Card,Airport Zone,DEL065,2
+CUST1829,Chips,5:10 AM,92,12.4,Credit Card,Downtown,DEL069,3
+CUST1830,"Tea, Rice Bowl, Juice",11:36 AM,24,14.36,UPI,Uptown,DEL049,4.9
+CUST1831,"Chips, Burger, Biryani",4:01 AM,82,22.96,UPI,Sunset Street,DEL076,2.3
+CUST1832,"Momos, Samosa",1:05 PM,61,20.12,Cash,Sunset Street,DEL040,3.4
+CUST1833,"Noodles, Coke, Wrap",12:22 PM,83,11.55,Debit Card,Lakeside,DEL053,1.4
+CUST1834,"Noodles, Paneer Tikka, Momos, Milkshake",5:05 PM,117,18.11,Credit Card,Uptown,DEL012,3.4
+CUST1835,Pizza,4:51 AM,104,14.86,Credit Card,Green Park,DEL014,1.4
+CUST1836,"Salad, Pizza, Sandwich",7:08 PM,62,12.56,Credit Card,City Center,DEL074,4.8
+CUST1837,"Tea, Chips, Milkshake",12:41 AM,96,5.21,Cash,Metro Square,DEL045,3.9
+CUST1838,Biryani,11:36 AM,61,11.87,UPI,Hillview,DEL019,4.2
+CUST1839,"Pizza, Rice Bowl, Paneer Tikka, Pasta",11:59 PM,39,6.52,Debit Card,Hillview,DEL035,3.8
+CUST1840,"Paneer Tikka, Pasta, Pizza",5:09 AM,42,22.91,UPI,Tech Valley,DEL027,3.4
+CUST1841,"Coffee, Sandwich, Pasta",6:18 PM,66,8.72,Debit Card,Uptown,DEL051,2.8
+CUST1842,"Smoothie, Coke, Chips",3:04 AM,61,23.83,Debit Card,Hillview,DEL040,4.4
+CUST1843,"Sandwich, Pasta",10:59 AM,18,13.56,Debit Card,Hillview,DEL001,4.8
+CUST1844,"Pasta, Smoothie, Chips, Milkshake",1:13 PM,63,15.97,Wallet,Downtown,DEL022,3
+CUST1845,Fries,1:09 AM,10,13.8,Credit Card,Lakeside,DEL063,4.7
+CUST1846,"Salad, Wrap, Milkshake",6:20 PM,53,3.67,Debit Card,City Center,DEL001,3.3
+CUST1847,Noodles,10:48 AM,108,9.71,Debit Card,Riverside,DEL013,3.2
+CUST1848,"Rice Bowl, Sandwich, Biryani",9:44 PM,84,2.93,Cash,Riverside,DEL009,2.8
+CUST1849,"Salad, Wrap",6:25 PM,107,15.76,Debit Card,Green Park,DEL054,1.8
+CUST1850,"Burger, Pasta, Smoothie",7:27 AM,89,11.45,UPI,Uptown,DEL068,1
+CUST1851,"Hotdog, Salad, Momos",7:29 AM,18,19.56,Credit Card,Sunset Street,DEL054,2
+CUST1852,Milkshake,9:46 PM,41,5.9,Wallet,Hillview,DEL037,3
+CUST1853,Tea,4:41 AM,24,4.53,Credit Card,Tech Valley,DEL056,2.5
+CUST1854,"Biryani, Chips",1:11 PM,21,10.46,UPI,Green Park,DEL022,2.8
+CUST1855,Samosa,7:46 PM,106,23.2,Wallet,Tech Valley,DEL023,4.9
+CUST1856,"Hotdog, Coffee, Coke",9:42 AM,118,17.91,Cash,Hillview,DEL048,2.4
+CUST1857,"Hotdog, Milkshake, Momos, Wrap",5:02 AM,87,10.76,Credit Card,City Center,DEL024,2.8
+CUST1858,"Burger, Coffee, Rice Bowl",1:24 PM,66,13.17,Debit Card,Tech Valley,DEL018,1.5
+CUST1859,Fries,2:21 AM,17,2.56,Cash,Downtown,DEL026,1.2
+CUST1860,"Burger, Chips",9:16 PM,81,24.62,Debit Card,Uptown,DEL063,4.1
+CUST1861,"Fries, Coke",7:32 PM,36,16.83,Credit Card,Old Town,DEL024,3.3
+CUST1862,"Burger, Pizza",12:41 AM,71,7.49,Credit Card,Tech Valley,DEL065,4
+CUST1863,"Burger, Noodles, Salad",9:35 PM,21,14.85,Cash,Riverside,DEL015,1.6
+CUST1864,"Noodles, Burger, Biryani, Coke",10:06 AM,74,3.18,Wallet,Sunset Street,DEL058,3.3
+CUST1865,Juice,6:13 AM,116,24.16,Wallet,City Center,DEL073,2
+CUST1866,Juice,11:06 PM,113,4.78,Debit Card,Tech Valley,DEL028,1.9
+CUST1867,"Smoothie, Momos",7:41 AM,51,16.38,Cash,Riverside,DEL024,1
+CUST1868,"Chips, Rice Bowl, Fries",5:48 PM,71,6.51,Cash,Uptown,DEL026,1.5
+CUST1869,Hotdog,1:02 AM,20,18.08,Debit Card,Lakeside,DEL008,2.2
+CUST1870,"Tea, Hotdog",8:36 AM,112,19.53,Wallet,Lakeside,DEL024,1.5
+CUST1871,"Biryani, Juice",5:54 PM,52,17,Wallet,Green Park,DEL025,4.9
+CUST1872,Tea,7:45 AM,104,15.56,Wallet,Airport Zone,DEL034,2.2
+CUST1873,"Milkshake, Burger, Noodles, Smoothie",5:04 AM,26,22.37,UPI,Metro Square,DEL053,1.5
+CUST1874,"Hotdog, Momos",8:05 PM,106,2.43,UPI,Tech Valley,DEL057,1.8
+CUST1875,"Paneer Tikka, Fries, Pasta, Biryani",5:54 AM,41,8.61,Credit Card,Lakeside,DEL080,3.4
+CUST1876,"Smoothie, Tea, Juice, Momos",4:06 AM,102,6.58,UPI,Metro Square,DEL014,1.3
+CUST1877,Sandwich,5:50 AM,94,24.71,Cash,Green Park,DEL022,4.4
+CUST1878,"Momos, Chips, Paneer Tikka, Juice",2:23 AM,94,10.04,UPI,Green Park,DEL011,4.8
+CUST1879,Juice,11:18 PM,49,18.45,Credit Card,Lakeside,DEL038,2
+CUST1880,"Milkshake, Chips, Tea",4:42 PM,32,17.28,Wallet,City Center,DEL011,2.8
+CUST1881,"Fries, Samosa, Burger, Noodles",3:45 AM,65,5.7,UPI,Metro Square,DEL049,1.1
+CUST1882,Paneer Tikka,11:34 AM,15,6.36,Debit Card,City Center,DEL016,3.6
+CUST1883,"Biryani, Wrap",4:55 AM,95,7.39,Credit Card,Sunset Street,DEL036,2.7
+CUST1884,"Burger, Rice Bowl, Sandwich",1:34 PM,59,10.57,Credit Card,Metro Square,DEL009,2.1
+CUST1885,"Pasta, Coffee, Salad",1:34 PM,111,6.24,Credit Card,Sunset Street,DEL044,1.8
+CUST1886,"Coffee, Sandwich, Burger, Rice Bowl",3:25 PM,46,0.98,Cash,Tech Valley,DEL004,3.6
+CUST1887,"Samosa, Coke, Smoothie",9:57 AM,118,22.05,Debit Card,Hillview,DEL075,2.7
+CUST1888,"Coke, Tea",12:06 AM,73,24.16,UPI,Uptown,DEL031,1.7
+CUST1889,"Fries, Noodles, Juice, Wrap",6:07 PM,63,8.87,UPI,Hillview,DEL062,3.8
+CUST1890,"Coffee, Wrap, Milkshake, Chips",4:20 PM,81,8.79,Credit Card,Lakeside,DEL063,3.3
+CUST1891,Coffee,8:35 AM,114,0.67,Credit Card,Downtown,DEL013,4.4
+CUST1892,"Hotdog, Fries, Samosa",5:03 PM,58,17.17,Debit Card,Downtown,DEL002,1.5
+CUST1893,Juice,12:19 PM,108,20.72,Credit Card,Riverside,DEL008,4.1
+CUST1894,Burger,9:48 AM,20,4.09,UPI,Old Town,DEL035,3.7
+CUST1895,"Tea, Wrap, Burger",4:53 AM,97,4.41,Wallet,Green Park,DEL001,1.5
+CUST1896,"Paneer Tikka, Momos",9:00 PM,58,19.86,Debit Card,Downtown,DEL075,3.8
+CUST1897,Pasta,1:50 AM,30,15.6,Wallet,City Center,DEL006,2.8
+CUST1898,Coke,12:11 PM,75,1.6,Credit Card,Airport Zone,DEL013,4.8
+CUST1899,"Salad, Wrap, Fries",6:59 PM,72,15.75,Debit Card,Green Park,DEL028,1.6
+CUST1900,"Salad, Coffee, Burger",4:58 PM,113,8.07,Wallet,Green Park,DEL067,3.6
+CUST1901,"Sandwich, Coffee, Milkshake, Fries",3:28 PM,92,9.53,Cash,Uptown,DEL001,2.5
+CUST1902,"Coke, Sandwich, Samosa",8:33 PM,112,19.36,UPI,Airport Zone,DEL049,4.8
+CUST1903,Burger,3:15 PM,37,20.37,Credit Card,Airport Zone,DEL078,2.3
+CUST1904,Burger,10:33 AM,26,10.31,Credit Card,Riverside,DEL067,4.8
+CUST1905,"Sandwich, Biryani, Juice, Smoothie",10:49 AM,15,23.71,Wallet,Hillview,DEL035,4.6
+CUST1906,Coke,11:24 PM,28,10.46,Credit Card,Hillview,DEL063,2.1
+CUST1907,"Paneer Tikka, Salad",8:25 PM,65,19.41,UPI,Metro Square,DEL061,4.2
+CUST1908,"Fries, Tea",9:55 AM,111,12.35,Debit Card,Hillview,DEL044,5
+CUST1909,"Hotdog, Paneer Tikka",12:47 PM,37,22.49,UPI,Old Town,DEL078,2
+CUST1910,Wrap,9:49 AM,75,22.74,Debit Card,Tech Valley,DEL055,2.7
+CUST1911,Biryani,11:07 PM,47,2.64,Wallet,Sunset Street,DEL044,3.1
+CUST1912,"Samosa, Hotdog",7:27 PM,46,23.44,Wallet,City Center,DEL048,2.2
+CUST1913,"Milkshake, Chips",11:08 PM,77,20.73,Cash,City Center,DEL044,1.1
+CUST1914,"Paneer Tikka, Momos, Biryani",6:18 AM,95,19.89,Credit Card,Old Town,DEL041,1.9
+CUST1915,"Sandwich, Milkshake",9:11 PM,99,5.42,Debit Card,Old Town,DEL031,2.1
+CUST1916,"Rice Bowl, Smoothie",3:39 AM,58,20.23,UPI,Riverside,DEL047,2.8
+CUST1917,"Noodles, Coffee",4:45 AM,52,21.33,UPI,Lakeside,DEL052,1.7
+CUST1918,"Samosa, Smoothie, Paneer Tikka",1:51 PM,45,7.58,Wallet,Downtown,DEL049,4.5
+CUST1919,"Paneer Tikka, Coffee, Coke, Pasta",4:11 AM,67,23.83,Debit Card,Hillview,DEL079,3.8
+CUST1920,Milkshake,2:12 AM,22,1.72,Credit Card,Sunset Street,DEL008,1.3
+CUST1921,"Wrap, Rice Bowl, Biryani",5:01 AM,61,4.17,Cash,Riverside,DEL046,3.6
+CUST1922,Burger,9:44 AM,67,13.67,Cash,Riverside,DEL043,3.6
+CUST1923,"Paneer Tikka, Momos, Coke, Samosa",2:02 AM,41,14.61,Cash,Uptown,DEL013,4.8
+CUST1924,"Wrap, Paneer Tikka",9:10 AM,90,16.31,Wallet,Hillview,DEL001,1
+CUST1925,Pasta,7:16 PM,114,0.92,Credit Card,Green Park,DEL059,2
+CUST1926,"Sandwich, Pasta",5:13 PM,109,24.03,UPI,Hillview,DEL052,4.7
+CUST1927,"Sandwich, Fries",3:18 AM,69,1.59,Wallet,Tech Valley,DEL018,4.7
+CUST1928,"Samosa, Momos, Coke, Burger",11:31 PM,119,4.01,Credit Card,Airport Zone,DEL004,3.9
+CUST1929,Wrap,4:58 PM,92,0.84,Credit Card,Airport Zone,DEL078,4.1
+CUST1930,"Burger, Chips",6:49 PM,67,14.39,Debit Card,Airport Zone,DEL016,1.4
+CUST1931,"Burger, Tea, Momos, Pizza",10:55 PM,108,23.34,Credit Card,Uptown,DEL068,3.1
+CUST1932,"Samosa, Burger",3:05 AM,119,16.82,UPI,Green Park,DEL036,1.9
+CUST1933,"Tea, Milkshake, Smoothie",3:55 PM,113,20.66,Cash,Metro Square,DEL032,1.7
+CUST1934,"Pizza, Momos, Samosa",7:28 PM,65,0.83,Debit Card,Sunset Street,DEL048,4.2
+CUST1935,"Smoothie, Juice",4:52 AM,37,13.78,Credit Card,Hillview,DEL058,1.5
+CUST1936,"Pasta, Biryani",1:37 PM,10,11.76,UPI,Lakeside,DEL080,2.9
+CUST1937,"Coke, Milkshake, Sandwich, Wrap",7:38 PM,51,12.72,Credit Card,Riverside,DEL061,4.8
+CUST1938,Milkshake,7:17 PM,91,2.27,Wallet,City Center,DEL066,1.7
+CUST1939,"Hotdog, Sandwich, Rice Bowl, Pizza",6:44 PM,57,17.27,Wallet,Green Park,DEL053,4.9
+CUST1940,"Momos, Milkshake, Burger",4:06 PM,49,12.83,Cash,Uptown,DEL025,5
+CUST1941,"Samosa, Coffee, Coke",8:10 PM,106,19.25,Cash,Uptown,DEL001,3.2
+CUST1942,"Milkshake, Chips",4:44 PM,72,12.39,Wallet,Hillview,DEL042,1.7
+CUST1943,"Noodles, Fries, Paneer Tikka, Pizza",6:07 AM,85,4.16,UPI,Airport Zone,DEL003,2.3
+CUST1944,"Coffee, Pasta, Pizza",11:35 PM,81,16.38,Debit Card,Lakeside,DEL047,2.7
+CUST1945,"Coke, Biryani",12:03 AM,97,4.72,Wallet,Sunset Street,DEL006,2.2
+CUST1946,"Coke, Hotdog, Biryani, Pasta",7:56 AM,89,21.87,Cash,Old Town,DEL042,2.1
+CUST1947,"Samosa, Chips, Pasta, Biryani",1:27 PM,13,15.52,Credit Card,Old Town,DEL057,4.9
+CUST1948,"Pasta, Salad, Noodles, Samosa",1:01 PM,47,4.35,Debit Card,Sunset Street,DEL030,1.6
+CUST1949,Coke,11:44 PM,117,24.08,Cash,Lakeside,DEL078,3.9
+CUST1950,"Noodles, Coke, Burger",11:10 PM,36,13.2,Credit Card,Green Park,DEL063,1
+CUST1951,"Noodles, Coffee, Smoothie",10:00 PM,18,2.29,Debit Card,Riverside,DEL052,3.4
+CUST1952,Fries,1:00 AM,25,15.86,Debit Card,Uptown,DEL079,4.7
+CUST1953,Pasta,11:59 AM,65,6.7,Cash,City Center,DEL011,2.2
+CUST1954,"Coke, Pasta, Salad",6:47 AM,85,20.19,Credit Card,Airport Zone,DEL045,1.7
+CUST1955,"Wrap, Biryani",5:34 AM,40,20.54,UPI,Downtown,DEL055,3.6
+CUST1956,Samosa,10:12 AM,97,24.48,Debit Card,Hillview,DEL061,3.9
+CUST1957,Tea,5:25 PM,23,12.8,Wallet,Downtown,DEL013,3.8
+CUST1958,"Paneer Tikka, Tea, Chips, Biryani",6:55 AM,118,11.65,Wallet,Lakeside,DEL050,2.3
+CUST1959,"Hotdog, Burger",3:00 AM,34,18.96,Credit Card,Green Park,DEL038,2
+CUST1960,"Milkshake, Coke, Rice Bowl",10:40 AM,43,3.75,Credit Card,Hillview,DEL078,4.8
+CUST1961,"Wrap, Smoothie",1:20 AM,76,13.9,UPI,Riverside,DEL025,4.7
+CUST1962,"Burger, Smoothie, Biryani",5:17 AM,33,13.88,Debit Card,Sunset Street,DEL019,2.8
+CUST1963,"Pasta, Tea",7:56 AM,115,2.69,Cash,Sunset Street,DEL067,4.4
+CUST1964,Tea,4:57 PM,82,10.74,Debit Card,Metro Square,DEL074,2.8
+CUST1965,"Biryani, Pasta, Salad",7:35 AM,35,21.41,Debit Card,Tech Valley,DEL065,2.7
+CUST1966,"Biryani, Pasta, Milkshake",10:00 PM,29,21.48,Cash,Tech Valley,DEL005,1.6
+CUST1967,Fries,11:35 AM,73,2.93,Wallet,Uptown,DEL017,2.7
+CUST1968,Paneer Tikka,10:10 PM,113,2.72,Debit Card,Old Town,DEL064,3.1
+CUST1969,"Pasta, Milkshake",1:53 PM,19,6.94,Credit Card,Riverside,DEL012,1.1
+CUST1970,Momos,7:10 PM,92,21.93,Debit Card,Downtown,DEL039,2.8
+CUST1971,"Milkshake, Salad, Fries, Burger",9:49 PM,76,3.66,Credit Card,Airport Zone,DEL071,4.1
+CUST1972,"Samosa, Pasta, Momos, Paneer Tikka",6:49 PM,33,18.14,Debit Card,Old Town,DEL060,3.7
+CUST1973,"Burger, Sandwich, Coke",7:03 PM,14,2.98,Debit Card,Green Park,DEL022,3.5
+CUST1974,Paneer Tikka,1:28 AM,76,15.77,UPI,Old Town,DEL058,4.6
+CUST1975,"Burger, Coke, Paneer Tikka, Pizza",12:34 PM,67,9.22,Debit Card,Downtown,DEL015,1.1
+CUST1976,"Fries, Tea",10:27 PM,36,19.83,UPI,Downtown,DEL062,3.2
+CUST1977,"Rice Bowl, Burger",5:52 AM,89,6.23,Debit Card,Uptown,DEL070,4.1
+CUST1978,Coke,2:48 PM,24,16.16,Wallet,Airport Zone,DEL031,3.2
+CUST1979,"Sandwich, Biryani",1:59 PM,44,6.27,Cash,Airport Zone,DEL032,2.3
+CUST1980,"Salad, Hotdog, Chips",7:54 AM,85,17.98,Credit Card,Old Town,DEL028,1.5
+CUST1981,"Momos, Milkshake, Tea, Burger",7:11 AM,114,21.91,Credit Card,Sunset Street,DEL022,4.6
+CUST1982,Noodles,5:56 PM,62,3.61,Cash,Riverside,DEL012,2.9
+CUST1983,"Paneer Tikka, Coke",6:56 AM,53,21.73,Wallet,Uptown,DEL014,4.5
+CUST1984,Milkshake,4:39 PM,35,15.04,Credit Card,Hillview,DEL056,3.3
+CUST1985,"Juice, Pizza, Salad",12:43 PM,56,3.61,Wallet,Riverside,DEL004,3.7
+CUST1986,"Chips, Burger",6:13 AM,43,10.97,Wallet,Lakeside,DEL021,4.2
+CUST1987,Coke,3:26 PM,96,4.44,Wallet,Uptown,DEL042,3.6
+CUST1988,"Hotdog, Wrap",11:05 PM,104,17.66,Cash,Green Park,DEL050,2.6
+CUST1989,"Sandwich, Hotdog",4:21 PM,59,19.09,Cash,Uptown,DEL036,3.1
+CUST1990,"Momos, Wrap",8:07 PM,93,3.09,UPI,Uptown,DEL029,4.2
+CUST1991,"Coffee, Pizza",8:34 PM,21,12.9,Debit Card,Hillview,DEL033,2.5
+CUST1992,Pizza,12:11 PM,96,20.46,Debit Card,Riverside,DEL061,2.6
+CUST1993,"Rice Bowl, Samosa",12:29 PM,13,23.44,UPI,Tech Valley,DEL016,1.4
+CUST1994,Burger,3:15 AM,96,13.08,Wallet,Sunset Street,DEL018,4.7
+CUST1995,"Juice, Coffee",1:35 PM,57,23.78,Cash,Old Town,DEL069,1.4
+CUST1996,"Samosa, Fries, Hotdog, Biryani",9:49 AM,64,13.62,Cash,Tech Valley,DEL063,3.6
+CUST1997,"Chips, Hotdog, Juice, Sandwich",3:00 AM,10,10.16,Wallet,City Center,DEL012,2.7
+CUST1998,"Milkshake, Burger",2:12 AM,98,21.28,Credit Card,Metro Square,DEL043,2.6
+CUST1999,Hotdog,4:42 AM,75,12.58,Credit Card,Uptown,DEL029,3.7
+CUST2000,"Fries, Samosa",4:50 PM,39,12.06,Cash,Downtown,DEL074,1.3
+CUST2001,"Burger, Milkshake, Pasta, Hotdog",5:12 AM,12,12.51,Debit Card,Sunset Street,DEL077,3.4
+CUST2002,"Noodles, Salad, Wrap",7:45 AM,30,21.25,Wallet,Old Town,DEL009,4.1
+CUST2003,"Pizza, Hotdog, Salad",7:09 PM,98,20.88,Debit Card,Uptown,DEL044,4.3
+CUST2004,"Pizza, Milkshake",3:43 AM,93,10.39,Cash,Old Town,DEL049,1.7
+CUST2005,"Rice Bowl, Pizza",5:54 PM,58,8.67,Credit Card,Sunset Street,DEL049,4.6
+CUST2006,"Tea, Coke, Momos",4:46 PM,95,12.55,UPI,Uptown,DEL072,3.6
+CUST2007,Momos,7:22 AM,94,14.53,Credit Card,Downtown,DEL056,4.5
+CUST2008,"Coffee, Smoothie, Salad, Pizza",5:29 AM,71,6.34,Debit Card,Lakeside,DEL030,2.9
+CUST2009,Paneer Tikka,11:38 PM,106,19.95,Debit Card,Metro Square,DEL029,3.2
+CUST2010,Samosa,11:54 PM,47,12.42,Cash,Tech Valley,DEL034,4.7
+CUST2011,Pasta,2:33 AM,24,8.68,Credit Card,Metro Square,DEL015,4.6
+CUST2012,Salad,3:20 PM,119,3.12,Cash,Old Town,DEL038,2.8
+CUST2013,"Smoothie, Paneer Tikka, Samosa, Sandwich",10:48 PM,61,6.35,UPI,Green Park,DEL012,2.1
+CUST2014,"Salad, Pasta",11:44 PM,88,23.76,UPI,Tech Valley,DEL015,2.6
+CUST2015,"Pasta, Sandwich",12:25 AM,55,7.97,Debit Card,Hillview,DEL012,2.6
+CUST2016,Pasta,3:31 PM,34,4.64,Credit Card,City Center,DEL044,2.1
+CUST2017,Tea,12:06 PM,30,11.79,Debit Card,Green Park,DEL076,2.1
+CUST2018,Coke,8:02 PM,97,8.02,Wallet,Sunset Street,DEL025,4.4
+CUST2019,"Tea, Salad, Samosa",1:48 PM,14,1.36,Wallet,Downtown,DEL015,1.3
+CUST2020,"Sandwich, Milkshake",8:46 PM,79,8.42,UPI,Tech Valley,DEL074,3.7
+CUST2021,"Momos, Samosa, Pasta, Fries",11:52 AM,116,13.83,UPI,Metro Square,DEL048,1.7
+CUST2022,"Rice Bowl, Pizza",6:10 PM,117,14.02,Cash,Old Town,DEL017,2.4
+CUST2023,Milkshake,12:40 AM,56,9.24,Debit Card,Metro Square,DEL041,1.2
+CUST2024,Tea,5:33 PM,96,11.46,Debit Card,Downtown,DEL049,2.1
+CUST2025,"Hotdog, Coke, Tea, Chips",3:54 AM,77,24.16,Debit Card,City Center,DEL074,4.1
+CUST2026,Chips,8:52 PM,100,9.75,UPI,Tech Valley,DEL001,4.5
+CUST2027,Chips,8:15 AM,27,6.83,Cash,Lakeside,DEL040,1.9
+CUST2028,Fries,2:39 AM,30,6.46,Debit Card,Metro Square,DEL008,2.9
+CUST2029,"Hotdog, Paneer Tikka, Fries",4:29 AM,101,11.72,Debit Card,Riverside,DEL076,2.9
+CUST2030,Momos,7:28 PM,108,19.11,Cash,Riverside,DEL069,4.5
+CUST2031,"Burger, Pizza, Salad, Juice",1:07 PM,95,5.55,Wallet,Airport Zone,DEL025,4.1
+CUST2032,Wrap,2:58 PM,113,17.88,UPI,Uptown,DEL050,3.1
+CUST2033,Samosa,4:44 PM,32,1.02,UPI,Green Park,DEL055,3.7
+CUST2034,"Tea, Smoothie, Burger",3:22 AM,73,10.76,UPI,Hillview,DEL041,4.4
+CUST2035,"Coffee, Coke, Hotdog",6:26 PM,76,19.51,Debit Card,City Center,DEL047,1
+CUST2036,Salad,6:54 PM,49,8.8,Debit Card,Airport Zone,DEL017,2.6
+CUST2037,"Rice Bowl, Paneer Tikka",5:41 PM,19,14.31,Debit Card,Airport Zone,DEL067,4.6
+CUST2038,"Coffee, Biryani, Noodles, Fries",7:34 AM,98,5.52,Wallet,Riverside,DEL078,4
+CUST2039,"Hotdog, Coffee",10:19 PM,61,18.68,Credit Card,Downtown,DEL076,3.2
+CUST2040,Tea,11:42 AM,81,1.78,Cash,Tech Valley,DEL029,3.1
+CUST2041,"Biryani, Sandwich, Noodles, Milkshake",3:11 PM,84,21.39,Wallet,Downtown,DEL014,2.4
+CUST2042,"Chips, Sandwich, Rice Bowl, Wrap",11:43 PM,70,5.36,Cash,Downtown,DEL051,3.1
+CUST2043,"Pasta, Smoothie, Juice",12:45 AM,73,21.92,Wallet,City Center,DEL002,3.6
+CUST2044,"Fries, Juice, Noodles",11:09 PM,14,9.14,Debit Card,Riverside,DEL069,2.7
+CUST2045,"Noodles, Samosa, Smoothie",10:25 PM,118,18.21,Wallet,Downtown,DEL059,3.9
+CUST2046,"Paneer Tikka, Burger, Pasta, Milkshake",12:23 PM,62,8.32,Wallet,City Center,DEL041,4.4
+CUST2047,"Coke, Noodles",10:52 PM,64,22.69,Debit Card,Old Town,DEL019,1.6
+CUST2048,"Tea, Juice",12:34 PM,46,3.6,Credit Card,Tech Valley,DEL038,2.8
+CUST2049,Juice,12:48 PM,65,4.87,UPI,Green Park,DEL029,2.6
+CUST2050,"Hotdog, Paneer Tikka, Smoothie",5:39 AM,68,12.58,Wallet,Metro Square,DEL064,3.7
+CUST2051,Salad,11:36 AM,118,2.51,Credit Card,Airport Zone,DEL059,2
+CUST2052,Wrap,3:08 AM,111,5.3,Wallet,Green Park,DEL019,3.6
+CUST2053,"Sandwich, Milkshake, Momos, Pasta",10:28 AM,102,23.62,Cash,Airport Zone,DEL077,4.5
+CUST2054,"Rice Bowl, Wrap, Salad, Pizza",6:19 AM,78,24.42,Debit Card,Downtown,DEL037,2.7
+CUST2055,"Chips, Rice Bowl, Noodles",7:32 PM,82,9.72,Debit Card,Metro Square,DEL019,4.6
+CUST2056,"Samosa, Fries",6:36 PM,68,23.12,UPI,Green Park,DEL005,5
+CUST2057,Coke,5:21 AM,11,13.85,Wallet,City Center,DEL077,1.4
+CUST2058,Burger,10:14 AM,74,7.11,Debit Card,City Center,DEL041,1.9
+CUST2059,"Coke, Noodles, Burger, Salad",7:17 PM,113,17.71,UPI,Hillview,DEL040,4.8
+CUST2060,Coke,9:27 PM,69,16.64,Credit Card,Airport Zone,DEL065,4.8
+CUST2061,"Wrap, Hotdog, Salad",8:40 PM,60,24.73,UPI,Uptown,DEL016,1.4
+CUST2062,"Biryani, Pasta, Noodles, Momos",12:48 AM,39,6.99,Wallet,Uptown,DEL036,1.1
+CUST2063,"Momos, Noodles, Fries, Smoothie",2:47 PM,20,16.97,Wallet,Hillview,DEL074,1.6
+CUST2064,"Pasta, Samosa, Fries",9:56 AM,101,1.77,Wallet,City Center,DEL062,5
+CUST2065,"Smoothie, Rice Bowl",4:37 AM,117,3.28,Debit Card,Downtown,DEL028,1.7
+CUST2066,"Hotdog, Noodles, Paneer Tikka",7:01 PM,85,0.6,Debit Card,Tech Valley,DEL064,3
+CUST2067,"Milkshake, Coffee, Hotdog",2:17 PM,48,24.99,Cash,Tech Valley,DEL038,4.4
+CUST2068,Pasta,8:30 PM,99,20.16,Credit Card,Sunset Street,DEL049,1.1
+CUST2069,"Samosa, Juice, Noodles, Milkshake",4:48 AM,86,19.77,Credit Card,Downtown,DEL008,3.4
+CUST2070,"Burger, Coffee",7:26 PM,81,12.99,Cash,Uptown,DEL043,2.1
+CUST2071,"Fries, Pizza, Sandwich",1:37 PM,72,7.85,Credit Card,Green Park,DEL020,4.4
+CUST2072,"Coffee, Smoothie, Hotdog, Juice",9:04 AM,73,4.21,Wallet,Uptown,DEL027,2.1
+CUST2073,"Coffee, Sandwich, Hotdog",2:36 PM,70,7.47,UPI,Hillview,DEL029,3.7
+CUST2074,"Pasta, Juice, Tea, Salad",7:25 PM,63,9.71,UPI,Green Park,DEL007,3.7
+CUST2075,"Coffee, Momos",3:01 PM,101,19.03,Cash,Airport Zone,DEL023,1.9
+CUST2076,Fries,5:00 PM,103,13.72,Debit Card,Lakeside,DEL063,1.1
+CUST2077,"Smoothie, Coffee, Milkshake, Coke",5:50 PM,82,2.4,Cash,Lakeside,DEL051,2.6
+CUST2078,"Noodles, Paneer Tikka, Wrap",7:29 PM,112,0.94,Credit Card,City Center,DEL039,2.2
+CUST2079,Pasta,9:43 AM,104,3.01,Wallet,Downtown,DEL021,4.2
+CUST2080,Juice,9:31 PM,67,10.56,Debit Card,Uptown,DEL003,4.2
+CUST2081,"Salad, Noodles",8:35 AM,94,23.36,Cash,Tech Valley,DEL071,2.8
+CUST2082,"Coke, Tea",11:43 AM,65,16.12,Wallet,Tech Valley,DEL051,3.4
+CUST2083,"Pizza, Rice Bowl",7:54 PM,43,20.14,Debit Card,Riverside,DEL044,3.4
+CUST2084,Tea,6:18 PM,40,11.93,Debit Card,Riverside,DEL055,4.3
+CUST2085,Coffee,12:17 PM,61,9.36,Cash,Airport Zone,DEL061,2.7
+CUST2086,Coffee,2:32 AM,98,3.16,Debit Card,Old Town,DEL045,2.1
+CUST2087,"Momos, Wrap",6:51 AM,85,21.96,Debit Card,City Center,DEL051,2.1
+CUST2088,"Juice, Momos",7:51 PM,10,19.69,UPI,City Center,DEL051,3.1
+CUST2089,"Paneer Tikka, Tea, Burger",4:54 PM,64,4.62,UPI,City Center,DEL010,2.8
+CUST2090,"Pasta, Samosa, Burger, Fries",9:07 AM,31,13.05,Cash,City Center,DEL068,2.8
+CUST2091,Rice Bowl,1:29 PM,49,12.44,Cash,Hillview,DEL037,1.4
+CUST2092,"Noodles, Pizza, Burger, Salad",7:18 AM,110,15.81,Debit Card,Downtown,DEL037,3.9
+CUST2093,Rice Bowl,2:33 PM,10,23.68,UPI,Downtown,DEL025,1.9
+CUST2094,"Pasta, Paneer Tikka",8:21 PM,74,14.7,Wallet,Green Park,DEL071,1.8
+CUST2095,Wrap,6:25 AM,72,13.74,Cash,Riverside,DEL051,2.7
+CUST2096,"Biryani, Momos",11:37 PM,115,1.73,Debit Card,Lakeside,DEL013,1.9
+CUST2097,"Smoothie, Tea",5:51 PM,63,2.04,UPI,City Center,DEL017,3.3
+CUST2098,"Sandwich, Milkshake",5:06 PM,51,5.09,Wallet,City Center,DEL042,2.5
+CUST2099,Fries,12:18 PM,30,1.3,Wallet,Metro Square,DEL075,2.8
+CUST2100,Rice Bowl,6:34 PM,88,18.71,UPI,City Center,DEL007,3.1
+CUST2101,"Tea, Smoothie, Burger, Pizza",12:16 AM,90,18.22,Wallet,Downtown,DEL039,1.8
+CUST2102,"Salad, Noodles, Chips, Paneer Tikka",9:20 AM,31,3.83,Wallet,Green Park,DEL059,1.6
+CUST2103,"Momos, Chips",12:50 AM,47,20.98,Cash,Tech Valley,DEL021,4.5
+CUST2104,Paneer Tikka,7:10 PM,108,4.29,Wallet,City Center,DEL074,2.7
+CUST2105,Tea,9:40 PM,118,7.88,Wallet,Metro Square,DEL018,2.6
+CUST2106,"Burger, Salad, Samosa, Noodles",4:51 PM,89,6.6,UPI,Downtown,DEL057,1.1
+CUST2107,Pasta,12:56 PM,17,9.62,Debit Card,Uptown,DEL062,3
+CUST2108,"Tea, Biryani, Rice Bowl, Coke",12:20 AM,71,6.74,Cash,Metro Square,DEL038,3.2
+CUST2109,"Rice Bowl, Burger, Milkshake",5:07 AM,56,12.48,Wallet,Airport Zone,DEL019,3.2
+CUST2110,Rice Bowl,1:10 AM,26,10.48,UPI,Lakeside,DEL027,3.8
+CUST2111,"Smoothie, Juice",12:08 PM,26,24.67,Debit Card,Downtown,DEL028,1.7
+CUST2112,"Samosa, Sandwich, Fries",2:02 PM,99,1.87,Credit Card,Uptown,DEL026,2
+CUST2113,"Rice Bowl, Fries, Burger",12:25 PM,22,3.98,UPI,Uptown,DEL002,4.2
+CUST2114,"Burger, Salad, Coffee",9:35 AM,26,1.79,UPI,Riverside,DEL047,4.8
+CUST2115,"Pasta, Smoothie",7:57 PM,47,15.83,Debit Card,Hillview,DEL074,1.5
+CUST2116,"Tea, Chips, Paneer Tikka, Samosa",1:01 AM,90,1.84,Cash,Old Town,DEL014,3
+CUST2117,"Momos, Hotdog, Rice Bowl, Wrap",5:11 PM,87,20.99,Debit Card,Hillview,DEL019,1.9
+CUST2118,"Fries, Pasta",8:34 AM,54,13.04,Cash,Riverside,DEL049,1.2
+CUST2119,"Coke, Tea, Rice Bowl, Milkshake",8:22 AM,15,13.41,Wallet,Riverside,DEL055,2.3
+CUST2120,Fries,4:06 PM,44,14.26,Debit Card,Lakeside,DEL022,1.6
+CUST2121,"Sandwich, Coffee, Samosa",7:00 AM,119,4.68,Credit Card,Uptown,DEL008,3.8
+CUST2122,"Sandwich, Juice, Chips, Tea",5:56 PM,23,5.34,Wallet,Riverside,DEL013,3.1
+CUST2123,"Biryani, Smoothie",5:36 PM,81,8.31,Credit Card,Riverside,DEL046,1.6
+CUST2124,"Milkshake, Sandwich, Noodles, Burger",5:12 PM,70,15.04,UPI,Metro Square,DEL061,1
+CUST2125,Samosa,9:51 PM,24,5.65,Debit Card,City Center,DEL023,4.2
+CUST2126,"Chips, Sandwich, Momos, Rice Bowl",1:21 AM,63,3.35,Wallet,Green Park,DEL007,1.7
+CUST2127,"Juice, Smoothie",3:19 PM,36,24.27,Credit Card,City Center,DEL016,3.4
+CUST2128,"Rice Bowl, Fries, Chips, Smoothie",9:52 PM,22,1.04,UPI,Old Town,DEL066,2.3
+CUST2129,"Pizza, Fries",5:35 PM,40,20.17,Cash,Tech Valley,DEL044,3.3
+CUST2130,"Momos, Burger, Hotdog",7:39 AM,44,19.81,UPI,Uptown,DEL076,2.3
+CUST2131,"Coke, Tea",7:47 PM,69,7.78,Wallet,Riverside,DEL056,1.3
+CUST2132,"Sandwich, Milkshake, Noodles",3:16 PM,15,3.82,Wallet,City Center,DEL020,1.9
+CUST2133,"Milkshake, Paneer Tikka",11:06 PM,78,4.07,UPI,Riverside,DEL052,1.8
+CUST2134,Biryani,5:22 PM,95,17.59,Cash,Airport Zone,DEL032,2.7
+CUST2135,"Milkshake, Salad, Samosa, Momos",1:55 PM,67,16.25,UPI,Lakeside,DEL005,3.6
+CUST2136,"Coffee, Sandwich, Burger",7:00 AM,58,19.68,Credit Card,Hillview,DEL016,2.1
+CUST2137,"Coffee, Salad",4:59 AM,32,23.47,Credit Card,Green Park,DEL031,1
+CUST2138,Noodles,2:50 PM,98,17.45,Wallet,Tech Valley,DEL051,3.1
+CUST2139,"Momos, Tea, Coffee, Pasta",11:58 AM,43,4.32,Cash,Metro Square,DEL063,3.4
+CUST2140,"Salad, Noodles, Samosa, Milkshake",12:03 AM,35,6.46,Cash,Hillview,DEL039,4.9
+CUST2141,Momos,12:13 AM,56,21.13,Credit Card,Green Park,DEL077,3.4
+CUST2142,"Wrap, Juice",1:43 AM,14,5.63,Credit Card,City Center,DEL023,2.9
+CUST2143,Sandwich,11:46 AM,99,2.28,Wallet,Riverside,DEL049,3.3
+CUST2144,Juice,12:48 PM,29,17.73,Wallet,Hillview,DEL012,4.7
+CUST2145,"Chips, Rice Bowl, Sandwich, Noodles",9:25 PM,15,10.36,Debit Card,City Center,DEL060,4.3
+CUST2146,"Paneer Tikka, Wrap, Fries",3:37 AM,79,23.04,Debit Card,Old Town,DEL049,2.3
+CUST2147,"Coffee, Paneer Tikka, Hotdog",7:22 PM,68,16.43,Cash,Tech Valley,DEL036,1.9
+CUST2148,Pizza,8:13 PM,73,2.72,Debit Card,Hillview,DEL057,2.1
+CUST2149,"Paneer Tikka, Hotdog, Smoothie",12:58 AM,27,23.72,Wallet,Hillview,DEL048,3
+CUST2150,"Rice Bowl, Paneer Tikka, Smoothie, Coffee",11:24 AM,13,6.83,UPI,Lakeside,DEL002,4
+CUST2151,"Fries, Noodles, Coffee, Samosa",9:06 AM,26,8.76,Cash,Sunset Street,DEL016,3
+CUST2152,"Paneer Tikka, Smoothie, Wrap",5:16 PM,23,10.36,Wallet,Tech Valley,DEL015,1.3
+CUST2153,"Samosa, Tea",6:12 PM,87,1.75,Credit Card,Downtown,DEL011,3.9
+CUST2154,Coffee,2:34 PM,22,12.66,Wallet,City Center,DEL016,4.2
+CUST2155,Noodles,9:54 PM,16,3.52,Debit Card,Hillview,DEL063,2.2
+CUST2156,"Paneer Tikka, Rice Bowl, Momos",9:27 AM,53,10.32,UPI,Lakeside,DEL066,3.7
+CUST2157,"Momos, Burger",2:36 PM,24,9.09,Cash,Old Town,DEL029,2.7
+CUST2158,"Pasta, Coffee",1:32 AM,28,19.43,Credit Card,Tech Valley,DEL003,4.6
+CUST2159,"Milkshake, Smoothie",3:58 PM,72,20.18,Credit Card,Tech Valley,DEL076,4.4
+CUST2160,Milkshake,11:58 PM,116,4.26,Wallet,Riverside,DEL074,3.1
+CUST2161,Salad,12:41 AM,117,9.48,Wallet,Hillview,DEL074,3.8
+CUST2162,"Samosa, Smoothie, Burger, Pizza",3:33 AM,44,9.65,UPI,City Center,DEL062,4.5
+CUST2163,"Chips, Pizza, Hotdog, Momos",3:10 PM,90,4.21,Credit Card,Airport Zone,DEL036,3
+CUST2164,"Salad, Pasta, Noodles",1:56 PM,44,20.06,UPI,Downtown,DEL013,2.3
+CUST2165,"Tea, Rice Bowl",8:51 PM,28,17.83,Wallet,Airport Zone,DEL076,4
+CUST2166,"Wrap, Pasta, Noodles",1:01 AM,29,5.16,Wallet,Lakeside,DEL024,1.9
+CUST2167,"Salad, Chips",3:40 AM,109,9.48,Credit Card,Green Park,DEL050,2.6
+CUST2168,"Chips, Juice, Milkshake",6:27 AM,44,3.09,UPI,Riverside,DEL062,4.5
+CUST2169,Samosa,11:56 AM,41,15.89,Cash,Tech Valley,DEL056,3.9
+CUST2170,"Tea, Chips, Salad, Samosa",10:07 PM,57,3.47,UPI,Sunset Street,DEL039,2.6
+CUST2171,"Paneer Tikka, Juice, Salad, Samosa",1:14 AM,53,24.66,Cash,Metro Square,DEL074,1.9
+CUST2172,"Coke, Fries, Salad, Smoothie",8:58 AM,113,19.63,Debit Card,Metro Square,DEL017,2.4
+CUST2173,"Juice, Milkshake, Fries, Momos",9:19 AM,33,10.06,Wallet,Sunset Street,DEL013,2.1
+CUST2174,Salad,8:08 AM,70,14.67,Cash,Metro Square,DEL042,1.7
+CUST2175,"Milkshake, Burger, Samosa, Momos",7:38 PM,26,22.83,Debit Card,Riverside,DEL009,4
+CUST2176,"Paneer Tikka, Tea, Burger",1:25 AM,80,14.08,Debit Card,Hillview,DEL069,2
+CUST2177,"Momos, Coke, Smoothie",3:17 PM,116,4.78,Wallet,Metro Square,DEL024,2.8
+CUST2178,"Pasta, Paneer Tikka",9:21 PM,59,9.78,Cash,Lakeside,DEL052,2.5
+CUST2179,"Noodles, Coke, Sandwich",1:35 PM,74,21.16,Debit Card,Old Town,DEL003,4.9
+CUST2180,Hotdog,12:52 PM,108,16.28,Debit Card,Metro Square,DEL051,2.6
+CUST2181,"Pasta, Chips, Rice Bowl, Noodles",11:10 AM,41,16.44,Credit Card,Metro Square,DEL072,1.3
+CUST2182,"Rice Bowl, Smoothie, Wrap, Fries",9:02 AM,45,21.74,UPI,Green Park,DEL069,1.4
+CUST2183,Burger,12:09 PM,22,22.4,Cash,City Center,DEL068,3.4
+CUST2184,"Noodles, Momos, Fries, Paneer Tikka",4:07 AM,79,23.03,Credit Card,Lakeside,DEL063,3.4
+CUST2185,"Rice Bowl, Tea",10:58 AM,67,2.82,Wallet,Sunset Street,DEL009,2.7
+CUST2186,Sandwich,11:39 AM,23,13.83,Wallet,Riverside,DEL067,2.7
+CUST2187,Smoothie,7:27 PM,46,18.64,Cash,Green Park,DEL075,1.2
+CUST2188,Rice Bowl,3:08 PM,88,19.04,Cash,Tech Valley,DEL069,3.1
+CUST2189,"Fries, Coffee, Wrap",10:59 AM,77,15.36,Debit Card,Uptown,DEL016,3
+CUST2190,"Sandwich, Pizza, Milkshake",1:49 PM,49,4.59,Credit Card,Green Park,DEL027,1.6
+CUST2191,"Wrap, Noodles",5:11 AM,68,20.04,Wallet,Airport Zone,DEL016,1.4
+CUST2192,"Paneer Tikka, Pizza",5:07 AM,89,18.14,UPI,City Center,DEL024,1.5
+CUST2193,"Wrap, Samosa, Sandwich, Juice",7:00 PM,101,2.61,Wallet,Tech Valley,DEL077,1.4
+CUST2194,"Wrap, Coke",10:15 AM,25,11.86,Cash,Tech Valley,DEL024,3.4
+CUST2195,"Chips, Biryani, Pizza",6:59 AM,71,4.76,Credit Card,Green Park,DEL001,1.8
+CUST2196,"Rice Bowl, Coffee, Smoothie, Hotdog",8:41 PM,13,8.77,Cash,Green Park,DEL072,2
+CUST2197,Pizza,9:18 PM,54,0.94,UPI,Lakeside,DEL058,1.7
+CUST2198,"Smoothie, Milkshake",2:50 PM,99,10.31,Debit Card,Uptown,DEL041,4.8
+CUST2199,"Rice Bowl, Samosa",12:16 AM,37,13.97,Cash,Hillview,DEL016,4.4
+CUST2200,"Chips, Salad, Fries",3:19 PM,105,15.68,Cash,Sunset Street,DEL006,1.9
+CUST2201,"Wrap, Biryani, Smoothie, Sandwich",3:57 PM,118,16.76,Debit Card,Tech Valley,DEL017,2.3
+CUST2202,"Paneer Tikka, Rice Bowl",12:19 PM,75,20.99,Cash,City Center,DEL074,1.8
+CUST2203,Coke,5:18 PM,40,5.78,Wallet,Green Park,DEL027,3
+CUST2204,Smoothie,9:50 PM,12,3.45,UPI,Riverside,DEL021,1.1
+CUST2205,"Fries, Momos, Rice Bowl",10:23 AM,17,21.36,Debit Card,Metro Square,DEL012,3.7
+CUST2206,"Pizza, Pasta",7:14 PM,33,4.34,Credit Card,Old Town,DEL072,3.1
+CUST2207,Samosa,7:27 PM,24,24.38,Cash,Downtown,DEL033,4.6
+CUST2208,"Juice, Hotdog, Momos",10:10 AM,52,21.14,Debit Card,Lakeside,DEL005,1.7
+CUST2209,"Smoothie, Burger, Pizza",3:54 AM,40,12.77,Cash,Tech Valley,DEL011,4.2
+CUST2210,Pizza,7:34 AM,82,24.54,UPI,Tech Valley,DEL016,4.2
+CUST2211,Momos,7:20 AM,112,2.89,Cash,Hillview,DEL065,1.5
+CUST2212,"Burger, Fries",12:31 AM,54,7.93,Wallet,Uptown,DEL039,2.6
+CUST2213,"Chips, Smoothie",2:08 AM,75,16.14,Wallet,Hillview,DEL047,1.7
+CUST2214,Pasta,9:21 AM,17,9.08,Cash,Sunset Street,DEL070,2
+CUST2215,"Pasta, Noodles, Tea, Samosa",11:22 PM,80,23.25,Wallet,Green Park,DEL022,2.1
+CUST2216,"Biryani, Salad, Paneer Tikka, Juice",6:06 AM,117,2.11,Cash,Riverside,DEL055,3.2
+CUST2217,"Burger, Momos, Rice Bowl, Pizza",5:44 AM,112,13.96,Debit Card,Riverside,DEL001,2.6
+CUST2218,Salad,7:03 PM,115,14.98,UPI,Tech Valley,DEL032,4.8
+CUST2219,"Coffee, Coke, Paneer Tikka",12:47 AM,66,16.49,Debit Card,Lakeside,DEL039,1.5
+CUST2220,Hotdog,7:25 AM,89,6.76,UPI,Airport Zone,DEL006,4.9
+CUST2221,"Sandwich, Samosa, Smoothie",4:42 AM,108,9.43,Wallet,Green Park,DEL067,1.9
+CUST2222,"Noodles, Sandwich, Burger",5:05 AM,39,21.17,UPI,City Center,DEL038,4.1
+CUST2223,"Coke, Coffee, Sandwich, Pasta",2:59 AM,83,5.28,Wallet,Hillview,DEL069,2.4
+CUST2224,"Momos, Coke, Burger, Smoothie",10:49 PM,111,20.76,Debit Card,Sunset Street,DEL057,1.6
+CUST2225,"Salad, Burger, Samosa, Pizza",3:15 PM,27,14.29,Wallet,Hillview,DEL018,4.4
+CUST2226,"Noodles, Hotdog, Rice Bowl, Fries",8:09 PM,78,19.17,UPI,Tech Valley,DEL074,2.2
+CUST2227,Hotdog,8:29 PM,102,17.98,Credit Card,Tech Valley,DEL063,3.6
+CUST2228,Biryani,3:10 PM,48,5.58,Credit Card,Airport Zone,DEL041,3.3
+CUST2229,"Burger, Momos",1:49 PM,69,14.44,Wallet,Green Park,DEL067,2.9
+CUST2230,"Noodles, Milkshake, Hotdog",8:34 AM,107,21.76,Credit Card,Metro Square,DEL046,3
+CUST2231,"Biryani, Rice Bowl, Pizza",8:34 PM,52,11.09,Cash,Riverside,DEL078,3.9
+CUST2232,"Milkshake, Pasta",11:15 PM,54,24.18,Cash,Green Park,DEL069,1.4
+CUST2233,"Burger, Noodles",7:22 PM,32,11.58,Debit Card,Riverside,DEL066,3.7
+CUST2234,"Salad, Tea",5:20 PM,78,4,UPI,Old Town,DEL027,4.6
+CUST2235,"Chips, Tea, Pasta, Pizza",10:43 PM,103,10.04,Wallet,Lakeside,DEL013,1.2
+CUST2236,Biryani,10:35 AM,15,23.82,Wallet,Airport Zone,DEL006,1.6
+CUST2237,"Smoothie, Burger, Pizza, Biryani",10:10 AM,65,8.33,Wallet,Airport Zone,DEL031,3.9
+CUST2238,Smoothie,5:37 AM,119,21.77,Credit Card,Airport Zone,DEL005,2.7
+CUST2239,"Pasta, Smoothie, Noodles, Samosa",9:19 PM,117,22.09,Wallet,Tech Valley,DEL025,2.6
+CUST2240,Juice,5:43 AM,13,9.08,UPI,City Center,DEL019,1.5
+CUST2241,Smoothie,11:08 AM,102,2.54,Debit Card,Metro Square,DEL039,3
+CUST2242,"Fries, Hotdog",10:54 PM,32,18.25,Credit Card,Lakeside,DEL028,1.5
+CUST2243,"Pasta, Juice",10:06 AM,15,8.13,Cash,Old Town,DEL018,2.9
+CUST2244,"Hotdog, Fries, Smoothie",12:07 PM,41,19.68,Cash,Green Park,DEL078,4.1
+CUST2245,"Chips, Tea, Salad",4:20 PM,115,11.35,Debit Card,Airport Zone,DEL071,2
+CUST2246,"Burger, Coke, Smoothie, Samosa",3:23 PM,27,12.39,Wallet,Riverside,DEL028,2.9
+CUST2247,Noodles,7:05 PM,24,19.56,Cash,City Center,DEL076,5
+CUST2248,"Fries, Paneer Tikka",2:04 PM,49,9.87,Debit Card,Hillview,DEL046,3.7
+CUST2249,"Tea, Paneer Tikka",1:21 AM,105,11.36,Wallet,Riverside,DEL036,4.4
+CUST2250,"Pizza, Rice Bowl, Sandwich, Salad",1:33 AM,82,9.72,Cash,Airport Zone,DEL017,2.7
+CUST2251,"Pasta, Milkshake, Salad",8:03 PM,110,9.5,Wallet,Tech Valley,DEL080,4.1
+CUST2252,"Salad, Chips, Hotdog",11:19 AM,83,13.39,Debit Card,Sunset Street,DEL055,1.2
+CUST2253,"Sandwich, Tea",7:05 PM,93,20.32,Cash,Lakeside,DEL010,1.5
+CUST2254,Rice Bowl,8:28 AM,15,9.36,UPI,City Center,DEL071,1.8
+CUST2255,"Salad, Milkshake",2:19 PM,72,13.34,Debit Card,Hillview,DEL033,2.6
+CUST2256,"Noodles, Coffee, Samosa",8:30 AM,76,16.93,Debit Card,Uptown,DEL034,4.4
+CUST2257,"Rice Bowl, Tea, Noodles",7:48 AM,115,7.1,Debit Card,Green Park,DEL049,2.4
+CUST2258,Wrap,11:40 AM,20,7.3,UPI,Sunset Street,DEL021,3.6
+CUST2259,Coffee,6:22 AM,52,23.37,Cash,Uptown,DEL052,3.8
+CUST2260,"Pizza, Salad, Noodles",4:19 AM,26,18.23,Wallet,City Center,DEL059,3.3
+CUST2261,"Sandwich, Pizza, Fries, Juice",2:55 PM,105,14.64,Cash,Metro Square,DEL011,2.4
+CUST2262,"Pasta, Salad",4:46 PM,13,16.37,Wallet,Sunset Street,DEL033,3.3
+CUST2263,"Pizza, Smoothie, Biryani, Momos",11:54 PM,72,1.22,UPI,Metro Square,DEL055,2.4
+CUST2264,"Chips, Rice Bowl",11:18 PM,77,15.64,Cash,Airport Zone,DEL019,1.3
+CUST2265,"Coke, Smoothie, Fries, Paneer Tikka",3:53 AM,90,12.98,UPI,Tech Valley,DEL069,5
+CUST2266,"Biryani, Rice Bowl, Salad, Wrap",2:07 PM,50,13.87,Wallet,Riverside,DEL027,1.5
+CUST2267,"Salad, Samosa, Paneer Tikka, Milkshake",11:37 AM,92,9.31,Cash,Airport Zone,DEL010,1.3
+CUST2268,"Samosa, Wrap, Tea, Noodles",9:44 AM,14,2.5,Debit Card,Metro Square,DEL035,4.5
+CUST2269,"Biryani, Sandwich",6:29 PM,41,5.24,Cash,Old Town,DEL025,2.2
+CUST2270,"Noodles, Chips, Smoothie",6:16 AM,95,23.79,UPI,Riverside,DEL048,3.6
+CUST2271,"Wrap, Pasta",9:54 AM,79,10.51,Debit Card,Green Park,DEL073,2.3
+CUST2272,"Sandwich, Coke, Chips",7:13 PM,44,11.93,UPI,Hillview,DEL066,2.6
+CUST2273,"Smoothie, Wrap, Tea",1:21 AM,31,1.79,Credit Card,Riverside,DEL078,2
+CUST2274,"Paneer Tikka, Sandwich, Chips, Burger",7:31 AM,74,1.42,Credit Card,Metro Square,DEL021,2.4
+CUST2275,"Coke, Salad",4:34 PM,93,18.07,Credit Card,Hillview,DEL054,2.6
+CUST2276,"Tea, Juice",12:14 AM,31,13.68,UPI,Tech Valley,DEL020,3.9
+CUST2277,"Coke, Hotdog, Noodles",6:07 AM,20,12.96,Credit Card,Old Town,DEL041,3
+CUST2278,"Pizza, Paneer Tikka, Smoothie, Momos",4:13 PM,86,6.46,Wallet,Green Park,DEL056,4.8
+CUST2279,"Juice, Rice Bowl",1:05 PM,115,18.75,Debit Card,Old Town,DEL049,1.2
+CUST2280,"Hotdog, Pasta, Samosa",2:44 AM,12,4.62,UPI,Airport Zone,DEL004,3
+CUST2281,"Smoothie, Pasta, Momos",6:15 AM,18,5.15,Credit Card,Tech Valley,DEL078,3.3
+CUST2282,Tea,8:33 PM,69,11.79,Credit Card,Riverside,DEL032,4.7
+CUST2283,"Hotdog, Coke, Fries, Tea",7:11 PM,85,7.51,Wallet,Metro Square,DEL010,1.2
+CUST2284,"Salad, Tea",1:59 PM,96,6.56,Debit Card,Lakeside,DEL035,3.3
+CUST2285,"Hotdog, Tea, Smoothie, Wrap",1:32 AM,23,16.31,Cash,Downtown,DEL016,4.4
+CUST2286,"Smoothie, Paneer Tikka",3:32 PM,106,16.45,Cash,Tech Valley,DEL069,2
+CUST2287,"Pasta, Tea",5:56 PM,27,20.7,UPI,Uptown,DEL015,4.5
+CUST2288,"Burger, Pasta, Noodles",5:51 AM,114,10.73,Cash,Tech Valley,DEL071,1.1
+CUST2289,Salad,5:04 PM,82,2.29,Credit Card,Airport Zone,DEL053,3.9
+CUST2290,"Juice, Wrap, Chips, Biryani",11:50 AM,32,7.2,UPI,Old Town,DEL009,4.7
+CUST2291,"Smoothie, Salad, Tea",5:30 AM,83,24.51,Credit Card,City Center,DEL043,3.6
+CUST2292,Rice Bowl,5:30 PM,92,15.11,UPI,Hillview,DEL012,2.8
+CUST2293,"Biryani, Coffee, Coke",6:00 AM,56,17.89,Credit Card,Lakeside,DEL047,1.2
+CUST2294,"Chips, Momos",9:52 AM,78,0.68,UPI,Sunset Street,DEL043,4.7
+CUST2295,"Wrap, Rice Bowl, Burger",5:27 PM,56,13.2,Debit Card,Lakeside,DEL035,2.9
+CUST2296,Burger,5:20 AM,96,1.42,Wallet,Metro Square,DEL019,1.1
+CUST2297,"Rice Bowl, Biryani, Hotdog, Sandwich",9:04 PM,39,14.45,Cash,Riverside,DEL029,3.8
+CUST2298,"Noodles, Tea",10:11 AM,34,23.06,Wallet,Lakeside,DEL036,2.9
+CUST2299,"Coke, Sandwich",3:28 AM,37,24.23,Cash,Lakeside,DEL002,1.5
+CUST2300,Juice,10:19 PM,107,13.74,UPI,Old Town,DEL013,1.9
+CUST2301,"Smoothie, Coffee",1:20 PM,118,11.73,UPI,Metro Square,DEL049,1.3
+CUST2302,Tea,9:13 PM,34,23.65,Debit Card,Uptown,DEL029,3.3
+CUST2303,"Pizza, Burger, Tea",10:46 AM,83,17,Credit Card,Tech Valley,DEL049,3.5
+CUST2304,"Momos, Burger, Wrap",7:30 AM,87,2.09,UPI,Uptown,DEL014,3
+CUST2305,"Juice, Rice Bowl",4:03 PM,115,11.91,Cash,Green Park,DEL016,4.3
+CUST2306,"Milkshake, Biryani",3:32 AM,119,6.39,UPI,Riverside,DEL023,4.4
+CUST2307,Pasta,6:55 PM,67,12.01,Wallet,Metro Square,DEL068,3.5
+CUST2308,"Pizza, Tea, Sandwich, Chips",3:22 AM,103,11.66,Credit Card,Old Town,DEL040,1.1
+CUST2309,"Samosa, Burger, Coffee",1:43 PM,50,14.76,Wallet,Uptown,DEL076,3.8
+CUST2310,Sandwich,3:12 PM,34,9.24,Debit Card,Uptown,DEL063,2.7
+CUST2311,"Hotdog, Pizza, Smoothie",9:17 AM,87,4.52,Debit Card,Tech Valley,DEL013,3.3
+CUST2312,Paneer Tikka,12:31 PM,108,12.84,Cash,Old Town,DEL068,3.6
+CUST2313,"Salad, Sandwich, Samosa, Biryani",2:47 AM,57,20.84,UPI,Metro Square,DEL045,2.4
+CUST2314,Coke,3:28 PM,107,16.77,Wallet,Riverside,DEL074,4.7
+CUST2315,"Samosa, Pasta, Noodles",11:24 PM,19,8.79,Debit Card,Airport Zone,DEL037,1.5
+CUST2316,"Smoothie, Hotdog, Samosa",5:37 AM,108,23.42,Debit Card,Sunset Street,DEL071,3.7
+CUST2317,"Salad, Milkshake, Rice Bowl",12:37 PM,84,22.85,Cash,Uptown,DEL035,1
+CUST2318,Tea,2:19 AM,20,5.63,UPI,Downtown,DEL078,4.7
+CUST2319,"Pizza, Salad, Wrap, Coke",7:13 AM,94,1.47,Credit Card,Riverside,DEL013,1.5
+CUST2320,"Hotdog, Samosa, Biryani",12:08 PM,30,18.66,UPI,Downtown,DEL007,1.4
+CUST2321,"Noodles, Tea, Coke",6:38 PM,95,20.78,Debit Card,Sunset Street,DEL022,2.3
+CUST2322,"Paneer Tikka, Milkshake, Juice",6:16 PM,54,24.21,Credit Card,Riverside,DEL041,2.5
+CUST2323,"Rice Bowl, Coffee, Hotdog",12:40 PM,16,22.3,UPI,Sunset Street,DEL050,1.9
+CUST2324,"Coffee, Rice Bowl",1:16 PM,90,15.21,Credit Card,City Center,DEL024,3.3
+CUST2325,Fries,10:03 AM,73,13.49,Cash,Tech Valley,DEL045,2.8
+CUST2326,"Tea, Chips, Samosa, Rice Bowl",7:37 PM,73,1.18,Credit Card,Downtown,DEL069,1.1
+CUST2327,Sandwich,6:37 PM,11,6.54,Credit Card,Sunset Street,DEL071,2.3
+CUST2328,"Coffee, Juice",12:44 AM,85,11.76,UPI,Airport Zone,DEL077,4.2
+CUST2329,"Paneer Tikka, Pasta",1:07 AM,51,15.9,Debit Card,City Center,DEL052,3.8
+CUST2330,Pasta,1:34 AM,91,14.15,Credit Card,Downtown,DEL062,3.9
+CUST2331,"Wrap, Burger",7:35 PM,63,18.69,Wallet,Uptown,DEL076,3.8
+CUST2332,"Tea, Fries, Momos",10:30 AM,84,7.35,Cash,Hillview,DEL017,2.2
+CUST2333,Tea,7:36 AM,25,14.34,Wallet,Old Town,DEL034,1.4
+CUST2334,"Biryani, Sandwich, Noodles",12:34 AM,27,2.66,Debit Card,Lakeside,DEL002,2.1
+CUST2335,"Wrap, Milkshake",7:53 AM,108,10.63,Credit Card,Tech Valley,DEL066,4.3
+CUST2336,"Burger, Coffee",9:45 PM,68,18.88,Credit Card,Sunset Street,DEL020,4.9
+CUST2337,"Coffee, Noodles, Rice Bowl",10:10 AM,99,17.49,Cash,Old Town,DEL017,3
+CUST2338,"Smoothie, Paneer Tikka, Biryani, Samosa",3:45 AM,25,24.77,UPI,Airport Zone,DEL019,1
+CUST2339,"Pasta, Milkshake, Pizza, Paneer Tikka",2:34 AM,15,7.31,Debit Card,Downtown,DEL049,1.6
+CUST2340,"Wrap, Milkshake, Samosa",7:26 PM,66,12.71,Credit Card,Old Town,DEL073,2.3
+CUST2341,Samosa,9:33 PM,117,8.57,Wallet,City Center,DEL035,3.3
+CUST2342,"Noodles, Hotdog, Juice",9:57 AM,116,11.29,Wallet,Tech Valley,DEL007,1.3
+CUST2343,"Momos, Fries, Noodles",9:10 AM,56,21.5,UPI,Airport Zone,DEL048,4.8
+CUST2344,"Hotdog, Salad",8:18 PM,57,17.26,Cash,Hillview,DEL032,2.5
+CUST2345,Samosa,12:17 PM,51,22.12,Credit Card,Lakeside,DEL078,4.7
+CUST2346,"Fries, Samosa",11:32 PM,85,5.49,Wallet,Riverside,DEL054,4.1
+CUST2347,"Rice Bowl, Samosa",4:19 PM,69,21.9,Debit Card,Uptown,DEL059,4
+CUST2348,Wrap,7:48 PM,86,1.96,Debit Card,City Center,DEL024,3.4
+CUST2349,"Rice Bowl, Fries, Sandwich",9:39 PM,13,22.27,UPI,Uptown,DEL057,3.5
+CUST2350,"Chips, Fries, Noodles, Pasta",11:29 PM,112,8.56,Wallet,Hillview,DEL046,3.6
+CUST2351,"Coke, Biryani, Hotdog, Momos",6:23 PM,11,8.21,Credit Card,Tech Valley,DEL060,3.5
+CUST2352,"Juice, Chips, Salad, Hotdog",2:10 PM,99,13.05,Credit Card,Riverside,DEL065,3.2
+CUST2353,"Smoothie, Noodles, Fries, Pizza",5:58 PM,68,23.55,Debit Card,Lakeside,DEL037,4.9
+CUST2354,"Hotdog, Juice",11:52 AM,36,1.67,Debit Card,Hillview,DEL036,3.9
+CUST2355,"Pizza, Tea, Coke, Juice",3:21 PM,36,9.13,UPI,Sunset Street,DEL055,4.1
+CUST2356,"Biryani, Samosa, Smoothie",8:45 PM,88,21.49,UPI,Tech Valley,DEL067,4.5
+CUST2357,"Paneer Tikka, Sandwich",6:22 PM,81,10.2,UPI,City Center,DEL030,1.9
+CUST2358,"Samosa, Rice Bowl, Fries",4:08 PM,16,5.38,UPI,Green Park,DEL040,1.3
+CUST2359,"Smoothie, Salad, Pasta, Burger",4:47 PM,72,10.91,Debit Card,Metro Square,DEL012,2.9
+CUST2360,"Sandwich, Salad, Hotdog, Pizza",3:53 AM,55,9.95,Cash,Hillview,DEL040,3.1
+CUST2361,Wrap,6:03 PM,72,22.93,Debit Card,City Center,DEL053,4.3
+CUST2362,"Hotdog, Fries, Pizza, Momos",5:09 AM,113,19.17,Debit Card,Airport Zone,DEL041,2.8
+CUST2363,"Pizza, Momos",2:28 AM,21,12.88,Debit Card,Lakeside,DEL012,3.3
+CUST2364,"Chips, Tea",11:37 PM,22,24.72,Wallet,Metro Square,DEL011,3.1
+CUST2365,"Hotdog, Samosa",2:46 PM,52,11.9,Wallet,City Center,DEL010,1.2
+CUST2366,"Milkshake, Hotdog",5:38 PM,26,1.93,Wallet,Tech Valley,DEL031,3.5
+CUST2367,Milkshake,9:57 PM,72,6.93,Debit Card,Airport Zone,DEL012,4.3
+CUST2368,"Paneer Tikka, Fries, Coffee",9:54 PM,90,11.18,Credit Card,Hillview,DEL022,1.6
+CUST2369,"Salad, Wrap",8:53 PM,45,4.34,Wallet,Green Park,DEL074,3.4
+CUST2370,"Pasta, Hotdog",2:52 AM,94,23.72,Cash,Tech Valley,DEL008,3.4
+CUST2371,"Wrap, Juice, Pasta",4:19 AM,17,19.29,UPI,Riverside,DEL011,1.7
+CUST2372,"Tea, Salad",4:34 PM,78,7.07,Credit Card,Riverside,DEL037,1.5
+CUST2373,"Coke, Milkshake, Burger",6:40 AM,99,14.97,Wallet,Lakeside,DEL071,4.9
+CUST2374,"Wrap, Pizza, Biryani, Pasta",7:58 PM,89,18.18,Credit Card,Uptown,DEL064,2.6
+CUST2375,"Smoothie, Coffee",2:57 PM,45,23.56,Wallet,Sunset Street,DEL002,1.9
+CUST2376,"Chips, Paneer Tikka",2:29 AM,37,22.1,Debit Card,City Center,DEL055,1.7
+CUST2377,"Coke, Wrap, Paneer Tikka",12:59 AM,102,13.12,UPI,Airport Zone,DEL066,3.7
+CUST2378,"Rice Bowl, Burger, Hotdog, Pizza",10:48 AM,56,19.48,UPI,Lakeside,DEL018,3.4
+CUST2379,"Chips, Hotdog, Paneer Tikka, Rice Bowl",6:33 PM,85,14.27,Cash,Lakeside,DEL062,3.6
+CUST2380,"Fries, Hotdog, Sandwich, Tea",9:58 AM,110,14.04,Credit Card,Metro Square,DEL064,1.4
+CUST2381,"Rice Bowl, Pizza",8:59 AM,39,3.31,UPI,Hillview,DEL066,4.6
+CUST2382,"Burger, Momos, Biryani, Tea",10:51 AM,32,3.59,Wallet,Downtown,DEL069,2.6
+CUST2383,"Paneer Tikka, Salad",3:50 AM,25,13.47,Wallet,Riverside,DEL016,2.3
+CUST2384,"Samosa, Wrap",8:50 AM,23,7.09,Debit Card,Tech Valley,DEL052,2.8
+CUST2385,Burger,6:27 AM,83,1.02,UPI,Lakeside,DEL002,2.6
+CUST2386,"Juice, Smoothie",3:48 PM,80,18.21,UPI,Hillview,DEL079,4.5
+CUST2387,Salad,5:33 AM,118,1.3,Debit Card,Old Town,DEL025,4.7
+CUST2388,"Hotdog, Sandwich",12:33 PM,61,15.08,Wallet,Metro Square,DEL001,2.2
+CUST2389,Coke,3:05 AM,46,13.71,Wallet,Uptown,DEL055,4.5
+CUST2390,"Rice Bowl, Pizza, Noodles, Paneer Tikka",5:46 AM,38,24.24,UPI,Metro Square,DEL069,4.1
+CUST2391,"Juice, Momos, Wrap, Noodles",6:40 AM,76,12.36,Cash,Uptown,DEL045,4.7
+CUST2392,"Hotdog, Pasta, Salad",12:13 AM,24,2.06,Debit Card,City Center,DEL032,2
+CUST2393,"Sandwich, Wrap, Momos, Chips",4:32 PM,109,14.02,Debit Card,Metro Square,DEL068,3.3
+CUST2394,"Coffee, Pasta, Smoothie",10:48 AM,56,21.11,Debit Card,Tech Valley,DEL078,2.1
+CUST2395,Paneer Tikka,1:54 PM,55,24.92,Cash,Airport Zone,DEL006,4.3
+CUST2396,"Burger, Pizza, Fries",5:07 PM,61,11.04,Debit Card,Tech Valley,DEL078,1
+CUST2397,"Hotdog, Momos, Paneer Tikka",2:36 AM,28,8.35,Wallet,Airport Zone,DEL058,3.3
+CUST2398,Chips,7:39 AM,86,22.71,Wallet,Hillview,DEL022,2.4
+CUST2399,"Wrap, Paneer Tikka",3:53 PM,115,5.19,Debit Card,Lakeside,DEL068,2.3
+CUST2400,"Paneer Tikka, Juice",5:05 PM,30,15.58,UPI,Sunset Street,DEL029,3.6
+CUST2401,Fries,8:58 AM,73,10.44,UPI,Uptown,DEL023,4.4
+CUST2402,"Momos, Biryani, Coke",10:36 AM,46,1.51,Credit Card,Lakeside,DEL010,3.4
+CUST2403,"Sandwich, Rice Bowl",12:56 AM,36,9.01,Debit Card,Tech Valley,DEL047,4.4
+CUST2404,"Chips, Paneer Tikka",12:47 AM,64,7,Wallet,Sunset Street,DEL018,2.1
+CUST2405,"Biryani, Fries, Momos, Wrap",7:42 PM,38,17.31,Wallet,Metro Square,DEL066,3.1
+CUST2406,Rice Bowl,11:36 PM,29,23.75,Wallet,Downtown,DEL046,2.8
+CUST2407,Samosa,8:54 PM,34,7.07,UPI,Tech Valley,DEL007,1
+CUST2408,"Sandwich, Samosa, Rice Bowl, Burger",5:53 AM,79,20.38,Wallet,Metro Square,DEL055,3.2
+CUST2409,"Hotdog, Burger",3:28 AM,72,1.86,Wallet,Old Town,DEL064,3.6
+CUST2410,"Milkshake, Pizza, Samosa, Sandwich",2:36 PM,45,13.68,Wallet,Riverside,DEL049,3.4
+CUST2411,Rice Bowl,1:23 AM,11,2.23,UPI,Riverside,DEL022,3.9
+CUST2412,Burger,10:09 AM,31,23.38,UPI,Green Park,DEL048,3.3
+CUST2413,Smoothie,5:55 PM,105,19.28,Credit Card,Riverside,DEL015,1.3
+CUST2414,"Burger, Samosa, Hotdog, Sandwich",1:59 PM,25,16.62,Wallet,Lakeside,DEL044,1.5
+CUST2415,Rice Bowl,1:37 PM,27,20.69,Debit Card,Uptown,DEL032,3.4
+CUST2416,Pizza,6:14 AM,78,16.36,Debit Card,Downtown,DEL070,2.1
+CUST2417,"Tea, Noodles",11:05 AM,63,24.24,Wallet,Uptown,DEL016,1.3
+CUST2418,"Pasta, Momos, Rice Bowl, Sandwich",8:53 PM,109,17.99,Wallet,Tech Valley,DEL038,2.7
+CUST2419,"Paneer Tikka, Momos, Milkshake",9:20 PM,39,23.15,Debit Card,Uptown,DEL039,3.2
+CUST2420,"Tea, Momos, Salad, Chips",11:32 PM,54,13.17,Debit Card,City Center,DEL062,2.3
+CUST2421,"Pizza, Coffee",5:48 PM,28,3.37,Debit Card,Green Park,DEL038,3.9
+CUST2422,Samosa,12:48 AM,96,13.44,Wallet,Lakeside,DEL034,3.6
+CUST2423,"Hotdog, Burger, Fries",11:29 PM,43,3.61,UPI,Downtown,DEL028,2.3
+CUST2424,"Chips, Salad, Smoothie",11:00 PM,22,15.02,Credit Card,Uptown,DEL001,4
+CUST2425,"Tea, Chips",9:20 PM,52,12.32,Debit Card,Tech Valley,DEL073,3.6
+CUST2426,"Samosa, Wrap, Coffee",6:08 AM,71,15.75,Cash,Airport Zone,DEL051,3.5
+CUST2427,"Samosa, Chips, Paneer Tikka, Momos",9:25 PM,102,0.75,Credit Card,Riverside,DEL028,3.2
+CUST2428,"Juice, Smoothie, Fries",12:47 AM,109,5.27,Cash,Lakeside,DEL040,1
+CUST2429,Momos,11:07 PM,31,12.54,UPI,Lakeside,DEL066,3.8
+CUST2430,"Samosa, Paneer Tikka, Biryani",3:36 AM,61,23.79,Credit Card,Hillview,DEL005,2.5
+CUST2431,Burger,7:50 AM,61,9.9,Wallet,Airport Zone,DEL060,4.8
+CUST2432,"Pizza, Burger",6:05 PM,45,10.9,UPI,Lakeside,DEL080,4.3
+CUST2433,"Coke, Momos",12:15 AM,82,18.01,Cash,Downtown,DEL063,3.4
+CUST2434,"Juice, Salad, Tea, Rice Bowl",5:08 PM,112,15.29,Wallet,Uptown,DEL008,2
+CUST2435,"Smoothie, Coffee, Samosa",6:30 PM,28,7.82,Credit Card,Riverside,DEL046,1.8
+CUST2436,"Chips, Coke",9:08 AM,47,10.57,Wallet,Riverside,DEL001,2.4
+CUST2437,Samosa,8:55 PM,79,5.83,UPI,Riverside,DEL079,2.9
+CUST2438,Samosa,10:22 AM,88,24.17,Cash,Hillview,DEL059,2.2
+CUST2439,"Sandwich, Milkshake, Burger, Juice",3:15 AM,66,3.7,Credit Card,Hillview,DEL043,3.1
+CUST2440,"Biryani, Pasta",11:27 PM,29,9.61,UPI,Riverside,DEL039,1.7
+CUST2441,"Coke, Sandwich, Hotdog, Rice Bowl",1:36 AM,18,1.13,Wallet,Sunset Street,DEL046,4.9
+CUST2442,"Fries, Milkshake, Rice Bowl, Chips",1:44 AM,41,5.93,Wallet,Metro Square,DEL014,1.4
+CUST2443,"Pasta, Samosa, Rice Bowl, Coffee",4:20 PM,13,19.62,UPI,Tech Valley,DEL001,4.7
+CUST2444,Tea,5:51 PM,59,5.43,Wallet,Sunset Street,DEL045,4.7
+CUST2445,"Coke, Hotdog, Chips",3:54 AM,91,2.46,Cash,Metro Square,DEL024,3.1
+CUST2446,"Coffee, Sandwich",4:45 PM,14,12.12,UPI,Riverside,DEL052,3.9
+CUST2447,"Sandwich, Burger",3:02 AM,29,0.74,UPI,Metro Square,DEL046,2.7
+CUST2448,Rice Bowl,9:20 AM,96,2.58,Debit Card,Hillview,DEL002,3.5
+CUST2449,"Smoothie, Biryani, Paneer Tikka",1:56 AM,84,20.29,Cash,Old Town,DEL013,2.4
+CUST2450,"Juice, Milkshake, Coffee, Fries",4:19 AM,46,19.4,Cash,Uptown,DEL056,2.2
+CUST2451,"Pizza, Paneer Tikka, Juice",6:45 AM,31,22.92,Cash,Hillview,DEL063,3.3
+CUST2452,"Coffee, Milkshake, Hotdog",2:13 PM,67,21.44,Cash,Downtown,DEL026,3
+CUST2453,"Coke, Biryani",12:04 PM,77,17.24,Credit Card,Lakeside,DEL011,3.3
+CUST2454,Samosa,10:59 AM,102,1.78,Credit Card,Old Town,DEL068,2.1
+CUST2455,"Pizza, Milkshake, Chips",10:50 PM,53,19.68,Cash,Airport Zone,DEL066,2.5
+CUST2456,Sandwich,4:31 PM,43,21.22,Debit Card,Hillview,DEL020,1.3
+CUST2457,Burger,6:24 AM,86,20.08,Debit Card,Uptown,DEL053,1.2
+CUST2458,Sandwich,12:08 PM,51,12.96,UPI,Airport Zone,DEL016,2
+CUST2459,"Chips, Milkshake",2:05 PM,18,6.21,Wallet,Downtown,DEL063,1.3
+CUST2460,"Burger, Pizza",6:44 AM,115,21.21,Cash,Uptown,DEL001,1.4
+CUST2461,"Coke, Fries, Biryani, Hotdog",11:32 AM,104,18.32,Credit Card,Tech Valley,DEL020,4.3
+CUST2462,"Noodles, Sandwich, Salad, Chips",11:38 PM,16,24.53,UPI,Sunset Street,DEL033,1.2
+CUST2463,Juice,12:36 PM,77,4.31,Cash,Lakeside,DEL029,3.6
+CUST2464,"Burger, Samosa, Paneer Tikka, Chips",7:13 AM,28,6.03,Credit Card,Riverside,DEL061,2.1
+CUST2465,Tea,11:15 AM,115,5.69,Wallet,Downtown,DEL051,4.5
+CUST2466,Pizza,7:03 PM,103,19.92,Cash,Uptown,DEL048,2.9
+CUST2467,Momos,10:00 PM,40,5.08,UPI,Hillview,DEL039,2.2
+CUST2468,Milkshake,8:21 PM,44,2.13,Credit Card,Old Town,DEL047,3.1
+CUST2469,"Burger, Pasta, Sandwich, Pizza",5:20 PM,66,24.96,Cash,Uptown,DEL055,2.5
+CUST2470,"Tea, Fries",1:05 PM,94,1.11,Cash,Uptown,DEL024,3.3
+CUST2471,Coffee,11:40 AM,70,20.96,UPI,Tech Valley,DEL069,1.5
+CUST2472,"Noodles, Coke, Biryani",9:28 AM,40,9.45,Wallet,Downtown,DEL035,5
+CUST2473,"Momos, Smoothie, Hotdog",9:15 PM,92,21.12,Wallet,Hillview,DEL014,2.7
+CUST2474,Momos,2:41 AM,104,14.09,Debit Card,Lakeside,DEL057,2.4
+CUST2475,Chips,10:55 AM,62,22.59,Credit Card,Metro Square,DEL057,3.8
+CUST2476,"Hotdog, Juice, Salad, Noodles",12:52 PM,41,23.19,UPI,Airport Zone,DEL021,2.5
+CUST2477,"Pizza, Milkshake, Rice Bowl",12:15 PM,75,0.72,Wallet,Lakeside,DEL018,4.3
+CUST2478,"Biryani, Chips, Momos",6:31 PM,68,2.35,Debit Card,Metro Square,DEL046,2.8
+CUST2479,Salad,6:11 PM,19,6.63,UPI,Metro Square,DEL056,3.9
+CUST2480,Tea,11:22 AM,11,16.9,Cash,Uptown,DEL001,1.4
+CUST2481,"Momos, Rice Bowl",3:06 AM,75,22.26,Wallet,Downtown,DEL046,4.4
+CUST2482,"Hotdog, Pizza, Coke, Milkshake",12:18 PM,69,11.77,Wallet,Downtown,DEL026,3.9
+CUST2483,"Milkshake, Samosa, Fries, Juice",7:25 AM,97,15.37,Wallet,Hillview,DEL015,1.8
+CUST2484,Noodles,9:39 PM,26,5.12,Debit Card,Metro Square,DEL025,1.6
+CUST2485,"Samosa, Biryani",1:42 AM,105,20.22,Credit Card,City Center,DEL037,2.3
+CUST2486,Sandwich,4:53 AM,25,24.2,Debit Card,Downtown,DEL006,4.9
+CUST2487,Coke,4:58 PM,25,7.08,Credit Card,City Center,DEL018,2
+CUST2488,"Milkshake, Wrap, Burger, Coffee",7:30 AM,55,12.62,UPI,Old Town,DEL051,2.8
+CUST2489,"Wrap, Paneer Tikka, Chips",3:11 PM,48,2.61,UPI,Old Town,DEL054,1.1
+CUST2490,Burger,2:01 PM,40,14.2,Credit Card,Tech Valley,DEL043,2.6
+CUST2491,Pizza,5:34 AM,116,12.82,Cash,Tech Valley,DEL005,3.3
+CUST2492,"Pizza, Burger, Coke, Sandwich",7:26 PM,97,4.04,Credit Card,Uptown,DEL021,4.8
+CUST2493,Wrap,8:24 PM,10,11.33,Wallet,Tech Valley,DEL026,3.1
+CUST2494,"Paneer Tikka, Pasta, Salad",1:00 PM,20,8.69,UPI,Old Town,DEL062,4.3
+CUST2495,Paneer Tikka,10:58 AM,94,13.28,Cash,Downtown,DEL035,3.2
+CUST2496,"Paneer Tikka, Chips, Tea",7:18 AM,13,14.85,Wallet,Airport Zone,DEL016,1.2
+CUST2497,"Fries, Tea",5:33 AM,80,0.71,UPI,Uptown,DEL054,2.3
+CUST2498,"Sandwich, Coke",2:24 AM,35,19.14,UPI,Lakeside,DEL063,3.3
+CUST2499,Paneer Tikka,8:16 AM,59,17.97,Credit Card,Lakeside,DEL071,4.8
+CUST2500,"Wrap, Rice Bowl, Biryani",2:52 AM,21,9.47,UPI,Downtown,DEL064,4.4

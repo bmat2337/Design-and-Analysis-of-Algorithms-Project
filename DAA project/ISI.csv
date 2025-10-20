@@ -1,0 +1,98 @@
+Sl. No.,Subject,Week day,Duration,Batches
+1,Fundamentals of Computing and Programming,Monday,9:55- 10:55,B1
+2,Fundamentals of Computing and Programming,Monday,11.20-12.10,B1
+3,Probability 1,Monday,12.10-13.10,B1
+4,Real Analysis 1,Monday,14.00-15.00,B1
+5,Real Analysis 1,Monday,15.10-16.10,B1
+6,Probability 1,Tuesday,11.10-12.10,B1
+7,Probability 1,Tuesday,12.10-13.10,B1
+8,Real Analysis 1,Tuesday,14.00-15.00,B1
+9,Linear Algebra 1,Wednesday,11.10-12.10,B1
+10,Linear Algebra 1,Wednesday,12.10-13.10,B1
+11,Elementary Number Theory,Wednesday,14.00-15.00,B1
+12,Elementary Number Theory,Wednesday,15.10-16.10,B1
+13,Fundamentals of Computing and Programming,Thursday,9.55-10.55,B1
+14,Fundamentals of Computing and Programming,Thursday,11.10-12.10,B1
+15,Probability 1,Thursday,12.10-13.10,B1
+16,Real Analysis 1,Thursday,14.00-15.00,B1
+17,Linear Algebra 1,Friday,11.10-12.10,B1
+18,Linear Algebra 1,Friday,12.10-13.10,B1
+19,Elementary Number Theory,Friday,14.00-15.00,B1
+20,Elementary Number Theory,Friday,15.10-16.10,B1
+21,Function Space,Monday,8:55-9:55,B3
+22,Function Space,Monday,9:55-10:55,B3
+23,Differential Geometry and Lie Groups,Monday,11:10-12:10,B3
+24,Differential Geometry and Lie Groups,Monday,12:10-13.10,B3
+25,Algebraic Topology,Monday,14:00-15:00,B3
+26,Algebraic Topology,Monday,15:10-16:10,B3
+27,Economics 1,Monday,15:10-16:10,B3
+28,Economics 1,Monday,16:10-17:10,B3
+29,Representation theory of finite Groups,Tuesday,8:55-9:55,B3
+30,Representation theory of finite Groups,Tuesday,9:55-10:55,B3
+31,Field and Galois theory,Tuesday,11:10-12:10,B3
+32,Field and Galois theory,Tuesday,12:10-13.10,B3
+33,Probability III,Tuesday,14:00-15:00,B3
+34,Student Colloquium,Tuesday,15:10-16:10,B3
+35,Algebraic Topology,Tuesday,16:10-17:10,B3
+36,Function Space,Wednesday,8:55-9:55,B3
+37,Probability III,Wednesday,9:55-10:55,B3
+38,Probability III,Wednesday,11:10-12:10,B3
+39,Differential Geometry and Lie Groups,Wednesday,12:10-13:10,B3
+40,Intro to Schotastic Process,Wednesday,14:00-15:00,B3
+41,Intro to Schotastic Process,Wednesday,15:10-16:10,B3
+42,Intro to Schotastic Process,Wednesday,16:10-17:10,B3
+43,Intro to Schotastic Process,Wednesday,17:10-18:10,B3
+44,Field and Galois theory,Thursday,11:10-12:10,B3
+45,Field and Galois theory,Thursday,12:10-13:10,B3
+46,Representation theory of finite Groups,Thursday,8:55-9:55,B3
+47,Representation theory of finite Groups,Thursday,9:55-10:55,B3
+48,Probability III,Thursday,14:00-15:00,B3
+49,Differential Geometry and Lie Groups,Thursday,15.10-16:10,B3
+50,Algebraic Topology,Thursday,16:10-17:10,B3
+51,Design and analysis algorithm,Friday,8:55-9:55,B3
+52,Design and analysis algorithm,Friday,9:55-10:55,B3
+53,Design and analysis algorithm,Friday,11:10-12:10,B3
+54,Design and analysis algorithm,Friday,12:10-13:10,B3
+55,Function Space,Friday,14:00-15:00,B3
+56,Economics 1,Friday,15:10-16:10,B3
+57,Economics 1,Friday,16:10-17:10,B3
+58,Topology I,Monday,8:55-9:55,M1
+59,Topology I,Monday,9:55-10:55,M1
+60,Linear Algebra,Monday,11:10-12:10,M1
+61,Linear Algebra,Monday,12:10-13:10,M1
+62,Algebra I,Tuesday,8:55-9:55,M1
+63,Analysis of Several Variables,Tuesday,9:55-10:55,M1
+64,Measure Theory,Tuesday,11:10-12:10,M1
+65,Measure Theory,Tuesday,12:10-13:10,M1
+66,Topology I,Wednesday,8:55-9:55,M1
+67,Topology I,Wednesday,9:55-10:55,M1
+68,Linear Algebra,Wednesday,11:10-12:10,M1
+69,Linear Algebra,Wednesday,12:10-13:10,M1
+70,Algebra I,Thursday,9:55-10:55,M1
+71,Analysis of Several Variables,Thursday,11:10-12:10,M1
+72,Measure Theory,Thursday,12:10-13:10,M1
+73,Measure Theory,Thursday,14:00-15:00,M1
+74,Algebra I,Friday,8:55-9:55,M1
+75,Algebra I,Friday,9:55-10:55,M1
+76,Analysis of Several Variables,Friday,11:10-12:10,M1
+77,Analysis of Several Variables,Friday,12:10-13:10,M1
+78,Classical Mechanics,Monday,11:10-12:10,B2
+79,Classical Mechanics,Monday,12:10-13:10,B2
+80,Analysis of Several Variables,Monday,14:00-15:10,B2
+81,Analysis of Several Variables,Monday,15:10-16:10,B2
+82,Group Theory,Tuesday,11:10-12:10,B2
+83,Group Theory,Tuesday,12:10-13:10,B2
+84,Discrete Mathematics,Tuesday,14:00-15:00,B2
+85,Discrete Mathematics,Tuesday,16:10-17:10,B2
+86,Classical Mechanics,Wednesday,11:10-12:10,B2
+87,Classical Mechanics,Wednesday,12:10-13:10,B2
+88,Intro to Statistical Inference,Wednesday,14:00-15:00,B2
+89,Analysis of Several Variables,Wednesday,15:10-16:10,B2
+90,Analysis of Several Variables,Wednesday,16:10-17:10,B2
+91,Group Theory,Thursday,11:10-12:10,B2
+92,Group Theory,Thursday,12:10-13:10,B2
+93,Discrete Mathematics,Thursday,14:00-15:00,B2
+94,Discrete Mathematics,Thursday,16:10-17:10,B2
+95,Intro to Statistical Inference,Friday,11:10-12:10,B2
+96,Intro to Statistical Inference,Friday,12:10-13:10,B2
+97,Intro to Statistical Inference,Friday,14:00-15:00,B2
